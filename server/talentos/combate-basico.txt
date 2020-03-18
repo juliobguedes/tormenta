@@ -1,0 +1,397 @@
+Acerto Crítico Aprimorado
+Escolha uma arma. Você sabe desferir golpes mortais com a arma escolhida.
+Pré-requisitos: Foco em Arma com a arma escolhida, bônus base de ataque +8.
+Benefício: sua margem de ameaça com a arma escolhida é dobrada. Este efeito não se acumula com qualquer outro que dobre a margem de ameaça, e é sempre o primeiro a ser aplicado.
+
+Acuidade com Arma
+Você é especialmente ágil com armas leves, que usam mais agilidade do que força bruta.
+Pré-requisito: Des 13.
+Benefício: quando usa armas de corpo-a-corpo leves, você pode usar seu modificador de Destreza em vez de Força em joga- das de ataque. Se estiver usando este talento e um escudo, aplique a penalidade de armadura do escudo em jogadas de ataque.
+
+Agarrar Aprimorado
+Você consegue agarrar melhor seus oponentes.
+Pré-requisitos: For 13, Ataque Desarmado Aprimorado.
+Benefício: você recebe +4 em jogadas de ataque para agarrar.
+
+Apanhar Objetos
+Você pode apanhar flechas, adagas e outras armas arremessa- das ou disparadas contra você.
+Pré-requisitos: Des 15, Ataque Desarmado Aprimorado, Desviar Objetos.
+Benefício: quando usa o talento Desviar Objetos, você pode apanhar a arma ao invés de apenas desviá-la. Armas de arremesso podem ser atiradas de volta ao oponente como uma reação.
+
+Aparar
+Você pode usar sua arma para bloquear ataques.
+Pré-requisitos: Des 15, Acuidade com Arma, Especialização em Combate, bônus base de ataque +6.
+Benefício: uma vez por rodada, você pode tentar aparar um ataque que iria atingi-lo. Faça uma jogada de ataque. Se o resultado da sua jogada for maior que a do oponente, você evita o ataque. Você só pode usar este talento se estiver usando uma arma afetada pelo talento Acuidade com Arma.
+
+Aparência Inofensiva
+Por algum motivo — ser uma mulher, parecer fraco, ser de tamanho Pequeno... — você não parece perigoso. Isso faz com que seus inimigos hesitem antes de atacá-lo.
+Pré-requisito: Car 13.
+Benefício: a primeira criatura inteligente (Int 3 ou mais) que atacar você em um combate deve fazer um teste de Intuição (CD 10 + metade do seu nível + seu modificador de Carisma). Se falhar, perderá sua ação. Este talento só funciona uma vez por combate; isto é, independente da criatura falhar ou não no teste, poderá atacar você normalmente nas rodadas seguintes.
+
+Ataque Atordoante
+Você sabe atingir áreas vulneráveis de seus inimigos.
+Pré-requisitos: Sab 13, Ataque Desarmado Aprimorado.
+Benefício: declare que está usando este talento antes de fazer um ataque desarmado. Se você acertar o ataque, além de sofrer o dano normal, a vítima deve fazer um teste de Fortitude (CD 10 + metade do seu nível + modificador de Sabedoria). Se falhar, fica atordoada por uma rodada. Você pode usar este talento um número de vezes por dia igual a 1 + seu modificador de Sabedoria. Criaturas imunes a acertos críticos não podem ser atordoadas.
+Especial: você pode escolher este talento diversas vezes. Cada vez que é escolhido além da primeira, você recebe mais duas utili- zações por dia.
+
+Ataque com Escudo Aprimorado
+Você sabe golpear com seu escudo sem perder sua proteção.
+Pré-requisito: Usar Escudo.
+Benefício: quando você ataca com o escudo, mantém seu bô- nus na CA.
+Normal: um personagem que ataque com seu escudo perde o bônus que ele fornece à CA até sua próxima rodada.
+
+Ataque Desarmado Aprimorado
+Você sabe lutar sem armas.
+Benefício: seus ataques desarmados causam 1d4 pontos de dano, e podem causar dano letal ou não-letal (à sua escolha).
+Normal: sem este talento, ataques desarmados causam 1d3 pontos de dano, e podem causar apenas dano não letal.
+Especial: este dano é para criaturas de tamanho Médio. Se você pertence a outra categoria de tamanho, consulte a Tabela 7-4: Dano de Armas por Tamanho para saber seu dano desarmado.
+
+Ataque Duplo
+Escolha uma arma. Você consegue atacar com velocidade im- pressionante com a arma escolhida.
+Pré-requisitos: Foco em Arma com a arma escolhida, bônus base de ataque +6.
+Benefício: quando faz um ataque com a arma escolhida, você pode fazer um ataque adicional na mesma ação padrão, mas sofre penalidade de –5 em ambas as jogadas de ataque.
+
+Ataque em Movimento
+Você faz ataques rápidos e se movimenta com agilidade.
+Pré-requisitos: Des 13, Esquiva, Mobilidade, bônus base de ataque +4.
+Benefício: quando estiver atacando corpo-a-corpo, você pode se mover antes e depois do ataque, desde que a distância total per- corrida não seja maior que seu deslocamento. Você não pode usar este talento se estiver de armadura pesada.
+Normal: você pode se mover antes ou depois de um ataque, mas não ambos.
+
+Ataque Giratório
+Você é capaz de atacar todos os oponentes à sua volta em combate corpo-a-corpo.
+Pré-requisitos: Des 13, Int 13, Esquiva, Mo- bilidade, Ataque em Movimento, Especialização em Combate, bônus base de ataque +4.
+Benefício: você pode fazer um ataque corpo- -a-corpo contra cada oponente adjacente. Usar este talento é uma ação completa.
+
+Ataque Poderoso
+Você pode sacrificar a precisão para desferir um golpe destruidor.
+Pré-requisito: For 13.
+Benefício: declare que está usando este talento antes de fazer um ataque corpo-a-corpo. Você sofre uma penalidade de –2 na jogada de ataque, mas rece- be +4 na jogada de dano.
+
+Ataque Preciso
+Com lâminas leves, você sabe golpear com precisão mortal.
+Pré-requisitos: Des 15, Acuidade com Arma, Especialização em Combate, bônus base de ataque +11.
+Benefício: quando usa uma arma afe- tada pelo talento Acuidade com Arma, você causa 1d6 pontos de dano adicional.
+
+Ataque Sagaz
+Sua espada é ágil, e também atinge os lugares certos.
+Pré-requisitos: Int 13, Acui- dade com Arma, bônus base de ataque +4.
+Benefício: quando usa uma arma afetada pelo talento Acui- dade com Arma, você soma seu modificador de Inteligência (além do modificador de Força) em jogadas de dano.
+
+Atropelar Aprimorado
+Você não tem medo de passar por cima de seus oponentes.
+Pré-requisitos: For 13, Ataque Poderoso.
+Benefício: quando você realiza a manobra atropelar, o alvo não pode escolher evitá-lo. Além disso, você recebe +4 em jogadas de ataque para atropelar.
+
+Bloqueio Ambidestro
+Você é habilidoso em se defender usando duas armas ou uma arma dupla.
+Pré-requisitos: Des 15, Combater com Duas Armas.
+Benefício: quando estiver usando duas armas ou uma arma dupla, você recebe +1 na classe de armadura.
+
+Casca Grossa
+Sua pele dura e calejada resiste a ferimentos.
+Pré-requisito: Con 13.
+Benefício: você soma seu bônus de Constituição na CA. Este bônus não é cumulativo com armaduras.
+
+Combate Montado
+Você sabe lutar cavalgando.
+Pré-requisito: treinado em Cavalgar.
+Benefício: uma vez por rodada, você pode tentar desviar um ataque que iria atingir sua montaria. Faça um teste de Cavalgar. Se o resultado for maior que a jogada de ataque do oponente, você evita o ataque.
+
+Combater com Duas Armas
+Você é treinado em usar uma arma em cada mão.
+Pré-requisito: Des 15.
+Benefício: se estiver usando uma arma de uma mão e uma arma leve, ou duas armas leves, você pode fazer dois ataques com a mesma ação padrão, um com cada uma. No entanto, você sofre penalidade de –4 em ambas as jogadas de ataque.
+
+Combater Com Duas Armas Aprimorado
+Você é muito bem treinado em usar uma arma em cada mão.
+Pré-requisitos: Des 17, Combater com Duas Armas, bônus base de ataque +6.
+Benefício: usando o talento Combater com Duas Armas, sua penalidade em jogadas de ataque diminui para –2.
+
+Combater Com Duas Armas Maior
+Você é um mestre em usar uma arma em cada mão.
+Pré-requisitos: Des 19, Combater Com Duas Armas, Com- bater Com Duas Armas Aprimorado, bônus base de ataque +11.
+Benefício: usando o talento Combater com Duas Armas, você não sofre nenhuma penalidade em jogadas de ataque.
+
+Derrubar Aprimorado
+Você sabe derrubar inimigos em combate corpo-a-corpo.
+Pré-requisitos: Int 13, Especialização em Combate.
+Benefício: +4 em testes de derrubar.
+
+Desarmar Aprimorado
+Você sabe desarmar inimigos em combate corpo-a-corpo.
+Pré-requisitos: Int 13, Especialização em Combate.
+Benefício: +4 em testes de desarmar.
+
+Desviar Objetos
+Você pode desviar flechas, adagas e outras armas arremessadas ou disparadas contra você.
+Pré-requisitos: Des 13, Ataque Desarmado Aprimorado.
+Benefício: você pode tentar desviar um ataque à distância que iria atingi-lo. Faça um teste de Reflexos. Se o resultado do seu teste for maior que a jogada de ataque do oponente, você evita o ataque. Você só pode usar este talento se estiver com uma mão livre. Armas muito grandes (como pedras de catapulta) ou criadas por magia não podem ser desviadas.
+
+Duro de Matar
+Você resiste a ferimentos que fariam outros cair.
+Benefício: quando você sofre dano que poderia levá-lo a 0 ou menos pontos de vida, você pode ignorar completamente esse dano. Você pode usar este talento uma vez por dia.
+
+Empunhadura Poderosa
+Você consegue usar armas grandes. Exageradamente grandes.
+Pré-requisito: For 17.
+Benefício: ao usar armas uma categoria de tamanho acima da sua, sua penalidade cai para –2.
+Normal: um personagem sem este talento usando uma arma uma categoria de tamanho acima da própria sofre penalidade de –4 em jogadas de ataque.
+
+Empurrar Aprimorado
+Você sabe como fazer seus inimigos recuarem.
+Pré-requisitos: Força 13, Ataque Poderoso.
+Benefício: +4 em jogadas de ataque para empurrar.
+
+Especialização em Arma
+Escolha uma arma. Seus golpes com a arma escolhida causam ferimentos profundos.
+Pré-requisitos: Foco em Arma com a arma escolhida, guer- reiro 4o nível.
+Benefício: usando a arma escolhida, você recebe +2 em jo- gadas de dano.
+
+Especialização em Arma Aprimorada
+Escolha uma arma. Seus golpes com a arma escolhida causam ferimentos terríveis.
+Pré-requisitos: Foco em Arma, Foco em Arma Aprimorado, Especialização em Arma com a arma escolhida, guerreiro 12o nível.
+Benefício: seu bônus no dano pelo talento Especialização em Arma aumenta para +4.
+
+Especialização em Armadura
+Escolha um tipo de armadura entre leve, média ou pesada. Você sabe usar esse tipo de armadura para absorver os golpes.
+Pré-requisito: Foco em Armadura do tipo escolhido, guer- reiro 8o nível.
+Benefício: quando usando uma armadura do tipo escolhido, você recebe redução de dano 2.
+
+Especialização em Combate
+Você é capaz de usar suas habilidades de combate tanto para atacar quanto para se defender.
+Pré-requisitos: Int 13.
+Benefício: declare que está usando este talento antes de fazer um ataque corpo-a-corpo. Você sofre –2 na jogada de ataque, mas recebe +4 na classe de armadura até o próximo turno.
+
+Esquiva
+Você é bom em esquivar-se de golpes.
+Pré-requisitos: Des 13.
+Benefício: você recebe CA+1.
+
+Fintar Aprimorado
+Você sabe como distrair seus adversários em combate.
+Pré-requisitos: Int 13, Especialização em Combate.
+Benefício: você pode realizar um teste de Enganação para fin- tar em combate usando uma ação de movimento.
+Normal: fintar em combate exige uma ação padrão.
+
+Flerte Estratégico
+Em pleno combate, você consegue seduzir ou embaraçar seus inimigos com uma manobra audaciosa (e nada educada). Por exemplo, beijando sua adversária durante a luta, colocando uma rosa em seu cabelo, usando a espada para rasgar sua roupa e revelar partes interessantes de sua anatomia...
+Pré-requisitos: Car 13, Fintar Aprimorado.
+Benefício: faça uma finta em combate contra um inimigo que possa se sentir fisicamente atraído por você. Se for bem-sucedi- do, sua vítima fica embaraçada e sofre penalidade de –2 em jogadas e testes até o fim do combate.
+
+Foco em Arma
+Escolha uma arma. Você sabe lutar melhor com a arma esco- lhida. “Ataque desarmado” também pode ser escolhido como arma para este talento.
+Pré-requisitos: saber usar a arma escolhida, bônus base de ataque +1.
+Benefício: +1 em jogadas de ataque com a arma escolhida.
+
+Foco em Arma Aprimorado
+Escolha uma arma. Você sabe lutar ainda melhor com ela.
+Pré-requisitos: Foco em Arma com a arma escolhida, guer- reiro 8o nível.
+Benefício: o bônus que você recebe pelo talento Foco em Arma aumenta para +2.
+
+Foco em Armadura
+Escolha um tipo de armadura entre leve, média ou pesada. Você é mais hábil em defesa e movimento com esse tipo.
+Pré-requisito: saber usar o tipo de armadura escolhido.
+Benefício: quando usando uma armadura do tipo escolhido, você aumenta seu bônus de armadura em +1 e diminui sua penali- dade de armadura em –1.
+
+Golpe com Duas Mãos
+Você consegue canalizar toda a sua força quando usa uma arma com as duas mãos.
+Pré-requisito: For 15, Ataque Poderoso.
+Benefício: quando usando uma arma de corpo-a-corpo com as duas mãos, você soma o dobro de seu modificador de Força às jogadas de dano. Este talento não pode ser usado com armas leves.
+Normal: sem este talento, ao usar armas de duas mãos, você apenas soma seu modificador de Força ao dano.
+
+Granadeiro
+Explodir tudo é a forma mais garantida de causar dano ao inimigo. Mesmo que, às vezes, algum aliado também acabe se ma- chucando um bocadinho...
+Pré-requisito: treinado em Ofício (alquimia).
+Benefício: você recebe +2 em jogadas de ataque e dano com quaisquer armas que permitem um teste de Reflexos para reduzir seu efeito, como fogo alquímico e granadas.
+
+Insulto Sagaz
+Você sabe dizer barbaridades sobre seu adversário, deixando-o tão furioso que prejudica seu desempenho em combate.
+Pré-requisitos: Car 13, Fintar Aprimorado.
+Benefício: faça uma finta em combate. Se for bem-sucedido, seu oponente fica enfurecido e sofre uma penalidade de –2 na CA até o fim do combate.
+
+Investida Implacável
+Você realiza ataques devastadores cavalgando em investida.
+Pré-requisitos: treinado em Cavalgar, Combate Montado, Investida Montada.
+Benefício: quando está montado e faz uma investida, você causa dano dobrado com uma arma comum, ou triplicado com uma lança.
+
+Investida Montada
+Você é mais eficiente fazendo ataques de investida quando está cavalgando.
+Pré-requisitos: treinado em Cavalgar, Combate Montado.
+Benefício: quando está montado e faz uma investida, você pode continuar se movendo depois do ataque. Você deve continuar se movendo em linha reta, e seu movimento total na rodada não pode ser superior ao dobro do deslocamento da montaria.
+
+Lutar às Cegas
+Você tem maiores chances de atingir alvos que não possa ver.
+Benefício: sempre que você erra um ataque devido a camufla- gem, pode rolar mais uma vez a chance de acertar. Além disso, você não fica desprevenido contra inimigos que não possa ver.
+Normal: um personagem sem este talento fica desprevenido contra inimigos que não possa ver.
+
+Mestre em Arma
+Escolha uma arma. Você é um dos melhores guerreiros do mundo com a arma escolhida.
+Pré-requisitos: Especialização em Arma, Especialização emArma Aprimorada, Foco em Arma, Foco em Arma Aprimorado (todos com a arma escolhida), guerreiro 16o nível.
+Benefício: usando a arma escolhida, você recebe +1 em jo- gadas de ataque e dano, e sua margem de ameaça aumenta em 1. Além disso, uma vez por dia, você pode rolar outra vez uma jogada de ataque que tenha recém realizado. Você deve aceitar a segunda rolagem, mesmo que seja pior que a primeira.
+Especial: este talento se acumula com quaisquer outros efei- tos que aumentem a margem de ameaça de uma arma, mas é o úl- timo efeito a ser considerado. Assim, um personagem com Mestre em Arma e Acerto Crítico Aprimorado (machado de guerra) tem margem de ameaça 18-20.
+
+Mira Apurada
+Seus tiros têm precisão mortal.
+Pré-requisitos: Sab 13, Tiro Certeiro, Tiro Longo.
+Benefício: você pode gastar uma ação de movimento para mirar um alvo. Se fizer isso, recebe +1 em jogadas de ataque à distância realizadas contra ele na mesma rodada.
+
+Mira Mortal
+Entre os olhos. No coração. São lugares onde seus tiros cos- tumam acertar!
+Pré-requisitos: Des 17, Sab 13, Mira Apurada, Tiro Certeiro, Tiro Longo, bônus base de ataque +11.
+Benefício: sua margem de ameaça com armas de projéteis aumenta em 1. Por exemplo, a margem de ameaça da pistola é 19- 20; para um personagem com este talento, será 18-20.
+Especial: este talento se acumula com quaisquer outros efeitos que aumentem a margem de ameaça de uma arma, mas é o último efeito a ser considerado. Assim, um personagem com Mira Mortal e Acerto Crítico Aprimorado (pistola) tem margem de ameaça 16-20.
+
+Mobilidade
+Você é hábil em esquivar-se enquanto se movimenta.
+Pré-requisitos: Des 13, Esquiva.
+Benefício: você recebe +2 na CA sempre que usa uma ação de movimento para deslocar-se.
+
+Na Mosca
+Sua mira é incrível, e seus disparos acertam onde dói mais.
+Pré-requisitos: Des 13, Tiro Certeiro, Tiro Preciso.
+Benefício: você soma seu modificador de Destreza em joga- das de dano com armas de ataque à distância.
+
+Panache
+Você tem a (irritante) habilidade de humilhar seus oponentes em combate. Você pode trocar a espada de mão no meio da luta, ar- rancar os botões da camisa do oponente, derrubar seu charuto com um tiro, riscar sua inicial nas roupas dele com a ponta da espada...
+Pré-requisitos: Car 13, Fintar Aprimorado.
+Benefício: faça uma finta em combate. Se for bem-sucedido, seu oponente fica espantado com a manobra, e no próximo turno só pode realizar uma ação padrão.
+
+Perito em Arma
+Escolha uma arma. Você consegue usar a arma escolhida para realizar façanhas incríveis.
+Pré-requisitos: Des 13, Int 13, Acuidade com Arma, Foco em Arma com a arma escolhida.
+Benefício: graças a uma extrema habilidade com a arma, que funciona como uma verdadeira extensão de seu corpo, você pode substituir um teste de qualquer perícia por uma jogada de ataque com a arma escolhida. Você pode, por exemplo, usar uma espada para destrancar uma fechadura (Ladinagem), como suporte para subir em algo (Atletismo), como apoio para uma cambalhota (Acrobacia), para fazer manobras impressionantes (Atuação) e assim por diante. Você pode usar este talento um número de vezes por dia igual a seu bônus de Carisma.
+
+Pisotear
+Você sabe usar sua montaria para atropelar oponentes.
+Pré-requisitos: treinado em Cavalgar, Combate Montado.
+Benefício: quando está montado e realiza a manobra atro- pelar, o alvo não pode escolher evitá-lo. Além disso, se a montaria derrubar um oponente, pode fazer um ataque contra esse oponente como uma ação livre (recebendo o bônus padrão de +4 em jogadas de ataque contra oponentes caídos).
+
+Rapidez de Recarga
+Escolha uma arma de disparo (como besta, funda ou pistola). Você recarrega a arma escolhida muito rapidamente.
+Pré-requisitos: saber usar a arma escolhida.
+Benefício: a ação necessária para recarregar a arma escolhida diminui em uma categoria — ação completa vira padrão, padrão vira de movimento, e de movimento vira livre. Por exemplo, recarregar um mosquete normalmente é uma ação padrão, mas para um personagem com este talento é uma ação de movimento.
+
+Reflexos de Combate
+Você consegue reagir rapidamente contra oponentes com a guarda baixa.
+Pré-requisito: Des 13.
+Benefício: se estiver adjacente a um oponente desprevenido, você pode fazer um ataque corpo-a-corpo contra ele como uma ação livre.
+
+Saque Rápido
+Você consegue sacar sua arma mais rápido que o normal.
+Benefício: você pode sacar ou guardar uma arma como uma ação livre.
+Normal: sem este talento, sacar ou guardar uma arma exige uma ação de movimento.
+
+Separar Aprimorado
+Você sabe atingir a arma do oponente, ou outro objeto que ele esteja carregando.
+Pré-requisitos: For 13, Ataque Poderoso.
+Benefício: você recebe +4 em jogadas de ataque para separar. Além disso, você causa dano dobrado contra objetos.
+
+Tiro Certeiro
+Você é capaz de disparos precisos contra alvos próximos.
+Benefício: você recebe +1 em jogadas de ataque e dano com armas de ataque à distância contra alvos que estejam a até 9m.
+
+Tiro em Movimento
+Você faz disparos rápidos e se movimenta com agilidade.
+Pré-requisitos: Des 13, Esquiva, Mobilidade, Tiro Certeiro, bônus base de ataque +4.
+Benefício: quando estiver atacando à distância, você pode se mover antes e depois do ataque, desde que a distância total percor- rida não seja maior que seu deslocamento. Você não pode usar este talento se estiver de armadura pesada.
+Normal: você pode se mover antes ou depois de um ataque, mas não ambos.
+
+Tiro Longo
+Seus disparos de longa dis- tância vão muito mais longe.
+Pré-requisito: Tiro Certeiro.
+Benefício: o incremento de dis- tância de qualquer arma que você uti- liza é dobrado.
+
+Tiro Montado
+Você é talentoso em atacar à distân- cia enquanto cavalga.
+Pré-requisitos: treinado em Cavalgar, Combate Montado.
+Benefício: sua penalidade para ataques à distân- cia quando sua montaria se movimenta é reduzida para –2.
+Normal: um personagem sem este talen- to sofre uma penalidade de –4 em jogadas de ataque à distância se, na mesma rodada, sua montaria se movimentou.
+
+Tiro Múltiplo
+Você atira mais em menos tempo.
+Pré-requisitos: Des 17, Tiro Certeiro, Tiro Rápido, bônus base de ataque +6.
+Benefício: usando uma ação padrão e uma arma de projéteis, você pode fazer dois ataques contra um único oponente a até 9m. Ambos usam a mesma jogada (com penali- dade de –4) e causam dano normalmente.
+Especial: em caso de acerto crítico, apenas o primeiro ataque causa dano multiplicado; o segundo ataque causa dano normal.
+
+Tiro Preciso
+Você é capaz de mirar e disparar no momento certo.
+Pré-requisitos: Tiro Certeiro.
+Benefício: você pode fazer ataques à distância contra oponen- tes envolvidos em combate corpo-a-corpo sem sofrer a penalidade de –4 na jogada de ataque.
+Normal: um personagem sem este talento sofre uma penali- dade de –4 nos ataques à distância contra oponentes envolvidos em combate corpo-a-corpo.
+
+Tiro Preciso Aprimorado
+Sua mira é infalível.
+Pré-requisitos: Des 19, Tiro Certeiro, Tiro Preciso, bônus base de ataque +11.
+Benefício: seus ataques à distância ignoram cobertura e camuflagem (exceto cobertura ou camuflagem totais). Além disso, quando ataca um alvo envolvido na ma- nobra agarrar, você acerta automaticamente o alvo que escolheu.
+Normal: um personagem sem este talento atacando um alvo envolvido na manobra agar- rar deve determinar aleatoriamente qual alvo ele acerta.
+
+Tiro Rápido
+Você é muito rápido atacan- do à distância.
+Pré-requisitos: Des 13, Tiro Certeiro.
+Benefício: usando uma arma de ataque à distância, você pode fazer um ataque adi- cional. Se fizer isso, sofre uma penalidade de –2 em todas as jo- gadas de ataque. Usar este talento é uma ação completa.
+
+Torcida
+Você luta melhor quando há fãs tor- cendo por você.
+Pré-requisito: Car 13.
+Benefício: você recebe +1 em jogadas de ataque, CA e testes de resistência quando tem a torcida a seu favor, durante uma luta ou outro tipo de disputa. Entenda-se por “torcida” qualquer número de pessoas ou criaturas inteligentes (mesmo que seja apenas uma!) que não está realizando nenhuma outra ação além de ver a luta. Você só recebe este benefí- cio quando a maioria das pessoas presentes na cena está gritando seu nome ou torcendo por sua vitória.
+Especial: a reação de uma torcida depende do mestre, mas você pode tentar um teste de Atuação ou Diplomacia (CD 20) como uma ação padrão para cair nas graças dos torcedores.
+
+Trespassar
+Quando você derruba um inimigo, pode continuar o golpe e acertar outro alvo.
+Pré-requisitos: For 13, Ataque Poderoso.
+Benefício: quando você derruba um inimigo com um ataque corpo-a-corpo (reduzindo seus PV para 0 ou menos), pode realizar um ataque adicional contra outra criatura adjacente. O ataque adicional usa os mesmos bônus de ataque e dano do primeiro, mas os dados devem ser rolados novamente. Você pode usar este talento uma vez por rodada.
+
+Trespassar Aprimorado
+Você empunha suas armas com tanta força que um golpe seu pode derrubar diversos inimigos.
+Pré-requisitos: For 13, Ataque Poderoso, Trespassar, bônus base de ataque +4.
+Benefício: você pode usar o talento Trespassar quantas vezes quiser na mesma rodada.
+
+Usar Armas Simples
+Você foi treinado para usar todas as armas simples, como adaga e bordão.
+Benefício: você sabe usar armas simples.
+Normal: um personagem atacando com uma arma que não saiba usar sofre penalidade de –4 em jogadas de ataque.
+
+Usar Armas Marciais
+Você foi treinado para usar todas as armas marciais, como espada longa e machado de guerra.
+Pré-requisito: Usar Armas Simples.
+Benefício: você sabe usar armas marciais.
+Normal: um personagem atacando com uma arma que não saiba usar sofre penalidade de –4 em jogadas de ataque.
+
+Usar Arma Exótica
+Escolha uma arma exótica, como katana ou pistola. Você foi treinado para usar esta arma.
+Pré-requisito: Usar Armas Simples.
+Benefício: você sabe usar a arma escolhida.
+Normal: um personagem atacando com uma arma que não saiba usar sofre penalidade de –4 em jogadas de ataque.
+
+Usar Armaduras Leves
+Você foi treinado para usar armaduras leves.
+Benefício: você sabe usar armadura acolchoada, corselete de couro, couro batido, camisa de cota de malha e outras armaduras leves.
+Normal: um personagem vestindo uma armadura que não saiba usar aplica sua penalidade de armadura em jogadas de ataque e testes de perícias baseadas em Força e Destreza.
+
+Usar Armaduras Médias
+Você foi treinado para usar armaduras médias.
+Pré-requisito: Usar Armaduras Leves
+Benefício: você sabe usar cota de escamas, cota de malha, couraça, gibão de peles e outras armaduras médias.
+Normal: um personagem vestindo uma armadura que não saiba usar aplica sua penalidade de armadura em jogadas de ataque e testes de perícias baseadas em Força e Destreza.
+
+Usar Armaduras Pesadas
+Você foi treinado para usar armaduras pesadas.
+Pré-requisito: Usar Armaduras (leves, médias)
+Benefício: você sabe usar loriga segmentada, meia armadura, armadura completa e outras armaduras pesadas.
+Normal: um personagem vestindo uma armadura que não saiba usar aplica sua penalidade de armadura em jogadas de ataque e testes de perícias baseadas em Força e Destreza.
+
+Usar Escudos
+Você sabe lutar com escudos.
+Benefício: você sabe usar escudos leves e pesados.
+Normal: um personagem equipado com um escudo que não saiba usar aplica sua penalidade de armadura em jogadas de ataque e testes de perícias baseadas em Força e Destreza.
+
+Usar Venenos
+Você faz o que muitos consideram desleal: usar venenos para deixar suas armas mais perigosas.
+Pré-requisitos: treinado em Ofício (alquimia), tendência não Bondosa.
+Benefício: você pode aplicar veneno em armas sem risco de se envenenar acidentalmente.
+Normal: um personagem sem este talento que aplique vene- no em uma arma tem 10% de chance de expor-se acidentalmente ao veneno.
+
+Vitalidade
+Você suporta mais ferimentos que outras pessoas.
+Benefício: você recebe 1 ponto de vida adicional por nível de personagem. Quando sobe de nível, os PV que recebe por este talento aumentam de acordo. Por exemplo, se escolher este talento no 3o nível, recebe 3 PV. Chegando ao 4o nível, recebe +1 PV, e assim por diante.
+Especial: você pode escolher este talento diversas vezes. Seus efeitos se acumulam.

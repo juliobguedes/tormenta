@@ -1,0 +1,75 @@
+Círculo Místico Dourado
+Você pode criar um pequeno santuário para abençoar seus ataques.
+Pré-requisito: habilidade de classe canalizar energia positiva/negativa.
+Benefício: gaste uma ação padrão e um uso diário de cana- lizar energia positiva/negativa para criar um círculo místico aos seus pés. Um personagem dentro do círculo ganha um bônus de +2 em todos seus ataques. O círculo ocupa um quadrado com 1,5m de lado e dura 10 minutos.
+
+Círculo Místico Prateado
+Você pode criar um pequeno santuário para aprimorar suas defesas.
+Pré-requisito: habilidade de classe canalizar energia positiva/negativa.
+Benefício: gaste uma ação padrão e um uso diário de cana- lizar energia positiva/negativa para criar um círculo místico aos seus pés. Um personagem dentro do círculo ganha um bônus de +2 na CA e em todos os testes de resistência. O círculo ocupa um quadrado com 1,5m de lado e dura 10 minutos.
+
+Círculo Místico Púrpura
+Você pode criar um pequeno santuário para abençoar suas magias.
+Pré-requisito: habilidade de classe canalizar energia po- sitiva/negativa.
+Benefício: gaste uma ação padrão e um uso diário de ca- nalizar energia positiva/negativa para criar um círculo místico aos seus pés. Um personagem dentro do círculo adiciona o seu modificador de Sabedoria a suas magias de dano ou cura. Por exemplo, curar ferimentos leves lançado por um conjurador com Sabedoria 15 (modificador de +2) dentro de um círculo místico púrpura cura 1d8+3 pontos de vida. O círculo ocupa um quadrado com 1,5m de lado e dura 10 minutos.
+
+Círculo Místico Vermelho
+Você pode projetar sua habilidade de energia positiva/ negativa em círculos no chão.
+Pré-requisito: habilidade de classe canalizar energia po- sitiva/negativa.
+Benefício: gaste uma ação padrão e um uso diário de ca- nalizar energia positiva/negativa para criar um círculo místico em uma área não ocupada a até 15m de você. Quando uma criatura entrar no círculo místico, sofrerá os efeitos de um uso de canalizar energia positiva/negativa (cura para vivos e dano para mortos-vivos, para energia positiva, e dano para vivos e cura para mortos-vivos, para energia negativa), como se você estivesse usando a habilidade. A criatura tem direito a um teste de Vontade (CD igual à da habilidade) para reduzir o dano à metade. O círculo ocupa um quadrado com 1,5m de lado e é invisível para seus inimigos. Ele dura 10 minutos, mas só afeta cada criatura uma única vez.
+
+Companheiro Enxame
+Você não tem um companheiro animal. Tem centenas.
+Pré-requisito: habilidade de classe companheiro animal.
+Benefício: você perde o seu companheiro animal regular e recebe, no lugar dele, um enxame de minúsculas criaturas — ratos, vespas, aranhas, pequenos répteis, etc., à sua escolha. A caixa de texto abaixo traz as estatísticas de um companheiro enxame de 1o nível. Assim como um companheiro ani- mal, o enxame sobe de nível junto com o druida. Ele também recebe uma habilidade da lista de forma selvagem no 5o nível e a cada 5 níveis seguintes, mas pode escolher apenas as seguintes habilidades: agilidade, armadura natural, brutalidade, escalar, nadar, instintos apurados, rapidez, tamanho grande, tamanho enorme, tamanho descomunal, teia e voar.
+
+Falcoeiro
+Você é um mestre na arte da falcoaria.
+Pré-requisito: treinado em Adestrar Animais.
+Benefício: você recebe um falcão como familiar, com seus benefícios e estatísticas normais, mesmo que não seja um conjurador. Veja as regras para familiares em Tormenta RPG, Capítulo 3.
+
+Forma de Enxame
+Você não se transforma em apenas um animal — pode dividir sua consciência em milhares deles.
+Pré-requisito: habilidade de classe forma selvagem.
+Benefício: você pode gastar dois usos de sua habilidade forma selvagem para se transformar em um enxame. Em termos de regras, você recebe a habilidade a seguir. Enxame: você pode entrar no espaço ocupado por um per- sonagem (rastejando ou pousando sobre ele). Você não pode atacar, mas, no início de seu turno, causa o dano de seu ataque corpo-a-corpo a quaisquer personagens em seu espaço, auto- maticamente. Você é imune a efeitos que afetam apenas uma criatura e a manobras de combate. Além disso, sofre apenas metade do dano de ataques com armas.
+
+Forma Selvagem Mística
+Você é capaz de se transformar em uma forma selvagem especial, um animal híbrido místico, sagrado para seu deus padroeiro.
+Pré-requisitos: Sab 15, habilidade de classe forma selvagem.
+Benefício: gaste três usos diários da habilidade forma selvagem para se transformar na forma selvagem mística. Esta forma depende de sua divindade padroeira — um ma- mífero-pássaro para servos de Allihanna, um réptil-cervo para servos de Megalokk e um peixe-polvo para servos do Oceano. Enquanto estiver nesta forma, você recebe CA +4 (+6 a par- tir do 11o nível e +8 a partir do 17o nível) e +1 na CD para todas as suas magias. Além disso, você pode utilizar o talento metamágico Potencializar Magia uma vez por dia em qualquer magia sua sem ter que prepará-la desta forma nem pagar PM adicionais. Você não pode utilizar nenhuma outra habilidade de forma selvagem junto com a forma selvagem mística.
+
+Fundamentalista
+Você vive por dogmas que nem mesmo os mais fervorosos devotos costumam cumprir, praticando uma versão antiga e muito rígida de sua religião. Você acha que a igreja está muito liberal hoje em dia.
+Pré-requisitos: Devoto, cumpridor das obrigações e res- trições de seu deus.
+Benefício: além de cumprir as obrigações e restrições de sua divindade (veja a partir da página 51), você deve cumprir seus dogmas fundamentalistas. A lista dos dogmas fundamen- talistas de cada divindade está na caixa de texto da página 48. Em troca, você recebe um bônus de +2 em duas habilidades básicas à sua escolha e +5 PM. Caso um fundamentalista falhe em seguir os dogmas, perde todas as suas habilidades de classe (além do uso deste talento) por um mês, ou até fazer uma penitência imposta por outro fundamentalista do mesmo deus.
+
+Luz da Alvorada/Ocaso
+Você é capaz de invocar uma luz pura e cálida (ou fria e soturna) para guiá-lo em suas jornadas.
+Pré-requisito: habilidade canalizar energia positiva (alvo- rada) ou negativa (ocaso).
+Benefício: como uma ação padrão, você pode gastar um uso de sua habilidade canalizar energia positiva/negativa para invocar uma luz que encanta sua arma, seu escudo ou seu sím- bolo sagrado. Esta luz funciona como uma tocha muito forte (alcance de 9m) e que revela criatura incorpóreas. Ataques contra criaturas incorpóreas dentro da área atingida pela luz não têm chance de erro (como as as armas tivessem o poder toque espectral). A luz dura uma hora.
+
+Projetar Cura pelas Mãos
+Você pode transformar sua habilidade de cura pelas mãos em um raio de luz divina.
+Pré-requisito: habilidade de classe cura pelas mãos.
+Benefício: você pode usar a habilidade cura pelas mãos em alvos a até 9m. Se você utilizar a habilidade para causar dano em mortos-vivos, deve fazer um ataque de toque à distância (ataque à distância oposto por um teste de Reflexos do alvo).
+
+Proteção contra Trevas
+Uma luz brilha dentro de você, impedindo que as trevas o atinjam.
+Pré-requisitos: tendência Bondosa, Carisma 11, habilida- de canalizar energia positiva.
+Benefício: você recebe resistência 10 contra dano com o descritor necromancia. Além disso, recebe um bônus de +4 em testes de resistência contra magias com o descritor necromancia.
+
+Purificação pelo Fogo
+Seus inimigos são infiéis. Mas o fogo divino vai torná-los puros.
+Pré-requisito: capacidade de lançar pelo menos uma magia divina com o descritor fogo.
+Benefício: sempre que você derrubar um inimigo (redu- zi-lo a 0 ou menos PV) com uma magia que cause dano de fogo, pode convertê-lo para o “lado certo”. Caso este inimigo seja curado durante este mesmo combate, adquire a sua ten- dência pelo restante do combate. Isso pode significar a perda de habilidades de classe, violação de códigos de conduta, etc. Em geral, também significa que ele muda de lado durante a batalha! Um guerreiro servindo a um necromante maligno certamente mudaria de lado após ser convertido por um pa- ladino, por exemplo. O mestre tem a palavra final sobre o que acontece nesses casos. Após o final do combate, o inimigo volta à sua tendência original.
+
+Senhor dos Mortos
+Você pode controlar hordas de mortos-vivos.
+Pré-requisitos: Fascinar Mortos-Vivos, 10o nível de per- sonagem.
+Benefício: o nível máximo somado dos mortos-vivos sob seu comando passa a ser o quádruplo do seu nível.
+
+Sincretismo
+Para você, servir a apenas um deus não basta.
+Pré-requisitos: Sab 13, ser devoto de um deus.
+Benefício: você se torna devoto de um segundo deus à sua escolha, podendo escolher poderes concedidos dele. Este segundo deus deve ter tendência no máximo um passo afastada da tendência da primeira divindade da qual você é devoto. Por exemplo, se você é devoto de Khalmyr (Leal e Bondoso) pode se tornar devoto também de Lena (Neutra e Bondosa — um passo), mas não de Kallyadranoch (Leal e Maligno — dois passos).
+Especial: este talento só está disponível com a aprovação do mestre. Você não pode seguir as obrigações e restrições da segunda divindade.

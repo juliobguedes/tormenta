@@ -1,0 +1,73 @@
+Canto Monástico
+Você foi treinado em um mosteiro, onde rezava através de belos cânticos.
+Pré-requisitos: treinado em Atuação (música), capacida- de de lançar magias divinas.
+Benefício: quando você lança uma magia, pode gastar uma ação de movimento para entoar um canto litúrgico. Se fizer isso, a CD para resistir à magia aumenta em +1. Você pode usar este talento um número de vezes por dia igual ao seu bônus de Carisma +1. Obviamente, você não pode lançar magias desta forma se não puder fazer sons (por exemplo, sob efeito de Magia Silenciosa).
+
+Canto Monástico Aprimorado
+No mosteiro onde foi treinado, você era responsável por ensinar os acólitos a cantar como anjos.
+Pré-requisito: Atuação (música) 8 graduações, Canto Monástico.
+Benefício: quando você usa o talento Canto Monástico, soma seu bônus de Carisma aos efeitos numéricos variáveis da magia (dano causado, PV curados, etc.). Este efeito ocorre em adição ao efeito de Canto Monástico.
+
+Canto Monástico Magistral
+Os deuses choram de emoção ao ouvi-lo cantar.
+Pré-requisito: Atuação (música) 13 graduações, Canto Monástico Aprimorado.
+Benefício: quando você usa o talento Canto Monástico, a magia fica sob efeito do talento Maximizar Magia. Este efei- to ocorre em adição aos efeitos de Canto Monástico e Canto Monástico Aprimorado.
+
+Druida Boticário
+Quando você e o seu caldeirão se juntam, as possibilidades são enormes.
+Pré-requisitos: classe druida, talento Preparar Poções, treinado em Ofício (alquimia).
+Benefício: você pode criar poções com magias de até 5o nível.
+Normal: você só pode criar poções com magias de até 3o nível.
+
+Escudo da Fé Aprimorado
+Para você, o nome de certa magia tem significado bem literal.
+Pré-requisitos: treinamento com escudo, capacidade de lançar a magia escudo da fé.
+Benefício: quando você lança a magia escudo da fé, não recebe o bônus de +2 em CA como normal. Em vez disso, a magia cria um escudo pesado +2 brilhante, com o símbolo sagrado de seu deus. Apenas você pode empunhar este escudo (ele se desvanece se outro personagem tentar usá-lo), mas você pode arremessá-lo ou largá-lo por quanto tempo quiser, e ele persistirá. O escudo dura por um dia. Você não pode lançar a versão “normal” da magia escudo da fé.
+
+Escrever Pergaminhos
+Você pode criar pergaminhos que você ou outro conjura- dor podem usar para lançar uma magia uma vez.
+Pré-requisito: capacidade de lançar magias de 1o nível.
+Benefício: você pode criar pergaminhos. O pré-requisito para criar um pergaminho é conhecer a magia que ele irá con- ter (pergaminhos podem conter qualquer magia). O preço de um pergaminho é igual ao nível mínimo que um conjurador precisa ter para lançar a magia contida nele x 25 TO. Se a ma- gia tiver um componente material ou um custo em XP, você deve pagar esses custos para criar o pergaminho. Veja as regras para pergaminhos em Tormenta RPG, Capítulo 10.
+
+Magia Conspurcada
+Suas magias têm um toque sinistro e macabro.
+Pré-requisitos: habilidade de classe canalizar energia negativa, tendência Maligna.
+Custo: +1 PM e um uso diário da habilidade canalizar energia negativa.
+Benefício: o dano causado pela magia preparada com este talento passa a ter o descritor profano, não sendo mais afetado por resistência a energia de nenhum tipo.
+
+Magia Primordial
+Suas magias são brutas e diretas, assim como a natureza.
+Pré-requisito: habilidade de classe forma selvagem.
+Custo: +1 PM e um uso diários da habilidade forma selvagem.
+Benefício: o dano causado pela magia preparada com este talento passa a ser dano físico (corte, esmagamento ou perfu- ração). Este dano está sujeito à redução de dano apropriada (por exemplo, 5/esmagamento), mas não a qualquer tipo de resistência a energia ou a magia.
+
+Magia Santificada
+Suas magias são puras e abençoadas.
+Pré-requisitos: habilidade de classe canalizar energia positiva, tendência Bondosa.
+Custo: +1 PM e um uso diário da habilidade canalizar energia positiva.
+Benefício: o dano causado pela magia preparada com este talento passa a ter o descritor sagrado, não sendo mais afetado por resistência a energia de nenhum tipo.
+
+Poder do Rebanho
+Você é fortalecido pela fé de seus aliados.
+Pré-requisito: Carisma 13, capacidade de lançar magias divinas.
+Benefício: a CD para resistir às suas magias divinas au- menta se houver devotos de seu deus rezando por você (em termos de regras, não fazendo nenhuma ação) a até 18m. O bônus varia de acordo com a quantidade de devotos: de 1 a 9 pessoas, bônus de +1. De 10 a 49 pessoas, bônus de +2. Mais de 50 pessoas (uma verdadeira missa!), bônus de +3.
+
+Poder do Rebanho Aprimorado
+Seus aliados nem precisam ter muita fé para ajudá-lo — então trate de convertê-los!
+Pré-requisito: Poder do Rebanho.
+Benefício: o benefício do talento Poder do Rebanho se aplica aos seus testes de resistência (além da CD das suas magias), e se ativa mesmo que as pessoas rezando por você não tenham a habilidade de classe ou o talento Devoto. Elas precisam apenas ter a sua divindade como padroeira. Caso haja alguma dúvida sobre um personagem ser ou não fiel ao deus, o mestre tem a palavra final.
+
+Preparar Poções
+Você pode criar poções que você ou outro personagem podem beber para receber o efeito de uma magia.
+Pré-requisito: capacidade de lançar magias de 2o nível.
+Benefício: você pode criar poções. O pré-requisito para criar uma poção é conhecer a magia que ela irá conter (poções podem conter magias de até 3o nível que tenham uma ou mais criaturas como alvo). O preço de uma poção é igual ao nível mí- nimo que um conjurador precisa ter para lançar a magia contida nela x 50 TO. Se a magia tiver um componente material ou um custo em XP, você deve pagar esses custos para criar a poção. Veja mais sobre poções em Tormenta RPG, Capítulo 10.
+
+Resíduo Mágico Curativo
+Pré-requisitos: treinado em Conhecimento (arcano) e Cura.
+Benefício: sempre que você lançar uma magia, recebe uma quantidade de PV temporários igual ao custo em PM da magia. Múltiplos usos deste talento não se acumulam. Por exemplo, um clérigo lança conto das rochas, gastando 6 PM e recebendo 6 PV temporários. Na rodada seguinte, lança metal em madeira, gastando 7 PM. O clérigo não recebe PV temporários das duas magias, ficando apenas com 7 PV temporários ao todo (o custo da magia mais cara). Os PV temporários duram até o fim do dia, e são sempre os primeiros a serem perdidos.
+
+Sacerdote Copista
+Anos de prática copiando livros e documentos aprimo- raram a sua caligrafia e eficiência na criação de pergaminhos.
+Pré-requisitos: classe clérigo, treinado em Ofício (caligrafia), Escrever Pergaminhos.
+Benefício: quando criar um pergaminho, você pode adicionar o efeito de um talento metamágico à magia contida nele. Os talentos metamágicos que podem ser adicionados des- ta forma são Aumentar Magia, Estender Magia, Potencializar Invocação e Potencializar Magia.
+Normal: você não pode criar pergaminhos que conte- nham magias com talentos metamágicos.

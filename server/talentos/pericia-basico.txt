@@ -1,0 +1,105 @@
+Acrobacia Audaz
+Você consegue atravessar aposentos lotados ou mobiliados, correndo sobre mesas, escorregando por corrimões de escada, ba- lançando-se em candelabros ou até pisando sobre outras pessoas!
+Pré-requisito: treinado em Acrobacia.
+Benefício: você pode atravessar terrenos difíceis sem sofrer re- dução em seu deslocamento. Você pode realizar investidas mesmo nessas condições.
+Normal: um personagem em terreno difícil tem seu desloca- mento reduzido à metade, e não pode realizar investidas.
+
+Acrobático
+Você tropeça menos que os outros.
+Benefício: você pode rolar outra vez um teste de Acrobacia que tenha recém realizado. Você deve aceitar a segunda rolagem, mesmo que seja pior que a primeira.
+
+Afinidade com Animais
+Você se dá bem com animais.
+Benefício: você pode rolar outra vez um teste de Adestrar Animais que tenha recém realizado. Você deve aceitar a segunda rolagem, mesmo que seja pior que a primeira.
+
+Ágil
+Você pode usar sua agilidade para realizar proezas acrobáticas.
+Pré-requisito: Des 15.
+Benefício: você pode usar seu modificador de Destreza em vez de Força em testes de Atletismo.
+
+Aptidão Mágica
+Você tem um dom natural para as artes místicas.
+Benefício: você pode rolar outra vez um teste de Identificar Magia que tenha recém realizado. Você deve aceitar a segunda ro- lagem, mesmo que seja pior que a primeira.
+
+Artista
+Você tem jeito para as artes.
+Benefício: você pode rolar outra vez um teste de Atuação que tenha recém realizado. Você deve aceitar a segunda rolagem, mes- mo que seja pior que a primeira.
+
+Atlético
+Você tem aptidão natural para atividades físicas.
+Benefício: você pode rolar outra vez um teste de Atletismo que tenha recém realizado. Você deve aceitar a segunda rolagem, mesmo que seja pior que a primeira.
+
+Autossuficiente
+Você se vira bem sozinho.
+Benefício: você não sofre a penalidade de –5 para fazer testes de Cura em si mesmo, e recebe +4 nos testes de Sobrevivência se estiver sozinho (sem nenhum aliado a até 18m).
+
+Criar Obra-Prima
+Você é um artesão competente e pode criar itens de qualidade excepcional.
+Pré-requisito: treinado em Ofício, Foco em Perícia (Ofício).
+Benefício: você pode construir armas, armaduras e kits de ferramentas de qualidade obra-prima. Uma arma obra-prima for- nece +1 em jogadas de ataque; uma armadura obra-prima tem sua penalidade de armadura reduzida em 1; e um kit de ferramentas obra-prima fornece +2 nos testes da perícia apropriada. Para criar um item obra-prima, siga as regras normais para cria- ção de itens, exceto que a dificuldade do teste de Ofício aumenta em CD+5, e o custo de criação do item aumenta em +100 TO.
+
+Dedos Ágeis
+Você tem mão leve.
+Benefício: você pode rolar outra vez um teste de Ladinagem que tenha recém realizado. Você deve aceitar a segunda rolagem, mesmo que seja pior que a primeira.
+
+Diligente
+Você é paciente e detalhista.
+Benefício: você pode gastar uma ação de movimento para se concentrar na tarefa à frente. Se fizer isso, recebe +2 nos testes de perícia realizados até a próxima rodada.
+
+Foco em Perícia
+Escolha uma perícia. Você tem certo dom com ela.
+Pré-requisito: treinado na perícia escolhida.
+Benefício: você recebe +4 em testes da perícia escolhida.
+
+Fraudulento
+Você sabe como encobrir a verdade.
+Benefício: você pode rolar outra vez um teste de Enganação que tenha recém realizado. Você deve aceitar a segunda rolagem, mesmo que seja pior que a primeira.
+
+Impostor
+Você pode, de forma quase sobrenatural, fingir ter habilidades que não tem. E você finge tão bem que consegue fazer essas coisas!
+Pré-requisitos: Car 13, Foco em Perícia (Enganação).
+Benefício: graças a seu extre- mo charme, magnetismo pessoal e superconfiança, você consegue convencer as pessoas (e também a si próprio!) de que tem certas habilidades ou conhecimentos, quando na verdade não tem. Você pode substituir um teste de qualquer perícia por um teste de Enganação. Você pode usar este talento um número de vezes por dia igual a seu bônus de Carisma.
+
+Iniciativa Aprimorada
+Você não perde tempo em situações de combate.
+Benefício: você pode rolar outra vez um teste de Iniciati- va que tenha recém realizado. Você deve aceitar a segunda ro- lagem, mesmo que seja pior que a primeira.
+
+Investigador
+Você é um bom detetive.
+Pré-requisito: Int 13.
+Benefício: você pode somar seu bônus de Inteligência a testes de Obter Informação e testes de Percepção para procurar.
+
+Mãos Rápidas
+Quando os outros percebem, já foram roubados.
+Pré-requisitos: Des 15, treinado em Ladinagem.
+Benefício: uma vez por rodada, você pode fazer um teste de Ladinagem para prestidigitação como uma ação livre.
+
+Negociador
+Você sabe barganhar.
+Pré-requisito: treinado em Ofício.
+Benefício: quando você chega a uma comunidade, faça um teste de Ofício (CD 20). Se tiver sucesso, você pode comprar itens nesta comunidade por 75% do preço padrão (arredondado para baixo). Por exemplo, você pode comprar uma armadura completa (que normalmente custa 1.500 TO) por 1.125 TO. Se falhar, você pode tentar novamente em um mês (ou quan- do visitar outra comunidade).
+
+Persuasivo
+Você sabe ser convincente.
+Benefício: você pode rolar outra vez um teste de Diplomacia que tenha recém realizado. Você deve aceitar a segunda rolagem, mesmo que seja pior que a primeira.
+
+Prontidão
+Seus sentidos são mais apurados que o normal.
+Benefício: você pode rolar outra vez um teste de Percepção que tenha recém realizado. Você deve aceitar a segunda rolagem, mesmo que seja pior que a primeira.
+
+Rastrear
+Você recebeu treinamento para seguir rastros.
+Pré-requisito: treinado em Sobrevivência.
+Benefício: você pode fazer testes de Sobrevivência para encontrar rastros. A difi- culdade varia de acordo com o solo — CD 10 para solo macio (neve, lama), 15 para solo pa- drão (grama, terra) e 20 para solo duro (rocha ou piso de interiores). Você ganha +1 para cada três criaturas no gru- po sendo seguido. Você sofre uma penalidade de –1 para cada dia desde a criação dos rastros e uma penalidade de –5 em visibilidade precária (noite, chuva, neblina). Você precisa fazer um teste para encontrar os rastros e mais um para cada dia de perseguição. Se falhar você pode tentar novamente gastando mais um dia (mas lembre-se de que a CD aumenta a cada dia).
+
+Senso da Natureza
+Você sabe como viver em áreas selvagens.
+Benefício: você pode rolar outra vez um teste de Sobrevivên- cia que tenha recém realizado. Você deve aceitar a segunda rola- gem, mesmo que seja pior que a primeira.
+
+Sorrateiro
+Você é bom em passar despercebido.
+Benefício: você pode rolar outra vez um teste de Furtividade que tenha recém realizado. Você deve aceitar a segunda rolagem, mesmo que seja pior que a primeira.
+
+Treino em Perícia
+Escolha uma perícia na qual você não seja treinado. Você se dedicou a esta perícia.
+Benefício: você se torna treinado na perícia escolhida.

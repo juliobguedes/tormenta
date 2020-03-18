@@ -1,0 +1,14 @@
+Arma Divina Esporádica
+Você recebe ajuda divina em combate. Mas só às vezes.
+Pré-requisito: devoto de qualquer deus, exceto Lena ou Marah.
+Benefício: sempre que você acertar um ataque contra um alvo que não seja devoto de seu deus, role 1d4 juntamente com o dano normal da arma. Com um resultado 4, adicione 2d6 pontos de dano ao seu ataque (você não adiciona nada ao dano com um resultado de 1 a 3). O tipo de dano depende de sua divindade.
+
+Outra Face
+Você revida um ataque com um perdão.
+Pré-requisito: devoto de Lena, Marah ou Thyatis.
+Benefício: sempre que um inimigo atacá-lo com sucesso (causando dano ou prejudicando-o de qualquer forma), você pode escolher perdoá-lo. Se fizer isso, o inimigo sofre uma penalidade cumulativa de –1 em todas as jogadas de ataque du- rante este combate (não apenas aquelas realizadas contra você). Entretanto, se você atacar este inimigo, todas as penalidades desaparecem. Por exemplo, um hobgoblin ataca-o, mas você escolhe dar a outra face. Intimidado por sua calma e capacidade de amar, ele sofre uma penalidade de –1 em todas as jogadas de ataque. Irritado, ataca-o mais uma vez, acertando de novo. Você continua oferecendo a outra face. Ele então fica com uma penalidade de –2 em todas as jogadas de ataque.
+
+Profeta do Caos
+Você pode fazer uma barganha com Nimb. O preço: um palpite. A recompensa: diversão.
+Pré-requisito: Carisma 13, devoto de Nimb.
+Benefício: você pode “profetizar” o resultado de uma rolagem que use d20 e depois definir o resultado do teste. Por exemplo, um jogador está prestes a fazer uma jogada de ataque (rolagem de 1d20). Você diz que o resultado da rolagem será 7 (sem nenhum modificador, apenas o resultado do dado). Se você acerter (ou seja, se o resultado do dado for 7), você pode definir o que acontece com a rolagem — por exemplo, dizendo que a jogada de ataque erra, ou é um acerto crítico! Da mesma forma, se o mestre faz uma rolagem em nome de um inimigo, você pode prever que o resultado será 20. Caso o mestre real- mente role um 20, você pode definir que este valor é um erro! O resultado do dado não pode ser alterado de nenhuma forma — por itens, talentos, habilidades ou qualquer outro meio. Usar este talento é uma ação livre. Você pode usá-lo um número de vezes por dia igual ao seu bônus de Carisma (mas apenas uma vez em cada rolagem).

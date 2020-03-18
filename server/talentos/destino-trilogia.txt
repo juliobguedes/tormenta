@@ -1,0 +1,283 @@
+Ginga das Ondas (Perícia)
+Você está acostumado a viver em navios, e ri daqueles que perdem o equilíbrio e vomitam com o balanço do mar.
+Benefício: você recebe +1 de bônus em Reflexos. Além disso, em um navio, nunca precisa fazer testes de Acrobacia para ficar de pé devido às condições do mar, e nunca sofre penalidades em testes apenas por estar navegando.
+
+Inspiração (Poder Concedido)
+Servos de Anilatir são aventureiros natos.
+Pré-requisito: devoto de Anilatir.
+Benefício: você recebe 1 ponto de ação a mais por sessão de jogo.
+
+Prosperidade (Regional)
+Graças à riqueza de seu reino natal, você tem melhores recursos financeiros.
+Pré-requisito: nativo de Deheon, Hershey, Sambúrdia ou Tyrondir.
+Benefício: você recebe 300 TO ex- tras em seu dinheiro inicial. Além disso, todo mês recebe (100 x o seu nível de personagem) TO. O dinheiro pode vir de sua família, de uma guilda de mercadores, do conselho da cidade ou de qualquer ou- tra fonte. De acordo com o mestre, o di- nheiro pode não estar disponível se você estiver em um lugar isolado ou inacessível.
+
+Alma Livre (Destino)
+Arton tem muitas maravilhas a serem exploradas, muitos caminhos a serem percorridos — e você não é louco de se pren- der a um só.
+Benefício: você pode ignorar pré-requisitos de tendência de classes e classes de prestígio. Por exemplo, pode ser um bár- baro Leal ou um monge Caótico.
+
+Ataque com Escudo
+Você é treinado em atacar com uma arma e um escudo.
+Pré-requisito: Usar Escudo.
+Benefício: se estiver usando um escu- do, você pode fazer um ataque adicional com ele. No entanto, você sofre uma pe- nalidade de –2 em todas as jogadas de ataque e perde o bônus que o escudo fornece à CA até sua próxima rodada.
+
+Falange (Combate)
+Você é experiente em lutar em uma formação compacta, juntando seu escudo com os de seus companheiros.
+Pré-requisito: Usar Escudo.
+Benefício: se você estiver usando um escudo, recebe um bônus de +1 na CA. Além disso, se estiver adjacente a um alia- do com este talento, vocês podem gastar uma ação de movi- mento para formar uma falange. Uma falange concede cober- tura a todos os seus participantes.
+
+Alma Livre (Destino)
+Arton tem muitas maravilhas a serem exploradas, muitos caminhos a serem percorridos — e você não é louco de se pren- der a um só.
+Benefício: você pode ignorar pré-requisitos de tendência de classes e classes de prestígio. Por exemplo, pode ser um bár- baro Leal ou um monge Caótico.
+
+Homem dos Sete Instrumentos (Perícia)
+Você aprendeu de tudo um pouco, e um pouco de tudo.
+Benefício: você pode fazer testes de perícias que exigem treinamento sem ser treinado nelas. Além disso, você recebe um bônus de +1 em testes de perícias nas quais não é treinado.
+
+Meditação Autoafirmativa (Destino)
+Você pode entrar num transe hipnótico no qual convence a si mesmo de que possui certas habilidades.
+Pré-requisitos: Sab 13, Car 17, Vontade de Ferro.
+Benefício: você pode meditar por um dia para receber um benefício da tabela abaixo. No fim do dia, faça um teste de Carisma. Se você for bem-sucedido, adquire o benefício. O efeito dura um dia. Enquanto medita, você não pode fazer mais nada e sofre –4 em testes de Percepção. Você pode meditar por mais de um dia seguido; nesse caso, cada dia for- nece um bônus de +1 no teste de Carisma, até um máximo de +7 para uma semana. Mestres malvados podem exigir testes de Fortitude para personagens que passem vários dias sem se alimentar (veja Tormenta RPG, página 227).
+
+Sete Escorpiões (Combate)
+O estilo de luta dos Sete Escorpiões baseia-se em usar diver- sas armas diferentes para maximizar as oportunidades de ataque.
+Pré-requisitos: Des 19, Combater com Duas Armas, Sa- que Rápido, bônus base de ataque +8.
+Benefício: se você gastar uma ação padrão para atacar, pode fazer um ataque extra. Entretanto, este ataque deve ser feito com uma arma diferente das que você já utilizou na rodada.
+
+Arma Secundária Grande (Combate)
+Você fortaleceu sua mão secundária para usar uma arma grande.
+Pré-requisito: Combater com Duas Armas.
+Benefício: você pode empunhar duas armas de uma mão com o talento Combater com Duas Armas.
+Normal: o talento Combater com Duas Armas só pode ser usado com uma arma de uma mão e uma arma leve, ou com duas armas leves.
+
+Chuva de Golpes (Combate)
+Em combate, cada parte de seu corpo é letal.
+Pré-requisito: Ataque Desarmado Aprimorado, Comba- ter com Duas Armas Aprimorado.
+Benefício: quando usa o talento Combater com Duas Ar- mas, você recebe um ataque desarmado adicional.
+
+Assustar (Combate)
+Você grita, rosna ou apenas mantém uma postura des- concertante em combate. Seus inimigos tremem.
+Pré-requisitos: Car 13, treinado em Intimidação.
+Benefício: como uma ação padrão, você pode fazer um teste de Intimidação oposto pelo teste de Vontade de um opo- nente a até 9m. Se você for bem-sucedido, o oponente fica desprevenido até o início do próximo turno dele.
+
+Assustar Aprimorado (Combate)
+Você consegue assustar rapidamente.
+Pré-requisito: Assustar.
+Benefício: você pode usar o talento Assustar como uma ação de movimento.
+
+Anular Indivíduo (Tormenta)
+Em seu universo, os lefeu não têm individualidade. Entre- gando-se à corrupção lefeu, você também está perdendo a sua.
+Pré-requisitos: dois talentos da Tormenta quaisquer.
+Benefício: você é capaz de suprimir sua individualidade — incluindo suas opiniões, moralidade e pensamentos. Sem- pre que estiver sob efeito de magias de adivinhação e efeitos similares capazes de detectar sua tendência, seus pensamentos, suas mentiras, etc., você simula a tendência e pensamentos do usuário da magia ou efeito. Por exemplo, caso um conjurador Bondoso lance detectar o mal sobre você, irá percebê-lo como Bondoso, independente de sua tendência verdadeira. Caso conjuradores de tendências diferentes lancem a mes- ma magia ou efeito sobre você, irão percebê-lo de forma con- traditória (por exemplo, um conjurador Neutro irá percebê-lo como Neutro; um Bondoso, como Bondoso). É possível que notem esse fenômeno comparando suas impressões, mas cada um terá certeza do que notou.
+
+Moldar Alma (Tormenta)
+A realidade artoniana já não sabe mais como reagir a você. Sua mente e seu espírito são tão alienígenas quanto os próprios lefeu.
+Pré-requisito: Anular Indivíduo.
+Benefício: você é imune a todos os efeitos negativos que afetam tendências específicas, e recebe todos os efeitos benéfi- cos relativos a tendências. Por exemplo, um personagem Caó- tico e Maligno com este talento não é detectado por detectar o mal, não é afetado pela habilidade destruir o mal, não sofre dano extra por uma arma axiomática e pode empunhar uma arma sagrada sem sofrer um nível negativo.
+
+Grandão (Destino)
+Você é muito maior que o normal para sua raça.
+Pré-requisito: Con 15.
+Benefício: você conta como uma categoria de tamanho maior para propósitos de manobras de combate e armas que pode usar (por exemplo, uma criatura Média com este talento pode usar armas Grandes sem penalidades, ou armas Enormes com uma penalidade de –4). Entretanto, você sofre uma pena- lidade de –1 nas jogadas de ataque e na classe de armadura, e uma penalidade de –4 nos testes de Furtividade.
+Especial: este talento só pode ser escolhido no 1° nível.
+
+Fúria Leal (Regional)
+Mesmo que seu comportamento tenha mudado do selva- gem para o civilizado, você ainda consegue manifestar sua fúria.
+Pré-requisitos: tendência Leal, ser um ex-bárbaro, nativo de Khubar, Montanhas Uivantes, Namalkah ou União Púrpura.
+Benefício: você ainda é capaz de usar sua fúria. A pena- lidade na classe de armadura que você sofre por usar fúria di- minui para –1.
+Normal: um bárbaro que se torne Leal perde sua habili- dade fúria. Mais detalhes em “Ex-Bárbaros” (Tormenta RPG, página 47).
+
+Domínio da Loucura
+Você enxerga o mundo através de parâmetros diferentes e errados. Ou não.
+Pré-requisito: devoto de Aharadak ou Nimb.
+Benefício: você sofre uma penalidade de –1 em testes de perícias baseadas em Sabedoria. Contudo, uma vez por dia, pode ver e agir com a clareza da verdadeira loucura — adicione seu nível em um teste ou jogada qualquer. Você deve escolher utilizar este benefício antes de fazer o teste.
+
+Domínio do Terror
+Monstros comuns causam medo. A Tormenta causa terror.
+Pré-requisito: devoto de Aharadak.
+Benefício: a CD para resistir às suas magias com o descri- tor medo aumenta em +2. Além disso, uma criatura que falhe no teste de resistência contra uma dessas magias sofre 1 ponto de insanidade.
+
+Domínio da Tormenta
+Mais do que seu corpo, sua alma já é parte lefeu.
+Pré-requisitos: um talento da Tormenta, devoto de Aharadak.
+Benefício: ao calcular o efeito de talentos da Tormenta, você é considerado possuidor de três talentos da Tormenta adi- cionais (mas sem perder pontos de Carisma devido a isso). Por exemplo, um personagem com este domínio, Corpo Aberran- te, Visão no Escuro e um simbionte conta como possuidor de sete talentos da Tormenta.
+
+Golpista (Perícia)
+Você é um tipo especial de ladrão — quando rouba, suas vítimas lhe agradecem e comentam sobre sua gentileza!
+Pré-requisitos: Enganação 8 graduações, Impostor.
+Benefício: você pode utilizar a habilidade de música de bardo fascinar, usando Enganação no lugar de Atuação. Caso consiga fascinar um alvo, pode usar nele a habilidade de mú- sica de bardo sugestão, substituindo Atuação por Enganação. Você pode usar cada um destes efeitos uma vez por dia.
+
+Disfarce Ilusório (Poder Concedido)
+Quem serve ao Deus dos Ladrões tem mil faces.
+Pré-requisito: devoto de Hyninn.
+Benefício: você pode lançar transformação momentânea uma vez por dia.
+
+Forma de Macaco (Poder Concedido)
+Você pode se transformar em um pequeno macaco.
+Pré-requisitos: devoto de Hyninn, capacidade de lançar magias divinas de 2° nível.
+Benefício: três vezes por dia, você pode se transformar em um macaco, um animal Mínimo (+2 em jogadas de ataque e classe de armadura, +8 em Furtividade) com deslocamento de escalada 9m. Na forma de macaco você não pode lançar ma- gias, a menos que seja capaz de fazê-lo sem usar componentes verbais. A transformação dura quanto tempo você desejar, mas é interrompida caso você ataque alguém ou sofra dano.
+
+Fuga (Poder Concedido)
+Quando a situação é desesperadora, você consegue provi- denciar uma retirada estratégica.
+Pré-requisitos: devoto de Hyninn, treinado em Enganação, Sorrateiro.
+Benefício: como uma ação completa, você pode fazer um teste de Enganação (resistido pelo teste de Intuição do adversá- rio com maior bônus nessa perícia). Em caso de sucesso, você cria uma distração que permite que você e seus aliados fujam da batalha de maneira espetacular. Você e quaisquer aliados a até 6 metros são afetados pela magia porta dimensional. A porta leva para o local seguro mais próximo, a critério do mestre.
+
+Talento Ladino (Poder Concedido)
+Você conhece os truques dos ladrões.
+Pré-requisito: devoto de Hyninn.
+Benefício: você se torna treinado em duas perícias da lista de perícias de classe do ladino.
+
+Ventriloquismo (Poder Concedido)
+Você sabe projetar sua voz.
+Pré-requisito: devoto de Hyninn.
+Benefício: você pode lançar ventriloquismo à vontade.
+
+Parede de Escudos (Combate)
+Ao lado de seus companheiros, seu escudo é uma defesa impenetrável.
+Pré-requisito: Falange.
+Benefício: se você estiver participando de uma falange, pode fazer um ataque corpo-a-corpo imediato contra qualquer criatura que se mova para ficar adjacente a você ou a um aliado adjacente a você. Este talento só pode ser usado uma vez por rodada.
+
+Ego (Poder Concedido)
+Você herdou a prepotência de seu deus.
+Pré-requisito: devoto de Sckhar.
+Benefício: você pode receber +4 em uma jogada de ataque ou teste recém realizado. Você deve usar este talento antes que o mestre diga se você foi bem-sucedido e, se falhar, sofre uma penalidade de –2 em todas as jogadas e testes por uma hora. Você pode usar este talento um número de vezes por dia igual ao seu bônus de Carisma (mínimo 1).
+
+Protegido Indefeso (Poder Concedido)
+Sua padroeira trocou a liberdade pela segurança. Você aprendeu que deve ser protegido pelos mais poderosos.
+Pré-requisito: devoto de Glórienn.
+Benefício: sempre que estiver lutando ao lado de alguém mais poderoso (com pelo menos um nível a mais), você recebe um bônus de +2 em classe de armadura e em testes de resis- tência. Este bônus é anulado se o aliado mais poderoso ficar insconsciente ou morrer.
+
+Olhos do Vigia (Poder Concedido)
+Dizem que você tem olhos nas costas — mas é apenas seu deus patrono olhando por você.
+Pré-requisito: devoto de Betsumial.
+Benefício: você nunca pode ser surpreendido em combate.
+
+Imolação (Poder Concedido)
+Você prova sua fé ao entregar-se às chamas.
+Pré-requisito: devoto do Deus no Fogo.
+Benefício: sempre que sofrer dano por fogo (normal ou mágico), faça um teste de Vontade (CD igual a metade do dano). Em caso de sucesso, você não sofre o dano, e recupera pontos de vida em quantidade igual ao dano que teria sofrido.
+
+Postura de Árvore (Poder Concedido)
+Tornando-se tão imóvel quanto um carvalho, você adqui- re as capacidades das plantas.
+Pré-requisito: devoto de Ur.
+Benefício: você pode ficar perfeitamente imóvel, de pés descalços, sobre solo natural (terra, pedra, areia...) pelo tempo que quiser. Enquanto estiver assim, você não precisa comer, dormir ou beber água, realizando um processo semelhante à fotossíntese. Depois de oito horas assim, você conta como se tivesse dormido oito horas e feito uma refeição completa.
+
+Proteção do Cristal (Poder Concedido)
+Você sempre soube que aquele cristal era divino, e agora o Deus Cristal oferece-lhe consolo e proteção.
+Pré-requisito: devoto do Deus Cristal de Urielka.
+Benefício: uma vez por dia, você pode ignorar os efeitos de uma magia ou habilidade que cause penalidades de qualquer tipo.
+
+Fisgar (Poder Concedido)
+Basta uma piscadela ou um risinho para que as pessoas se joguem aos seus pés.
+Pré-requisito: devoto de Irione.
+Benefício: uma vez por dia, você pode lançar uma versão modificada de enfeitiçar pessoa. Funciona exatamente como a magia arcana de mesmo nome, mas não consome PM. Além disso, você pode fazer um teste de qualquer perícia baseada em Carisma (não apenas Diplomacia) para convencer uma vítima sob efeito da magia.
+
+Guardei para Você (Poder Concedido)
+Os devotos da Deusa das Avós sempre recolhem os brin- quedos de seus netos distraídos.
+Pré-requisito: devoto de Mauziell.
+Benefício: você pode recuperar um objeto perdido, des- truído ou roubado de uma outra criatura. Isto funciona ape- nas uma vez por criatura (em toda a sua vida), e apenas com objetos físicos — não com sentimentos ou conceitos imate- riais, como a própria deusa é capaz de fazer. É necessário que o objeto tenha pertencido à criatura algum dia. De todas as outras formas, trate este efeito como um desejo limitado, mas sem gasto de XP e dinheiro.
+
+Chumbo Grosso (Poder Concedido)
+Para seus inimigos, a morte tem cheiro de pólvora.
+Pré-requisito: devoto de Garth.
+Benefício: a sua margem de ameaça de acerto crítico com quaisquer armas de pólvora aumenta em 1 ponto. Este efeito é cumulativo com quaisquer outros que afetem a margem de ameaça, mas é aplicado por último.
+
+Ginete Altivo (Poder Concedido)
+Você é parte da tradição orgulhosa de Namalkah, que une humanos e cavalos.
+Pré-requisitos: devoto de Hippion, treinado em Cavalgar.
+Benefício: quando está montado sobre um cavalo, você recebe um bônus de +1 em todas as jogadas e testes. Além disso, você não precisa fazer testes de Cavalgar para guiar com os joelhos ou permanecer na sela (Tormenta RPG, página 83).
+
+Manha da Cidade (Poder Concedido)
+Para você, o burburinho das metrópoles é mais doce que o canto dos pássaros.
+Pré-requisito: devoto do Deus das Cidades.
+Benefício: você é treinado em Conhecimento (local) para qualquer cidade onde estiver. Esta especialização de Conhe- cimento normalmente fornece informações sobre uma região específica. Veja uma descrição mais detalhada no suplemento Valkaria: Cidade sob a Deusa. Além disso, em uma cidade você pode fazer testes de Obter Informação sem falar com pessoas e sem gastar dinheiro, apenas sentindo a “vibração” das ruas.
+
+Artista das Armas (Poder Concedido)
+Você ensina aos “mestres” o verdadeiro significado da perfeição.
+Pré-requisito: devoto de Rhond.
+Benefício: você recebe os benefícios do talento Criar Obra- -Prima, apenas para a fabricação de armas. Além disso, todas as armas obra-prima que você cria causam +2 pontos de dano.
+
+Espadachim Divino (Poder Concedido)
+Para você, a luta com espadas não é só combate: é adoração.
+Pré-requisito: devoto da espada-deus.
+Benefício: você causa dano com qualquer espada como se a arma pertencesse a uma categoria de tamanho maior (por exemplo, em suas mãos uma espada longa causa 2d6 de dano).
+
+Flecha Sublime (Poder Concedido)
+Com o arco, você não admite meio termo: qualquer tiro imperfeito é um erro.
+Pré-requisito: devoto de Cette.
+Benefício: antes de disparar uma flecha, você pode gastar uma ação de movimento para realizar um teste de Percepção (CD igual à CA do alvo). Em caso de sucesso, um ataque com arco e flecha contra esse alvo na mesma rodada será um acerto crítico automático, se acertar.
+
+Amor ao Machado (Poder Concedido)
+Você sabe como tratar os machados. E eles retribuem.
+Pré-requisito: devoto de Goharom.
+Benefício: qualquer machado utilizado por você adquire uma propriedade mágica equivalente a um bônus de +1 (por exemplo, afiado, de arremesso ou congelante).
+
+Força da Amizade (Poder Concedido)
+Você sabe que, sem nossos amigos, não somos nada.
+Pré-requisito: devoto de Artaphan.
+Benefício: você concede e recebe o dobro de bônus com a ação prestar ajuda (Tormenta RPG, página 81).
+
+Nascido no Convés (Poder Concedido)
+Para você, o balanço das ondas é mais natural que a terra firme.
+Pré-requisito: devoto de Marina.
+Benefício: você recebe +2 de bônus em CA e em todos os testes a bordo de um navio. Além disso, qualquer navio em que você esteja viajando move-se 25% mais rápido.
+
+Anatomia Insana Total (Tormenta)
+Seus órgãos vitais são dispersos, redundantes ou duplica- dos, tornando impossível atingi-lo em um ponto vital.
+Pré-requisito: Anatomia Insana.
+Benefício: você é imune a acertos críticos e ataques furtivos.
+Sentido Sísmico (Tormenta)
+Você pode perceber, por meio de pequenas antenas na fron- te, a presença de outras criaturas através de vibrações no solo.
+Pré-requisito: Sab 13.
+Benefício: você recebe a habilidade sentido sísmico, com alcance igual a 1,5m para cada talento da Tormenta que você possui.Este talento funciona mesmo fora de áreas de Tormenta.
+
+Alma do Dragão (Poder Concedido)
+Você se torna parte dragão.
+Pré-requisitos: devoto de Kallyadranoch; Asas do Dra- gão, Escamas do Dragão, Garras do Dragão, Sopro do Dragão, personagem de 16° nível.
+Benefício: você adquire o modelo meio-dragão (veja a se- guir), recebendo todos os seus poderes, exceto aqueles que já possui devido a seus pré-requisitos.
+
+Asas do Dragão (Poder Concedido)
+Asas de couro nascem em suas costas.
+Pré-requisitos: devoto de Kallyadranoch; personagem de 14° nível.
+Benefício: você pode voar com deslocamento 18m.
+
+Companheiro Dracônico (Poder Concedido)
+Através de um ritual oferecido a Kally, você foi premiado com um servo dracônico.
+Pré-requisitos: devoto de Kallyadranoch, Megalokk ou Wynna; companheiro animal ou familiar; personagem de 4° nível.
+Benefício: seu animal adquire o modelo meio-dragão (veja a seguir).
+
+Escamas do Dragão (Poder Concedido)
+Sua pele torna-se couro escamoso.
+Pré-requisito: devoto de Allihanna, Kallyadranoch ou Megalokk.
+Benefício: você recebe CA +2.
+
+Garras do Dragão (Poder Concedido)
+Suas mãos tornam-se garras.
+Pré-requisito: devoto de Allihanna, Kallyadranoch ou Megalokk.
+Benefício: você recebe dois ataques naturais de garras, que causam dano equivalente a uma adaga própria para seu tamanho (1d4 para uma criatura Média). Você pode fazer dois ataques de garras com uma ação padrão, mas se fizer isso sofre uma penalidade de –4 em todas as jogadas de ataque.
+
+Mágica do Dragão (Poder Concedido)
+Sua magia é fortificada pelo poder dracônico.
+Pré-requisitos: devoto de Kallyadranoch ou Wynna; qualquer talento metamágico.
+Benefício: uma vez por dia, você pode aplicar um talento metamágico a uma magia sem precisar pagar pelo custo extra em PM.
+
+Presença Aterradora (Poder Concedido)
+Você pode abalar seus inimigos.
+Pré-requisitos: devoto de Kallyadranoch, Megalokk, Ragnar ou Tenebra; Carisma 15; personagem de 4° nível.
+Benefício: ativar este talento exige uma ação livre (que en- volve algum ato dramático, como exibir as garras, abrir as asas ou rosnar), mas ele pode ser usado apenas uma vez por rodada. Todos os adversários do clérigo a até 9m devem fazer um teste de Vontade (CD 10 + metade do nível do clérigo + mo- dificador de Carisma). Em caso de falha, a vítima fica abalada (–2 em testes de habilidade, ataque, perícia e resistência) du- rante 1 minuto. Uma criatura bem-sucedida no teste fica imune a esta ha- bilidade por um dia. Este poder não afeta criaturas de nível superior ao clérigo. Este é um efeito de medo.
+
+Presença Aterradora Aprimorada (Poder Concedido)
+Você pode apavorar seus inimigos.
+Pré-requisitos: devoto de Kallyadranoch, Megalokk, Ragnar ou Tenebra; Carisma 15; Presença Aterradora; perso- nagem de 10° nível.
+Benefício: como Presença Aterradora, mas as vítimas ficam apavoradas (tentam fugir de qualquer forma possível pela duração do efeito). Se não puder fugir, a vítima apenas fica abalada.
+
+Servos do Dragão (Poder Concedido)
+Kobolds estão por toda parte. Você pode invocá-los como servos.
+Pré-requisitos: devoto de Kallyadranoch; Carisma 15; personagem de 4° nível.
+Benefício: com uma ação padrão, você pode conjurar um número de kobolds igual a seu nível multiplicado por seu bô- nus de Carisma. Então, um clérigo de 5° nível com Carisma 18 (+4) conjura 20 kobolds. Os kobolds surgem em qualquer ponto a até 9m, à sua escolha (de arbustos, buracos no chão, atrás dos móveis) e permanecem até serem destruídos ou dispensados pelo con- jurador, quando então desaparecem sem deixar vestígios. Os kobolds têm as mesmas estatísticas vistas em Tormenta RPG (página 276). Eles são leais a você, falam seu idioma e seguem suas ordens, incluindo lutar até a morte. Você pode usar este talento um número de vezes por dia igual a seu modificador de Carisma (mas não pode conjurar novos kobolds até que todos os antigos tenham sumido).
+
+Sopro do Dragão (Poder Concedido)
+Você pode expelir uma baforada de energia elemental.
+Pré-requisitos: devoto de Kallyadranoch; personagem de 10° nível.
+Benefício: você recebe um ataque de sopro que causa 1d6 pontos de dano por nível. Esse sopro tem a forma de um cone de fogo, frio, ácido ou energia negativa de 9m; ou uma linha de ácido ou eletricidade (como a magia relâmpago) de 18m. Um teste de Reflexos (CD 10 + metade de seu nível + seu bônus de Constituição) reduz o dano à metade. Usar o sopro é uma ação padrão, e ele pode ser usado uma vez por dia para cada ponto de seu bônus de Constituição (mínimo 1).
+Especial: você pode escolher Sopro de Dragão outra vez para mais utilizações diárias (iguais a seu bônus de Consti- tuição). Você não pode escolher um tipo de sopro diferente do primeiro.

@@ -1,0 +1,96 @@
+Acelerar Magia [metamágico]
+Você pode lançar magias mais rapidamente.
+Custo: +4 PM.
+Benefício: quando você usa este talento, pode lançar uma magia como uma ação livre. Lançar uma magia acelerada não dei- xa você desprevenido. Você só pode usar este talento uma vez por rodada. Magias com um tempo de execução maior que uma ação completa não são afetadas por este talento.
+
+Ampliar Magia [metamágico]
+Você pode fazer com que uma magia afete uma área maior.
+Custo: +3 PM.
+Benefício: quando você usa este talento, a área da magia é duplicada (por exemplo, uma bola de fogo ampliada tem 12m de raio, em vez de 6m). Magias sem área de efeito não são afetadas por este talento.
+
+Aumentar Magia [metamágico]
+Você pode aumentar o alcance de uma magia. Custo: +1 PM.
+Benefício: quando você usa este talento, o alcance da magia é duplicado (por exemplo, um relâmpago aumentado tem um alcan- ce de 90m, em vez de 45m). Magias sem alcance medido em metros não podem ser afeta- das por este talento.
+
+Conhecimento Mágico
+Você estudou para aumentar seu repertório de magias.
+Benefício: você aprende mais duas magias de quaisquer níveis que possa lançar. Por exemplo, se você é um mago de 3o nível, pode aprender duas magias novas de 1o ou 2o nível.
+Especial: você pode escolher este talento diversas vezes. Cada vez, você aprende duas novas magias.
+
+Contramágica Aprimorada
+Você sabe contra-atacar uma magia com mais eficiência.
+Benefício: você pode usar qualquer magia como contra- mágica, desde que seu custo em PM seja igual ou superior ao custo da magia que você quer anular.
+Normal: um personagem sem este talento só pode usar como contramágica uma magia igual à que ele quer anular.
+
+Dominar Magia
+Escolha uma magia. Você tem mais familiaridade com ela.
+Benefício: o custo em PM para lançar a magia escolhida di- minui em 1. O custo final (após aplicar todos os modificadores, incluindo este talento e talentos metamágicos) é no mínimo 1 PM.
+
+Elevar Magia [metamágico]
+Você pode tornar uma magia mais poderosa.
+Custo: +1 PM por nível que se deseja aumentar.
+Benefício: uma magia elevada tem um nível de magia mais alto que o normal (até um máximo de 9o nível). Diferente de ou- tros talentos metamágicos, Elevar Magia aumenta verdadeiramen- te o nível da magia. Todos os efeitos dependentes de nível (como CD para resistir) são calculados de acordo com o nível elevado.
+
+Estender Magia [metamágico]
+Você sabe fazer com que uma magia dure mais tempo.
+Custo: +1 PM.
+Benefício: a duração da magia é duplicada (por exemplo, um imobilizar pessoa estendido dura 2 minutos, em vez de 1 min). Magias com duração instantânea, permanente ou concentra- ção não podem ser afetadas por este talento.
+
+Familiar
+Você possui um animal de estimação mágico.
+Pré-requisito: capacidade de lançar magias arcanas.
+Benefício: você recebe a habilidade familiar do mago. Con- sulte a descrição da classe mago para mais detalhes.
+Especial: um mago que já possua a habilidade de classe fami- liar não pode escolher este talento.
+
+Foco em Magia
+Escolha uma magia. Quando você lança essa magia, é difícil que seus inimigos resistam ao efeito.
+Benefício: a dificuldade do teste de resistência contra a magia escolhida aumenta em CD+2.
+
+Foco em Magia Aprimorado
+Escolha uma magia. Quando você lança essa magia, é muito difícil que seus inimigos resistam ao efeito.
+Pré-requisito: Foco em Magia com a magia escolhida.
+Benefício: o aumento de dificuldade oferecido pelo talento Foco em Magia aumenta para CD+4.
+
+Magia Natural
+Você pode lançar magias mesmo quando transformado em outra criatura.
+Pré-requisitos: Sab 13, habilidade de forma selvagem.
+Benefício: sem este talento você pode lançar magias quando está na forma selvagem.
+Normal: um personagem sem este talento não pode usar ma- gias quando está na forma selvagem.
+
+Magia Sem Gestos [metamágico]
+Você consegue lançar magias sem gestos.
+Custo: +1 PM.
+Benefício: uma magia sem gestos pode ser lançada sem ne- nhum componente gestual.
+
+Magia Silenciosa [metamágico]
+Você consegue lançar magias sem falar.
+Custo: +1 PM.
+Benefício: uma magia silenciosa pode ser lançada sem ne- nhum componente verbal.
+
+Magias em Combate
+Você é habilidoso ao lançar magias em situações de perigo.
+Benefício: você não fica desprevenido quando lança uma magia.
+Normal: um personagem sem este talento fica desprevenido até seu próximo turno quando lança uma magia.
+
+Mago de Batalha
+Você se especializou em magias de combate, e sabe como au- mentar o poder delas.
+Pré-requisitos: Int 13, Magias em Combate, mago 4o nível.
+Benefício: você soma seu modificador de Inteligência às joga- das de dano de suas magias.
+
+Maximizar Magia [metamágico]
+Você consegue fazer com que suas magias tenham efeito máximo.
+Custo: +3 PM.
+Benefício: quando você usa este talento, todos os efeitos numéricos variáveis da magia são aumentados ao máximo. Por exemplo, uma bola de fogo capaz de causar 6d6 pontos de dano, quando maximizada, causará 36 pontos de dano (mais quaisquer bônus), sem a necessidade de rolar dados. Uma magia sem efeitos variáveis não pode ser afetada por este talento. Uma magia potencializada e maximizada adquire os benefícios separados de cada talento: o resultado máximo, mais metade do resultado jogado normalmente.
+
+Poder Mágico
+Você tem uma parcela maior de poder mágico.
+Benefício: você recebe 1 ponto de magia adicional. Especial: você pode escolher este talento diversas vezes. Cada vez que ele é escolhido além da primeira, os pontos de magia forne- cidos pelo talento aumentam em +1. Por exemplo, um personagem que tenha escolhido Poder Mágico três vezes recebe um total de 6 PM adicionais (1 PM pela primeira vez, 2 PM pela segunda e 3 PM pela terceira).
+
+Potencializar Invocação
+As criaturas que você invoca são mais poderosas.
+Benefício: as criaturas que você invoca com as magias invocar recebem +2 em suas jogadas de ataque e dano.
+
+Potencializar Magia [metamágico]
+Você faz com que suas magias tenham efeito maior.
+Custo: +2 PM.
+Benefício: quando você usa este talento, todos os efeitos nu- méricos variáveis da magia são aumentados em 50%. Por exemplo, um relâmpago capaz de causar 6d6 pontos de dano, após rolar 21, causa mais 50% (neste caso, 10), para um total de 31 pontos de dano. Quaisquer bônus que você tenha também são potencializados. Uma magia sem efeitos variáveis não pode ser afetada por este talento. Uma magia potencializada e maximizada adquire os benefí- cios separados de cada talento: o resultado máximo, mais metade do resultado jogado normalmente.

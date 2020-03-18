@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+body, html {
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Press Start 2P', cursive;
+}
+
+.app-screen {
+    display: grid;
+}
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+    .app-screen {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .app-screen {
+        grid-template-columns: 1fr 9fr;
+
+    }
+}
+
+.center {
+    align-self: center;
+    justify-self: center;
+}

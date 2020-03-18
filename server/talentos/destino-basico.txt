@@ -1,0 +1,86 @@
+Ajuda dos Ancestrais
+Você pode orar aos espíritos de seus ancestrais e perguntar a eles sobre seu destino.
+Pré-requisito: Sab 13.
+Benefício: você pode lançar a magia adivinhação uma vez por dia, sem gastar pontos de magia.
+
+Ao Sabor do Destino
+Alguns dias são da caça, outros do caçador. Alguns dias são do fora da lei e outros do oficial da lei! Se hoje você está carregado de tesouros, amanhã pode estar fugindo pela vida com as calças na mão e estômago roncando. Outros confiam em equipamento mágico. Mas você confia apenas em sua própria habilidade e sorte.
+Pré-requisitos: Car 13, personagem 5o nível.
+Benefício: você recebe os seguintes benefícios, de acordo com seu nível de personagem. Caso adquira este talento depois do 5o nível, você recebe todos os benefícios dos níveis anteriores.
+Especial: quando você utiliza voluntariamente qualquer item mágico (exceto poções), perde o benefício deste talento por um mês. Você ainda pode lançar magias, receber magias benéficas, ou benefi- ciar-se de itens usados por outros — por exemplo, você pode “ir de carona” em um tapete voador, mas não pode você mesmo conduzi-lo.
+
+Atraente
+Olhos bonitos, traços delicados, voz melodiosa... Algo em sua aparência chama à atenção.
+Benefício: você recebe +4 nos testes de Diplomacia e Enganação contra qualquer um que possa se sentir fisicamente atraído por você.
+
+Comandar
+Você sabe como liderar outros em batalha.
+Pré-requisito: Car 13.
+Benefício: você pode usar uma ação padrão para gritar ordens para seus aliados. Aqueles que puderem ouvi-lo recebem +1 em suas jogadas e testes por um número de rodadas igual a 1 + seu modificador de Carisma.
+
+Corrida
+Você corre. Rápido.
+Benefício: seu deslocamento aumenta em +3m.
+
+Devoto
+Escolha um deus. Você segue fielmente o deus escolhido, re- cebendo uma pequena porção de poder mágico divino por isso.
+Pré-requisitos: Sab 11, estar entre os adoradores típicos do deus escolhido (veja em “Deuses”, no Capítulo 6).
+Benefício: escolha uma magia divina de nível 0. Você pode lançar esta magia até três vezes por dia, como se fosse um clérigo.
+Especial: este talento funciona como a habilidade de classe devoto (de clérigos, druidas e paladinos), permitindo que você ad- quira talentos de Poder Concedido de sua divindade padroeira. Este talento pode ser adquirido várias vezes. Cada vez que é adquirido, você deve escolher outra magia.
+
+Estudioso Arcano
+Você estudou um pouco sobre magia.
+Pré-requisitos: Int 11.
+Benefício: escolha uma magia arcana de nível 0. Você pode lançar esta magia até três vezes por dia, como se fosse um mago.
+Especial: este talento pode ser adquirido várias vezes. Cada vez que é adquirido, você deve escolher outra magia.
+
+Expulsão Aprimorada
+Você consegue expulsar ou comandar mortos-vivos com mais eficácia.
+Pré-requisitos: Expulsar/Fascinar Mortos-Vivos.
+Benefício: a dificuldade do teste de Vontade contra o talento Expulsar/Fascinar Mortos-Vivos aumenta em CD+2.
+
+Expulsar/Fascinar Mortos-Vivos
+Você pode usar sua energia positiva para expulsar mortos- -vivos, ou energia negativa para fasciná-los.
+Pré-requisito: habilidade de canalizar energia positiva/ negativa.
+Benefício: este talento afeta todos os mortos-vivos a até 9m. Se você canaliza energia positiva, pode deixá-los apavorados du- rante um minuto. Se canaliza energia negativa, pode deixá-los sob seu comando. Dar uma ordem aos mortos-vivos é uma ação de movimento. O nível somado de mortos-vivos sob seu comando não pode exceder seu próprio nível. Mortos-vivos têm direito a um teste de Vontade (CD 10 + metade de seu nível + modificador de Carisma) para evitar qual- quer destes efeitos. Usar este talento é uma ação padrão, e gasta uma utilização diária da habilidade canalizar energia positiva/negativa.
+
+Fortitude Maior
+Você tem mais resistência física que as pessoas normais.
+Benefício: seu bônus base de Fortitude aumenta +2.
+Especial: você pode escolher este talento diversas vezes. Seus efeitos se acumulam.
+
+Liderança
+Por suas façanhas, você atraiu uma ou mais pessoas que dese- jam servir a você.
+Pré-requisito: personagem 6o nível.
+Benefício: escolha entre ter um parceiro, ou ter seguidores. Um parceiro é um segundo personagem, dois níveis abaixo do seu. Você é livre para construir esse personagem, escolhendo sua raça e classe — mas a tendência do parceiro deve estar apenas um passo distante da sua. O parceiro avança de nível quando você também avança. Um parceiro é alguém leal, que segue seu personagem por razões pessoais. Ele segue suas ordens, e pode até arriscar a vida para ajudá-lo. Mas um parceiro constantemente maltratado pode — por intervenção do mestre — desistir de segui-lo. Se escolheu seguidores, você tem uma quantidade de níveis de seguidores igual a seu nível multiplicado por seu modificador de Carisma (mínimo 1). Por exemplo, um paladino de 10o nível e Carisma 16 (+3) tem 30 níveis de seguidores. Você pode distribuir os níveis como quiser para construir os personagens, mas o nível máximo que eles podem ter é igual a metade do seu. Então, o mes- mo paladino poderia ter seguidores de até 5o nível. Essa diferença de poder torna os seguidores ineficazes em combate. Em geral eles atuam apenas contra adversários fracos, ou então como ajudantes, guardas, mensageiros, carregadores... Seguidores podem ser de qualquer tendência, mas não cos- tumam ser tão leais ou corajosos quanto parceiros. Podem lutar se ordenados, mas abandonam a luta se perdem metade ou mais de seus pontos de vida. Seguidores não sobem de nível; quando você sobe de nível, ganha mais seguidores. Ao perder parceiros ou seguidores (por morte ou desistência), você vai precisar de 1d4 meses para encontrar outros.
+Especial: você pode escolher este talento duas vezes, uma para parceiro e uma para seguidores.
+
+Linguista
+Neste mundo de muitas línguas e culturas, você tem aptidão para aprender idiomas de outros povos.
+Benefício: você aprende um número de novos idiomas igual a 3 + seu modificador de Inteligência (mínimo 1).
+Especial: você pode escolher este talento diversas vezes. Seus efeitos se acumulam.
+
+Reflexos Rápidos
+Você tem Reflexos apurados.
+Benefício: seu bônus base de Reflexos aumenta +2.
+Especial: você pode escolher este talento diversas vezes. Seus efeitos se acumulam.
+
+Surto Heroico
+Graças a seu ímpeto de heroísmo, você consegue realizar mais em menos tempo.
+Pré-requisitos: tendência Bondosa.
+Benefício: você pode realizar uma ação padrão ou de movi- mento adicional na rodada. Por exemplo, pode realizar uma ação completa e uma ação padrão, ou uma ação padrão e duas ações de movimento, ou qualquer outra combinação. Você pode usar este talento uma vez por dia.
+
+Terreno Familiar
+Escolha um tipo de terreno entre deserto, floresta, monta- nhas, pântano, planície, selva, tundra, aquático, subterrâneo ou área de Tormenta. Você é mais habilidoso neste tipo de terreno.
+Benefício: você recebe +2 na classe de armadura e testes de Acrobacia, Atletismo, Furtividade, Percepção e Sobrevivência quando estiver no tipo de terreno escolhido.
+Especial: de acordo com o mestre, você também pode es- colher um lugar específico como seu terreno familiar, como um vale, uma cidade, uma estrada, um navio... No entanto, você não pode escolher áreas de grande extensão como as Montanhas San- guinárias, Galrasia, o Rio dos Deuses, ou qualquer das nações do Reinado.
+
+Tolerância
+Você segue em frente mesmo quando os outros já cansaram ou caíram.
+Benefício: você recebe +4 em testes de Constituição para prender o fôlego e evitar dano por fome ou sede, e em testes de Fortitude para evitar dano por frio ou calor. Você também pode dormir de armadura sem ficar fatigado.
+Normal: um personagem sem este talento que durma de ar- madura acorda fatigado no dia seguinte.
+
+Vontade de Ferro
+Você tem uma imensa força de vontade.
+Benefício: seu bônus base de Vontade aumenta +2.
+Especial: você pode escolher este talento diversas vezes. Seus efeitos se acumulam.

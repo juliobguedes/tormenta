@@ -1,0 +1,15 @@
+Destruir o Mal Aprimorado 
+Oponentes malignos caem como moscas frente ao seu poder divino.
+Pré-requisito: habilidade de classe destruir o mal.
+Benefício: ao utilizar a habilidade destruir o mal, você recebe um bônus de +4 na jogada de ataque ou na jogada de dano. Você escolhe o tipo de bônus que deseja utilizar antes da jogada de ataque.
+
+Destruir o Mal Persistente
+Você não se abala com pequenas derrotas.
+Pré-requisito: habilidade de classe destruir o mal.
+Benefício: se você errar o ataque ou atacar um alvo não Maligno ao utilizar a habilidade destruir o mal, você não gasta um uso da habilidade.
+Normal: errando ou acertando, você gasta um uso da habilidade destruir o mal.
+
+Salto para a Salvação
+Seu objetivo no combate não é matar inimigos. É salvar aliados.
+Pré-requisitos: treinado em Cura e Iniciativa.
+Benefício: declare que sua ação na próxima rodada será curar um companheiro específico (você deve dizer quem). Você torna-se o primeiro a agir na ordem de iniciativa a partir da próxima rodada e ganha uma ação de movimento adicional, que deve usar especificamente para se mover até o companheiro. Você pode usar este talento uma vez por combate.

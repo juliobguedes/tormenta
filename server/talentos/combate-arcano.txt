@@ -1,0 +1,29 @@
+Ameaça Concreta
+Você não ameaça - você conjura.
+Pré-requisito: Car 13.
+Benefício: sempre que você reduzir os PV de um inimigo para 0 ou menos usando uma magia, seus oponentes hesitam. Todos os inimigos que tiverem nível igual ou menor ao oponente que você derrubou sofrem uma penalidade de -1 em jogadas de ataque e testes de resistência até o final do encontro. Apenas criaturas inteligentes (Int 3 ou maior) são afetadas.
+
+Duelista Arcano
+Você é hábil em prever as manobras de outros conjuradores e contra-atacá-las.
+Pré-requisito: treinado em Percepção e Identificar Magia.
+Benefício: você pode gastar uma ação de movimento para fazer um teste de Identificar magia oposto pelo teste de Enganação de qualquer conjurador que esteja vendo. Se você for bem-sucedido, descobre se aquele conjurador vai lançar uma magia em seu próximo turno, e qual magia será lançada.
+
+Especialização em Raio
+Seus raios são mais poderosos.
+Pré-requisito: Foco em Raio.
+Benefício: você recebe um bônus de +3 em jogadas de dano com magias que exigem ataques de toque à distância.
+
+Especialização em Toque
+Seus ataques de toque são mais poderosos.
+Pré-requisito: Foco em Toque.
+Benefício: você recebe um bônus de +3 em jogadas de dano com magias que exigem ataques de toque.
+
+Foco em Toque
+Seus ataques de toque são mais precisos.
+Pré-requisito: bônus base de ataque +1.
+Benefício: você recebe um bônus de +2 em jogadas de ataque com magias de exigem ataques de toque.
+
+Foco em Raio
+Seus raios são mais precisos.
+Pré-requisito: bônus base de ataque +1.
+Benefício: você recebe um bônus de +2 em jogadas de ataque com magias que exigem ataques de toque à distância.

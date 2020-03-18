@@ -1,0 +1,43 @@
+Anatomia Insana
+Seus órgãos vitais não ficam exatamente onde deveriam, sen- do mais difícil atingi-lo em um ponto vital.
+Benefício: você tem 25% de chance de ignorar o dano adicio- nal de um acerto crítico ou ataque furtivo.
+
+Carapaça
+Sua pele foi desfigurada pela Tormenta, adquirindo grande resistência a golpes.
+Benefício: você recebe +1 na CA. Este bônus aumenta em +1 para cada dois outros talentos da Tormenta que você possui.
+
+Corpo Aberrante
+Sua carne, mesclada à matéria vermelha da Tormenta, recebeu uma resistência impressionante.
+Pré-requisito: outro talento da Tormenta.
+Benefício: você recebe redução de dano 1. Esta redução de dano aumenta em 1 para cada dois outros talentos da Tormenta que você possui.
+
+Membros Estendidos
+Seus braços são longos e deformados.
+Benefício: o alcance de seus ataques corporais aumenta em 1,5m (se você for uma criatura Média, por exemplo, seu alcance natural passa para 3m).
+
+Mente Caótica
+É perigoso fazer contato com sua mente distorcida pela in- fluência lefeu.
+Pré-requisitos: tendência Caótica.
+Benefício: qualquer criatura que tente ler ou estudar sua mente deve ser bem-sucedida em um teste de Vontade (CD 20 + seu número de talentos da Tormenta). Se falhar, a criatura fica atordoada por um número de rodadas igual ao número de talentos da Tormenta que você possui.
+
+Resistência a Energia
+Escolha um tipo de energia, entre ácido, eletricidade, fogo, frio ou sônico. Assim como os lefeu, você é resistente às energias naturais de nosso mundo.
+Benefício: você recebe resistência 2 contra o tipo de energia escolhido. Essa resistência aumenta em 2 para cada outro talento da Tormenta que você possui.
+
+Sentido Sísmico
+Você pode perceber, por meio de pequenas antenas na fron- te, a presença de outras criaturas através de vibrações no solo.
+Pré-requisitos: Sab 13.
+Benefício: você percebe qualquer criatura em movimento que esteja em contato com o chão. Este sentido tem alcance igual a 1,5m para cada talento da Tormenta que você possui.
+
+Visão Ampla
+Você tem olhos maiores e bulbosos, capazes de ver em todas as direções.
+Pré-requisitos: Sab 13.
+Benefício: você recebe +4 em testes de Percepção e não pode ser flanqueado.
+
+Visão no Escuro
+Você pode ver no escuro.
+Benefício: você recebe visão no escuro 18m. Se você já possui visão no escuro, seu alcance aumenta em +18m.
+
+Visco Rubro
+Suas mãos expelem um líquido escuro e grosso, que queima quando entra em contato com outras substâncias.
+Benefício: você recebe um bônus de +1 nos ataques corpo-a- -corpo. Este bônus aumenta em 1 para cada dois outros talentos da Tormenta que você possui.

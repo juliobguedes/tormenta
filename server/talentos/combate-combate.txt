@@ -1,0 +1,204 @@
+Alcance Supremo
+Você sabe esticar seu corpo e posicionar-se de forma a cobrir uma grande extensão do campo de batalha.
+Pré-requisito: Especialização em Arma.
+Benefício: enquanto estiver usando uma arma na qual você tenha Especialização em Arma, aumente seu alcance natural em 1,5m.
+
+Animal Encurralado
+Você é mais perigoso quando está cercado de inimigos.
+Pré-requisito: Destreza 13.
+Benefício: quando você estiver flanqueado, sua margem de ameaça aumenta em 1 por oponente que estiver flanqueando- -o. Por exemplo, se estiver usando uma espada longa (margem de ameaça 19-20) e sendo flanqueado por dois oponentes, sua margem de ameaça passa para 17-20. Este benefício se aplica apenas contra oponentes que estão flanqueando-o.
+
+Ataque com Escudo
+Você é treinado em atacar com uma arma e um escudo.
+Pré-requisito: Usar Escudo.
+Benefício: se estiver usando um escudo, você pode fazer um ataque adicional com ele. No entanto, você sofre uma pe- nalidade de –2 em todas as jogadas de ataque e perde o bônus que o escudo fornece à CA até sua próxima rodada.
+
+Ataque Poderoso Aprimorado
+Seus golpes destruidores são destruidores mesmo.
+Pré-requisito: Ataque Poderoso, bônus base de ataque +6.
+Benefício: como Ataque Poderoso, mas você pode sofrer uma penalidade de –4 no ataque para receber um bônus de +8 no dano (não cumulativo com Ataque Poderoso).
+
+Até Acertar
+Você não desiste frente a pequenas falhas. Tenta de novo e de novo, até ser bem-sucedido!
+Pré-requisito: Foco em Arma.
+Benefício: se você errar um ataque usando uma arma na qual possui Foco em Arma, recebe um bônus de +1 em jogadas de ataque, desde que use a mesma arma contra o mesmo opo- nente. Caso erre o segundo ataque, recebe um bônus de +2 no ataque posterior, e assim por diante. O bônus termina quando você acertar um ataque.
+
+Basta!
+Você está farto dos truques e artimanhas de seus oponentes. Vai acabar com esta luta em um único golpe!
+Pré-requisitos: Vontade de Ferro, bônus base de ataque +10.
+Benefício: uma vez por dia, um golpe seu pode ignorar qualquer camuflagem, imunidade e redução de dano do alvo. Se você errar o ataque, o uso diário não é perdido.
+
+Bote da Víbora
+Você corre em direção ao inimigo e golpeia com duas armas num único ataque.
+Pré-requisito: Combater com Duas Armas.
+Benefício: se você estiver lutando com duas armas, pode fazer um ataque com cada uma no final de uma investida. O ataque sofre a penalidade por atacar com duas armas e o bônus por investida, como normal.
+
+Brecha na Guarda
+Você sabe se aproveitar das falhas na defesa de seu oponente. Não é covardia — é sobrevivência.
+Pré-requisito: tendência não Leal.
+Benefício: você recebe um bônus de +4 nas jogadas de dano contra oponentes atordoados, caídos ou desprevenidos.
+
+Conhecimento de Golpes
+Você aprendeu golpes especiais, mais complexos — e eficazes — que meros cortes e estocadas.
+Pré-requisito: bônus base de ataque +1.
+Benefício: você recebe dois golpes da lista a partir da página 37, e 3 pontos de energia.
+Especial: você pode escolher este talento diversas vezes. A cada vez que escolhe, recebe dois golpes e 3 pontos de energia.
+
+Conhecimento de Posturas
+Você treinou diversas posições de luta, e pode trocar entre elas conforme a situação exige.
+Pré-requisito: bônus base de ataque +1.
+Benefício: você recebe duas posturas da lista a partir da página 40.
+Especial: você pode escolher este talento diversas vezes. A cada vez que escolhe, recebe duas posturas.
+
+Duro de Ferir
+Quando está descansado e novo em folha, nada parece abalá-lo.
+Pré-requisito: Constituição 13.
+Benefício: você ignora o primeiro dano que sofre a cada combate.
+
+Entrada Triunfal
+Quando você consegue agir primeiro, é capaz de ditar os termos do combate.
+Pré-requisitos: Destreza 13, Iniciativa Aprimorada.
+Benefício: sempre que você ganhar a iniciativa, recebe uma quantidade de PV temporários igual à metade de seus PV normais.
+
+Erosão
+Não importa a resistência do inimigo. Você é persistente, e continua golpeando até acabar com suas defesas.
+Pré-requisito: Ataque Poderoso.
+Benefício: sempre que você acertar um ataque corpo-a- -corpo em um inimigo que tenha redução de dano, ele perde 1 ponto de sua RD. Caso faça um acerto crítico, em vez disso ele perde 2 pontos de sua RD. A redução de dano do inimigo volta ao normal após o fim do combate. Este talento afeta qualquer tipo de RD, mesmo aquelas que não podem ser ignoradas.
+
+Escudo Destemido
+Você avança sem medo contra o inimigo, confiando que seu escudo irá protegê-lo.
+Pré-requisito: Usar Escudo.
+Benefício: se estiver usando um escudo, você não sofre a penalidade de –2 em CA ao fazer uma investida.
+
+Escudo Fraterno
+Você aprendeu a usar seu escudo para proteger seus alia- dos, além de si mesmo.
+Pré-requisito: Usar Escudo.
+Benefício: se você terminar seu turno adjacente a um aliado, pode conceder seu bônus de escudo em CA a ele (sem que você mesmo o perca). Seu aliado perde o bônus se não estiver mais adjacente a você.
+Especial: o benefício deste talento não pode ser usado numa falange.
+
+Escudo Heroico
+Você arremessa seu escudo como uma arma mortal.
+Pré-requisito: Ataque com Escudo Aprimorado.
+Benefício: você pode usar seu escudo como uma arma de arremesso. Um escudo leve tem incremento de alcance de 15m e um escudo pesado tem incremento de alcance de 9m. Todas as outras estatísticas do escudo são iguais às de um ata- que em corpo-a-corpo com o escudo. Sempre que você acerta um adversário com um escudo arremessado, o escudo retorna à sua mão na mesma rodada, desde que o adversário atingido não esteja a mais de um incremento de distância de você. Você recebe o bônus em CA pelo escudo se estiver empunhando-o, mesmo que tenha arremessado-o na mesma rodada.
+
+Escudo Inteligente
+Quando você arremessa seu escudo, ele parece ter vida própria.
+Pré-requisito: Escudo Heroico.
+Benefício: sempre que você acerta um adversário ar- remessando um escudo, o escudo ricocheteia no oponente e tenta atingir um segundo oponente que esteja dentro de um incremento de distância do primeiro. Caso acerte este segundo ataque, o escudo busca um terceiro oponente, que esteja dentro de um incremento de distância do segundo, e assim por diante, até que um ataque erre. Você não sofre penalidades por distância além do primeiro ataque, mas cada ataque além do primeiro impõe uma penalidade cumulativa de –2 (assim, –2 para o segundo ataque, –4 para o terceiro, –6 para o quarto, etc.). Após o primeiro erro, o escudo ricocheteianasuperfíciesólidamais próxima e volta à sua mão, desde que não esteja fora do alcance máximo em relação a você. Você recebe o bônus em CA pelo es- cudo se estiver empunhando-o, mesmo que tenha arremessado-o na mesma rodada.
+
+Escudo Veloz
+Você sabe usar seu escudo para se defender de ataques de todos os lados.
+Pré-requisito: Usar Escudo.
+Benefício: se você estiver usando um escudo, não pode ser flanqueado.
+
+Estocada Cruel
+Você é capaz de atravessar seus oponentes com golpes precisos.
+Pré-requisito: Foco em Arma (qualquer arma corpo-a- -corpo de perfuração).
+Benefício: sempre que você acerta um ataque com uma arma corpo-a-corpo de perfuração na qual você tenha Foco em Arma, seu oponente fica sangrando. Deve fazer um teste de Constituição contra CD 15 no início de cada turno; se for bem-sucedido, estabiliza-se. Se falhar, sofre 1d4 pontos de dano e continua sangrando.
+Especial: criaturas imunes a acertos críticos também são imunes a este talento. O efeito deste talento não se acumula consigo mesmo.
+
+Estocada Cruel Maior
+Os inimigos viram espetinho frente à sua lâmina!
+Pré-requisitos: Estocada Cruel, bônus base de ataque +6.
+Benefício: como Estocada Cruel, acima. Contudo, o efeito do talento passa a se acumular consigo mesmo. Por exemplo, caso você acerte três golpes no mesmo oponente, ele deverá fazer três testes de Constituição, perdendo 1d4 PV por falha.
+Especial: criaturas imunes a acertos críticos continuam imunes a este talento.
+
+Exterminador de Monstros
+Você é um especialista em matar criaturas gigantescas.
+Pré-requisito: bônus base de ataque +8.
+Benefício: você recebe +2 nas joga- das de dano contra criaturas Grandes ou maiores. Além disso, seus inimigos não recebem bônus por tamanho em testes de manobra (como agarrar, derrubar ou empurrar).
+
+Falange
+Você é experiente em lutar em uma formação compacta, jun- tando seu escudo com os de seus companheiros.
+Pré-requisito: Usar Escudo.
+Benefício: se você estiver usando um escudo, recebe um bônus de +1 na CA. Além disso, se estiver adjacente a um aliado com este talento, vocês podem gastar uma ação de movimento para for- mar uma falange. Uma falange concede cobertura a todos os seus participantes.
+
+Foco em Escudo
+Escolha um tipo de escudo entre leve, pesado ou de corpo. Com o tipo escolhido você consegue se proteger muito bem de golpes e outros tipos de ataque.
+Pré-requisito: saber usar o tipo de escudo escolhido.
+Benefício: quando estiver usando um escudo do tipo escolhido, você aumenta seu bônus de CA em +1 e recebe um bônus de +1 em todos os testes de resistência.
+
+Golpe Especial
+Você é um herói. E todo herói tem seu golpe característico.
+Pré-requisito: Surto Heroico.
+Benefício: sempre que você usar Surto Heroico para fazer um ataque adicional, pode fazer um golpe especial. Este golpe recebe um bônus de +2 nas jogadas de ataque e dano, além de um poder especial de arma mágica equivalente a um bônus de +2 (veja em Tormenta RPG, Capítulo 10). Uma vez que você escolha o poder especial do seu golpe, não pode trocá-lo.
+
+Impacto Estonteante
+Seus oponentes ficam tontos ante a força de suas pancadas.
+Pré-requisito: Foco em Arma (qualquer arma corpo-a- -corpo de esmagamento).
+Benefício: sempre que você acerta um ataque com uma arma corpo-a-corpo de esmagamento na qual você tenha Foco em Arma, seu oponente sofre uma penalidade de –1 em seus ataques na rodada seguinte. Caso você consiga um acerto críti- co, a penalidade é de –2.
+
+Impacto Estonteante Maior
+Suas pancadas deixam seus oponentes no chão!
+Pré-requisitos: Impacto Estonteante, bônus base de ata- que +6.
+Benefício: como Impacto Estonteante, acima. Contudo, o oponente também deve fazer um teste de Reflexos contra CD 10 + metade do seu nível + seu modificador de Força. Em caso de falha, ele cai no chão.
+
+Imobilização
+Você sabe como imobilizar um inimigo agarrado.
+Pré-requisito: Agarrar Aprimorado.
+Benefício: você pode imobilizar uma criatura que esteja agarrando. Para isso, gaste uma ação padrão e faça um teste de manobra (veja o Capítulo 9 de Tormenta RPG). Se for bem- -sucedido, imobiliza a criatura — ela fica indefesa e não pode realizar nenhuma ação, exceto tentar se soltar (o que exige um teste de manobra). Caso a criatura consiga se soltar da imobili- zação, ainda fica agarrada. Enquanto estiver imobilizando uma criatura, você sofre as mesmas penalidades de agarrar.
+
+Investida Ricochete
+Você é capaz de ricochetear de um inimigo que tenha acabado de atacar, já partindo para o próximo ataque.
+Pré-requisitos: Foco em Arma (qualquer arma corpo-a- -corpo de esmagamento), Mobilidade.
+Benefício: quando você fizer uma investida usando uma arma corpo-a-corpo de esmagamento com a qual tenha Foco em Arma, pode ricochetear do oponente, indo atacar um se- gundo inimigo. Após realizar o ataque, mova-se para o segun- do inimigo, como se fizesse uma outra investida. Esta segunda investida não gera um novo ricochete.
+
+Mobilidade Perfeita
+Você é um relâmpago no campo de batalha — até mesmo magias têm dificuldade em atingi-lo!
+Pré-requisito: Mobilidade.
+Benefício: você recebe um bônus de +2 em testes de resistência sempre que usar uma ação de movimento para se deslocar em combate.
+Especial: se você estiver usando a regra opcional de ata- ques de oportunidade (veja o Capítulo 9 de Tormenta RPG), você não provoca ataques de oportunidade por se deslocar.
+
+Morte Vinda do Céu
+Você salta com selvageria sobre seus oponentes!
+Pré-requisitos: habilidade de classe fúria, treinado em Atletismo.
+Benefício: quando estiver em fúria e fizer uma investida, você pode saltar em direção a seu inimigo. Isso significa que você ignora terreno difícil e pode fazer a investida mesmo que não haja uma linha reta pelo solo (desde que nenhum dos obs- táculos seja muito alto, segundo a decisão do mestre).
+
+Olhos nas Costas
+Você está prevenido contra inimigos que atacam pelas costas.
+Pré-requisitos: treinado em Percepção, Mobilidade.
+Benefício: na primeira vez que você for flanqueado durante um combate, pode realizar uma manobra especial instantaneamente, fora de seu próprio turno. Você tem direito a um ataque imediato contra um dos oponentes que estão flanqueando-o, antes que eles mesmos possam atacar. Em seguida, você pode se mover 1,5m em qualquer direção. Após você completar seu movimento, os adversários continuam suas ações normalmente.
+
+Parede de Escudos
+Ao lado de seus companheiros, seu escudo é uma defesa impenetrável.
+Pré-requisito: Falange.
+Benefício: se você estiver participando de uma falange, pode fazer um ataque corpo-a-corpo imediato contra qual- quer criatura que se mova para ficar adjacente a você ou aos aliados adjacentes a você. Este talento só pode ser usado uma vez por rodada.
+
+Retroceder Nunca, Render-se Jamais
+Você não desiste!
+Pré-requisitos: Vitalidade, Vontade de Ferro.
+Benefício: quando você estiver com menos da metade dos seus PV totais, recebe um bônus de +2 em CA e em todos os testes de resistência. Se estiver com menos da metade dos seus PV totais e todos os seus aliados já tiverem sido derrotados (você for o último “de pé”), estes bônus dobram. Este efeito acaba se você ficar com mais da metade dos seus PV totais.
+
+Rigidez Raivosa
+Ser ferido não o abala, só aumenta sua resolução.
+Pré-requisitos: Casca Grossa, Fortitude Maior.
+Benefício: sempre que você sofrer dano físico, recebe redução de dano 1, cumulativa com quaisquer outras fontes. Por exemplo, se sofrer três golpes que causem dano físico, recebe redução de dano 3. Este efeito acaba assim que você recuperar pontos de vida por qualquer razão, ou assim que o combate terminar.
+
+Sucesso Atrai Sucesso
+Uma vez que entre no ritmo do combate, você se torna invencível.
+Pré-requisito: bônus base de ataque +6.
+Benefício: gaste 1 ponto de ação na primeira rodada de combate. Durante o combate inteiro, cada acerto crítico que você fizer aumenta sua margem de ameaça em 1 ponto. Por exemplo, após o primeiro acerto crítico, o bônus na margem de ameaça é de +1. Após o segundo, é de +2, e assim por diante.
+
+Tiro Especial
+Você é capaz de disparos espantosos, capazes de derrubar, desarmar ou empurrar seus inimigos.
+Pré-requisitos: Des 15, Tiro Certeiro, Tiro Preciso, bônus base de ataque +4.
+Benefício: você pode realizar as manobras de combate der- rubar, desarmar e empurrar com ataques à distância. Seu teste de manobra usa seu bônus de ataque à distância, mas seu oponente continua usando seu bônus de ataque corpo-a-corpo. Para todos os outros critérios, use as regras normais de manobras.
+Normal: manobras de combate só podem ser realizadas com ataques corpo-a-corpo.
+
+Treinado em Escola
+Você foi treinado em uma escola de combate específica, recebendo grande conhecimento, em troca de muita dedica- ção. Você possui técnicas e vantagens que não estão disponíveis para lutadores comuns.
+Pré-requisito: variável (veja o texto).
+Benefício: variável (veja o texto).
+Especial: cada escola é um talento diferente. Você pode escolher tantas escolas quanto quiser, desde que cumpra os pré-requisitos de todas. Veja a descrição completa das escolas, seus pré-requisitos, seus benefícios e demais detalhes a partir da página 42.
+
+Truque do Desarme
+Você é capaz de enganar seus oponentes, aparando suas armas de forma a arrancá-las de suas mãos.
+Pré-requisito: Bloqueio Ambidestro.
+Benefício: você pode gastar uma ação completa para receber um bônus de +4 em CA durante uma rodada. Todos os oponentes que atacarem-no com armas de corpo-a-corpo durante esta rodada e errarem seus ataques são desarmados automaticamente. As armas caem a seus pés.
+Especial: um oponente tem direito a um teste de Intuição contra CD 20 para notar que você está realizando esta mano- bra e evitar atacá-lo.
+
+Usar Escudo de Corpo
+Você sabe lutar com escudos de corpo.
+Pré-requisito: Usar Escudo.
+Benefício: você sabe usar escudos de corpo.
+Normal: um personagem equipado com um escudo que não saiba usar aplica sua penalidade de armadura em jogadas de ataque e testes de perícias baseadas em Força e Destreza.

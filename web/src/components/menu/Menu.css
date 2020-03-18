@@ -1,0 +1,16 @@
+.menu-container {
+    padding: 2.5vh 25px;
+    width: 90%;
+    height: 95vh;
+}
+
+.inner-menu {
+    background-color: lightgray;
+    border-radius: 3px;
+    padding: 0 15px;
+    min-height: 100%;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}

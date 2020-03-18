@@ -1,0 +1,87 @@
+Domínio da Água
+Pré-requisitos: devoto de Oceano ou Wynna.
+Benefício: você está permanentemente sob efeito da magia respirar na água.
+
+Domínio dos Animais
+Pré-requisitos: devoto de Allihanna, Megalokk ou Oceano.
+Benefício: você está permanentemente sob efeito da magia falar com animais. Além disso, Sobrevivência é uma perícia de clas- se para você.
+
+Domínio do Ar
+Pré-requisitos: devoto de Oceano ou Wynna.
+Benefício: você está permanentemente sob efeito da magia queda suave.
+
+Domínio do Bem
+Pré-requisitos: devoto de Allihanna, Azgher, Khalmyr, Lena, Marah ou Valkaria.
+Benefício: para criaturas de tendência Maligna, a dificuldade para resistir às suas magias divinas aumenta em CD+1.
+
+Domínio do Caos
+Pré-requisitos: devoto de Hyninn ou Nimb.
+Benefício: para criaturas de tendência Leal, a dificuldade para resistir às suas magias divinas aumenta em CD+1.
+
+Domínio do Conhecimento
+Pré-requisitos: devoto de Kallyadranoch, Sszzaas, Tanna-Toh ou Thyatis.
+Benefício: você pode fazer testes de qualquer Conhecimento como se fosse treinado, com um bônus igual a seu nível + modifi- cador de Inteligência.
+
+Domínio da Cura
+Pré-requisitos: devoto de Allihanna, Lena, Marah ou Thyatis.
+Benefício: suas magias de cura curam 1 PV adicional por ní- vel da magia. Por exemplo, curar ferimentos moderados (uma magia de 2o nível) cura 2 PV adicionais.
+
+Domínio da Destruição
+Pré-requisitos: devoto de Kallyadranoch, Keenn, Megalokk ou Ragnar.
+Benefício: você recebe +1 em jogadas de dano corpo-a-corpo.
+
+Domínio da Enganação
+Pré-requisitos: devoto de Hyninn ou Sszzaas.
+Benefício: Enganação, Furtividade e Ladinagem passam a ser perícias de classe para você.
+
+Domínio do Fogo
+Pré-requisitos: devoto de Azgher, Tauron, Thyatis ou Wynna.
+Benefício: você recebe resistência a fogo 5.
+
+Domínio da Força
+Pré-requisitos: devoto de Keenn ou Tauron.
+Benefício: uma vez por dia, como uma ação livre, você pode receber um bônus igual ao seu nível na Força por uma rodada.
+
+Domínio da Guerra
+Pré-requisitos: devoto de Keenn, Khalmyr, Lin-Wu, Ragnar, Tauron ou Valkaria.
+Benefício: você recebe os talentos Usar Arma e Foco em Arma, apenas para a arma predileta de sua divindade.
+
+Domínio da Magia
+Pré-requisitos: devoto de Kallyadranoch ou Wynna.
+Benefício: uma vez por dia, você pode lançar qualquer ma- gia que conheça sem gastar pontos de magia. Você também pode aplicar efeitos de talentos metamágicos que possua a essa magia, mas nesse caso deverá pagar o custo extra exigido pelo(s) talento(s).
+
+Domínio do Mal
+Pré-requisitos: devoto de Keenn, Megalokk, Ragnar, Sszzaas ou Tenebra.
+Benefício: para criaturas de tendência Bondosa, a dificuldade para resistir às suas magias divinas aumenta em CD+1.
+
+Domínio da Morte
+Pré-requisitos: devoto de Ragnar, Sszzaas ou Tenebra.
+Benefício: uma vez por dia, você pode usar o toque da morte. Faça um ataque de toque desarmado. Se você acertar, role 1d6 por nível. Se o total igualar ou superar os pontos de vida do alvo, ele morre (sem direito a teste de resistência). Caso contrário, o alvo não sofre nada.
+
+Domínio da Ordem
+Pré-requisitos: devoto de Khalmyr, Lin-Wu, Tanna-Toh ou Tauron.
+Benefício: para criaturas de tendência Caótica, a dificuldade para resistir às suas magias divinas aumenta em CD+1.
+
+Domínio das Plantas
+Pré-requisitos: devoto de Allihanna, Lena, Megalokk ou Oceano.
+Benefício: você pode lançar a magia constrição três vezes por dia, como um clérigo, sem gastar pontos de magia.
+
+Domínio da Proteção
+Pré-requisitos: devoto de Khalmyr, Lena, Lin-Wu, Marah, Tanna-Toh, Tauron ou Tenebra.
+Benefício: uma vez por dia, com uma ação padrão, você pode tocar um alvo e gerar um escudo de proteção que fornece um bô- nus igual a seu nível em testes de resistência. Por exemplo, se você é um personagem de 5o nível, fornece +5 em testes de resistência. O escudo dura um minuto.
+
+Domínio do Sol
+Pré-requisitos: Expulsar Mortos-Vivos, devoto de Azgher ou Lin-Wu.
+Benefício: uma vez por dia, quando usa Expulsar Mortos- -Vivos, você pode invocar o poder do sol. Se fizer isso, os mortos- -vivos que falharem em seu teste de resistência são destruídos (em vez de ficar apavorados).
+
+Domínio da Sorte
+Pré-requisitos: devoto de Hyninn, Marah, Nimb, Wynna ou Valkaria.
+Benefício: uma vez por dia, você pode rolar novamente uma jogada ou teste que tenha recém realizado.
+
+Domínio da Terra
+Pré-requisitos: devoto de Khalmyr, Tenebra ou Wynna.
+Benefício: como uma ação de movimento, você pode fixar-se ao solo e receber CA+2. O efeito dura até que você se mova. Este talento não pode ser usado se você não está em contato firme com o chão, ou se está em uma superfície precária (corda, escada, ponte...).
+
+Domínio da Viagem
+Pré-requisitos: devoto de Azgher, Tanna-Toh, Thyatis ou Valkaria.
+Benefício: uma vez por dia, você pode se tornar imune a qual- quer efeito que restrinja seu movimento (como se usasse a magia movimentação livre), por um número de rodadas igual ao seu nível.

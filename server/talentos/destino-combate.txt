@@ -1,0 +1,11 @@
+Fúria Estendida
+Sua ira queima por mais tempo, com o mesmo ardor.
+Pré-requisito: habilidade de classe fúria.
+Benefício: a duração de sua fúria aumenta em 3 rodadas.
+Especial: você pode escolher este talento várias vezes. A cada vez, aumenta a duração de sua fúria em mais 3 rodadas.
+
+Gritos de Poder
+Você pode usar sua fúria para canalizar o poder de espíri- tos ou da sua própria natureza selvagem.
+Pré-requisito: habilidade de classe fúria.
+Benefício: você recebe dois gritos de poder da lista a partir da página 43.
+Especial: você pode escolher este talento diversas vezes. A cada vez que escolhe, recebe dois gritos.

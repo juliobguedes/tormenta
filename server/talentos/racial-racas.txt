@@ -1,0 +1,555 @@
+Alma de Pedra
+Você não pode ser transformado em pedra.
+Pré-requisito: anão ou nagah.
+Benefício: você é automaticamente bem-sucedido em testes de resistência para evitar qualquer forma de petrificação, como ataques de medusas, basiliscos, cocatrizes e a magia carne para pedra. Você também recebe +4 em testes de resistência para evitar qualquer forma de paralisia.
+
+Amo
+Você fez um pacto com um amo. Essa ligação torna você mais poderoso, mas também mais vulnerável.
+Pré-requisitos: qareen, qualquer talento metamágico.
+Benefício: escolha alguém como seu amo, que pode ser um personagem jogador ou um PdM. Quando você lança uma magia a pedido de seu amo, essa magia recebe o benefício de um talento metamágico que você possua, sem custo extra em PM. Sempre que seu amo está em perigo, você sofre um redutor de –2 em jogadas de ataque, testes de resistência e perícias. “Perigo” significa qualquer situação em que o amo receba ataque direto (bem-sucedido ou não), esteja ferido (qualquer quantidade de PV abaixo de seu total) ou em qualquer condição que reduz sua classe de armadura: amedrontado, atordoado, inconsciente, indefeso (mas não dormindo) e assim por diante.
+Especial: caso seu amo morra, os redutores persistem durante 1d4 meses, ou até que ele seja devolvido à vida.
+
+Arcano Completo
+Você andou lendo um livro muito bom sobre magia!
+Pré-requisito: elfo ou qareen.
+Benefício: seu bônus racial em testes de Identificar Magia aumenta para +8.
+Normal: elfos e qareen recebem +4 nesta perícia.
+
+Arma Amada
+Separar você de sua arma não é fácil.
+Pré-requisitos: anão ou bônus base de ataque +5.
+Benefício: você recebe +4 em jogadas de ataque para evitar manobras de desarmar ou separar.
+
+Arma Natural Aprimorada
+Suas garras, presas ou chifres são ainda mais perigosos.
+Pré-requisitos: arma natural, bônus base de ataque +4.
+Benefício: escolha um tipo de arma natural. Seu dano au- menta uma categoria de tamanho (veja o quadro em Tormenta RPG, Capítulo 7: Equipamento). Este talento afeta todas as suas armas naturais do mesmo tipo escolhido (por exemplo, duas garras), mas não armas de tipos diferentes (por exemplo, garras e mordida).
+Especial: este talento pode ser adquirido várias vezes, cada vez para uma arma diferente.
+
+Armamento de Allihanna
+Pré-requisito: raça meio-dríade.
+Benefício: ao usar moldar madeira para criar uma arma, essa arma recebe um bônus mágico conforme seu nível de personagem. Além disso, ao lançar pele de árvore, você recebe esse mesmo bônus em sua classe de armadura (além do normal de CA +3 pela magia). Os bônus são: +1 no 1o nível, +2 no 5o nível, +3 no 10o nível, +4 no 15o nível, +5 no 20o nível. Armas criadas assim perdem seu bônus mágico se manu- seadas por outros personagens — mas ainda podem ser usadas como armas normais, embora apodreçam e se desmanchem em poucas horas.
+
+Asas Abissais
+Você tem asas de couro e pode voar.
+Pré-requisitos: sulfure, Herança Extraplanar.
+Benefício: você pode voar, com o dobro de seu deslocamento normal.
+
+Asas Celestiais
+Você tem asas emplumadas e pode voar.
+Pré-requisitos: aggelus, Herança Extraplanar.
+Benefício: você pode voar, com o dobro de seu deslocamento normal.
+
+Asas de Aço
+Você tem asas anormalmente rígidas, que podem ser empre- gadas como armas ou escudos.
+Pré-requisito: asas.
+Benefício: suas asas são como escudos. Você pode usá-las como proteção (elevando sua CA em +1 para cada asa) ou para golpear (dano de 1d4 + modificador de Força cada asa). Ambas as asas são consideradas mãos inábeis (mas não podem segurar objetos), e sofrem os redutores normais para ataques extras. Você não pode se proteger e atacar com a mesma asa ao mesmo tempo (mas pode se proteger com uma e atacar com a outra). Naturalmente, você também não pode atacar ou se proteger com as asas enquanto está voando.
+Especial: personagens com este talento são considerados proficientes com escudos (apenas suas asas). Se você também tem o talento Ataque com Escudo Aprimorado, pode atacar com as asas sem perder seu bônus na CA.
+
+Ataques Múltiplos
+Você é capaz de atacar melhor com suas armas naturais.
+Pré-requisito: uma ou mais armas naturais.
+Benefício: ataques adicionais com armas naturais sofrem redutor de –2.
+Normal: sem este talento, ataques adicionais com armas naturais sofrem redutor de –4.
+
+Ajuda Aprimorada
+Você é hábil em prestar auxílio.
+Pré-requisito: qareen.
+Benefício: você sempre pode escolher 20 em testes de perí- cias para prestar ajuda, sem que a tarefa demore mais tempo que o normal.
+Normal: prestar ajuda exige um teste de perícia contra CD 10. Mais detalhes em Tormenta RPG, Capítulo 4: Perícias.
+
+Ajuda Avançada
+Você é ainda mais hábil em prestar auxílio.
+Pré-requisitos: qareen, bônus base de ataque +2, Ajuda Aprimorada.
+Benefício: em situações de combate, com uma ação de movimento, você pode ajudar um aliado adjacente contra seu oponente. O aliado recebe +2 em suas jogadas de ataque ou CA (à sua escolha) até a próxima rodada.
+
+Ajuda Extrema
+Ajudar não dói!
+Pré-requisitos: qareen, bônus base de ataque +8, Ajuda Apri- morada e Avançada.
+Benefício: você pode prestar ajuda em combate com uma ação livre (mas apenas uma vez por rodada).
+
+Braços Desiguais
+Você tem um braço (muito) maior e mais forte que o outro.
+Pré-requisito: bugbear, lefou, meio-orc, orc ou trog.
+Benefício: tarefas realizadas apenas com sua mão hábil rece- bem Força +4 (modificador +2). Isso normalmente inclui ataques corpo-a-corpo feitos apenas com essa mão. Sua mão inábil recebe um redutor na mesma proporção: Força –4 (modificador –2). Para tarefas que exigem ambas as mãos (como o uso de armas de duas mãos), os bônus e redutores se cancelam e usam sua Força normal. O mestre tem a palavra final sobre o uso desse bônus em outras situações; a maioria dos testes de Atletismo, por exemplo, não mu- daria ou ficaria pior (natação deve se tornar especialmente difícil...).
+Nota: se você tem mais de dois braços, todas as suas mãos inábeis sofrem o mesmo redutor.
+Especial: este talento pode ser adquirido apenas no 1o nível.
+
+Braquiação
+Você é como aquele cara criado por macacos.
+Pré-requisitos: elfo ou meio-dríade, treinado em Acrobacia.
+Benefício: em matas fechadas, você pode se mover livre- mente através das copas das árvores, balançando em galhos e cipós, com seu deslocamento normal. Você faz testes de Acrobacia ape- nas em situações extremas (por exemplo, se recebeu dano). Você deve estar com as mãos livres para se deslocar, mas pode usá-las normalmente se ficar parado.
+
+Camuflagem
+Como um polvo, você pode mudar sua cor e textura a ponto de ficar quase invisível.
+Pré-requisito: elfo-do-mar ou trog.
+Benefício: ativar ou desativar esta habilidade requer uma ação de movimento. Você é considerado sob efeito da magia in- visibilidade, mas este efeito não afeta suas roupas e equipamento: você recebe +10 em testes de Furtividade se estiver nu, +5 com armadura ou roupas leves, +2 com armadura ou roupas médias, e nenhum bônus para armadura ou roupas pesadas.
+
+Cauda Ágil
+Você pode usar a cauda para realizar manobras acrobáticas.
+Pré-requisito: nagah.
+Benefício: você recebe +2 em testes de Acrobacia e Atletismo usando a cauda.
+
+Cauda Hipnótica
+Você pode mover sua cauda de forma harmoniosa e agradável para influenciar os outros.
+Pré-requisito: nagah.
+Benefício: você recebe +2 em testes de Atuação, Diplomacia e Enganação (apenas para blefar) usando a cauda.
+
+Cauda Manipuladora
+Você pode usar a cauda para segurar e manipular objetos.
+Pré-requisitos: nagah, Cauda Ágil.
+Benefício: sua cauda é considerada uma mão inábil.
+
+Chuva de Lâminas
+Você ataca com uma revoada de folhas com bordas afiadas.
+Pré-requisitos: meio-dríade, personagem de 15o nível.
+Benefício: uma vez por dia você pode expelir lâminas em uma área igual a um cone com 18m. O dano é igual a 10d6, com direito a um teste de Reflexos para meio dano (CD 10 + nível do meio-dríade + bônus de Sabedoria do meio-dríade).
+
+Comandar Aprimorado
+Humanos sabem ser líderes eficientes.
+Pré-requisitos: humano, Comandar.
+Benefício: você pode gritar ordens para seus aliados como uma ação de movimento. Além disso, o bônus recebido por seus aliados aumenta para +2.
+Normal: gritar ordens para seus aliados é uma ação padrão. Aqueles que podem ouvi-lo recebem +1 em suas jogadas e testes.
+
+Combater com Duas Armas
+Você é treinado em usar uma arma em cada mão.
+Pré-requisito: Des 15.
+Benefício: se estiver usando uma arma de uma mão e uma arma leve, ou duas armas leves, você pode fazer dois ataques com a mesma ação padrão, um com cada uma. No entanto, você sofre redutor de –4 em ambas as jogadas de ataque.
+Especial: personagens com três ou mais braços podem atacar com todos eles, usando o mesmo redutor –4 para todos os ataques. O mesmo vale para Combater com Duas Armas Aprimorado e Maior.
+Nota: este talento já existe no livro básico Tormenta RPG, mas reaparece aqui com detalhes adicionais para mais braços.
+
+Companheiro Aprimorado
+Sua raça é próxima da natureza, sendo recompensada de acordo.
+Pré-requisitos: elfo, gnomo, halfling ou meio-dríade, com- panheiro animal ou montaria sagrada.
+Benefício: você é considerado 2 níveis acima para determinar as características de seu companheiro animal.
+Especial: você pode adquirir este talento várias vezes. Seus efeitos se acumulam.
+
+Companheiro Vegetal
+Seu companheiro animal é, na verdade, uma criatura planta.
+Pré-requisitos: raça elfo ou meio-dríade, companheiro animal ou montaria sagrada.
+Benefício: seu animal adquire as habilidades a seguir: Tipo monstro. Classe de armadura +4. Imunidade a magias e efeitos que afetam apenas animais (mas pode ser afetado por magias e efeitos que afetam plantas). Imunidade a veneno, sono, paralisia e atordoamento. Furtividade +10 onde houver vegetação.
+
+Conhecimento Mágico Amplo
+Ninguém diz a você que não pode aprender aquela magia!
+Pré-requisitos: humano, classe conjuradora.
+Benefício: você aprende mais duas magias de qualquer nível que possa lançar, sejam arcanas ou divinas. Por exemplo, se você é um mago de 3o nível, pode aprender duas magias novas (sejam arcanas ou divinas) de 1o ou 2o nível.
+Nota: este talento é idêntico a Conhecimento Mágico, exceto que você pode aprender magias não disponíveis para sua classe.
+
+Conforto do Aço
+Seu povo veste metal como se fosse algodão.
+Pré-requisito: anão.
+Benefício: quando usa armadura de qualquer tipo, você não está limitado a um bônus máximo de Destreza, nem sofre qualquer penalidade de armadura.
+
+Constrição Atroz
+Você conjura monstruosas gavinhas equipadas com espinhos, garras e mandíbulas para aprisionar e atacar seus inimigos.
+Pré-requisitos: meio-dríade, personagem de 5o nível.
+Benefício: você pode lançar constrição mesmo em áreas onde não existe vegetação; as plantas simplesmente brotam do chão, ou de seu próprio corpo. A magia também se torna mais agressiva — não apenas enre- dando, mas atacando. Além de seus efeitos normais, a constrição causa 1d6 pontos de dano por rodada a qualquer criatura enredada.
+
+Corredor Veloz
+Poucas criaturas terrestres são tão rápidas quanto você.
+Pré-requisito: velocis.
+Benefício: seu deslocamento básico aumenta para 18m. Normal: o deslocamento básico de um dragão-antílope é 12m.
+
+Desejo Aprimorado
+Você pode conjurar certa magia, atendendo a pedidos.
+Pré-requisitos: qareen, capacidade de lançar magias arcanas de 1o nível.
+Benefício: escolha uma magia arcana que seja capaz de lan- çar. Você pode lançar essa magia sem gastar PM, até três vezes por dia — mas apenas a pedido de outra pessoa.
+Especial: você pode adquirir este talento várias vezes. Cada vez que é adquirido, você deve escolher outra magia.
+
+Desejo Avançado
+Você pode atender a desejos restritos.
+Pré-requisitos: qareen, Desejo Aprimorado, personagem de 14o nível.
+Benefício: você pode, uma vez por dia, lançar desejo restrito sem custo em XP ou componentes materiais — mas apenas a pedido de outra pessoa. Cada pessoa tem direito a até três desejos restritos.
+
+Desejo Extremo
+Você pode atender a desejos verdadeiros.
+Pré-requisitos: qareen, Desejo Aprimorado e Avançado, personagem de 18o nível.
+Benefício: você pode, uma vez por dia, lançar a magia desejo sem custo em XP ou componentes materiais — mas apenas a pedido de outra pessoa. Cada pessoa tem direito a até três desejos.
+
+Devoção Simulada
+Quando uma nagah finge devoção a outra divindade, pode enganar até um devoto verdadeiro!
+Pré-requisitos: nagah, Car 13, treinado em Conhecimento (religião).
+Benefício: portando o símbolo sagrado de uma divindade qualquer, você pode lançar uma magia ou manifestar um poder concedido dessa mesma divindade — mas trata-se de uma ilusão, sem efeito real. Testemunhas que tenham razões para duvidar têm direito a um teste de Intuição (CD 20 + modificador de Carisma da nagah) para desacreditar. Quando o poder simulado é agressivo, a vítima também tem direito ao mesmo teste de Intuição (além de quaisquer testes nor- malmente permitidos contra o efeito). A critério do mestre, alguns poderes não podem ser simulados, ou têm dificuldade reduzida para desacreditar. Você pode usar este poder um número de vezes por dia igual a seu modificador de Carisma.
+
+Duas Cabeças
+Pensam melhor que uma.
+Pré-requisito: gnoll, lefou, orc ou trog.
+Benefício: suas cabeças não são necessariamente iguais; uma delas pode ser menor ou atrofiada. Em termos de jogo, você ainda tem as mesmas habilidades mentais, perícias e tendência — mas, se quiser, pode dar personalidades diferentes às suas cabeças e interpretar diálogos entre elas! Você pode rolar qualquer teste de Vontade duas vezes, fican- do com o melhor resultado. Além disso, se você tem uma arma natural (mordida), você ganha uma arma extra desse tipo (mas apenas com uma segunda cabeça de mesmo tamanho da sua). Você não recebe usos adicionais de ataques especiais feitos com a cabeça (como sopro de dragão).
+Especial: este talento pode ser adquirido apenas no 1o nível.
+
+Dupla Conjuração
+“Tome isto!” “E também isto!”
+Pré-requisitos: gnoll, lefou, orc ou trog, capacidade de lançar magias, Des 17, Duas Cabeças.
+Benefício: você pode lançar duas magias diferentes com a mesma ação padrão, pagando pelo custo total em PM ou esque- cendo ambas. Para isso você deve ter ambas as mãos livres (lançar uma magia exige pelo menos uma mão livre).
+
+Dupla Destreza
+“Temos que conseguir logo outra cimitarra.”
+Pré-requisitos: gnoll, lefou, orc ou trog, bônus base de ata- que +8, Des 15, Duas Cabeças.
+Benefício: graças à coordenação extra oferecida por seu se- gundo cérebro, você tem duas mãos hábeis, em vez de uma. Isso quer dizer que você pode usar armas de uma mão em ambas as mãos. Você ainda sofre os redutores normais por fazer ataques adicionais na mesma rodada.
+Normal: você pode usar uma arma de uma mão em sua mão hábil, e uma arma leve (ou escudo, ou nada) em sua mão inábil.
+
+Dupla Inteligência
+“Acho que você está enganado sobre isso, caro colega...”
+Pré-requisitos: gnoll, lefou, orc ou trog, Int 15, Duas Cabeças.
+Benefício: você pode rolar duas vezes qualquer teste de Inte- ligência ou perícia baseada em Inteligência, e ficar com o melhor resultado.
+
+Dupla Prontidão
+“Vigie aquele lado. Eu vigio este.”
+Pré-requisitos: gnoll, lefou, orc ou trog, Duas Cabeças, Prontidão.
+Benefício: com campo de visão superior e órgãos de sentidos duplicados, você nunca fica desprevenido e não pode ser flanqueado.
+
+Dupla Tendência
+“Você é mau!”
+Pré-requisitos: gnoll, lefou, orc ou trog, Duas Cabeças.
+Benefício: cada cabeça tem sua própria visão de mundo. Em termos de jogo, você pode escolher duas tendências, em vez de uma. Você satisfaz requisitos como se tivesse ambas as tendências, mas também pode ser barrado pelo mesmo motivo. Por exemplo, se uma de suas cabeças é LB e a outra CB, você pode ser paladino (que deve ser Leal e Bondoso), mas não pode ser um bárbaro ou bardo (que não deve ser Leal).
+
+Escalada Veloz
+Você é um demônio nas árvores.
+Pré-requisito: deslocamento de escalar.
+Benefício: você recebe +1 em jogadas de ataque por atacar de terreno superior.
+
+Encanto das Fadas
+Você é encantador(a).
+Pré-requisitos: meio-dríade, qareen ou sprite, Car 15.
+Benefício: você pode lançar enfeitiçar pessoa três vezes por dia.
+
+Enfeitiçar Trolls
+Os trolls seguem suas ordens.
+Pré-requisitos: finntroll, Car 13.
+Benefício: você pode lançar enfeitiçar monstro (apenas trolls) sem gastar PM, uma quantidade de vezes ao dia igual a seu modi- ficador de Carisma.
+Normal: um finntroll não pode comandar trolls, embora estes precisem ser bem-sucedidos em um teste de Vontade para atacá-lo.
+
+Entre as Pernas
+Mas aonde foi aquele...?
+Pré-requisitos: tamanho Pequeno ou menor, treinado em Acrobacia.
+Benefício: você pode ocupar o mesmo espaço de uma cria- tura Grande ou maior. Enquanto estiver ali, você recebe CA+4 contra quaisquer ataques (inclusive da própria criatura). Além disso, qualquer ataque contra você tem 50% de chance de atingir a criatura.
+
+Equilíbrio Aprimorado
+Em senso de equilíbrio, você supera até alguns gatos.
+Pré-requisitos: treinado em Acrobacia, Des 15.
+Benefício: você recebe +8 em testes de Acrobacia para se equilibrar. Além disso, o dano de qualquer queda é reduzido em 1d6 (quedas que causariam dano de 1d6 ou menos são ignoradas).
+
+Especialização em Arma Racial
+Você é habilidoso com as armas tradicionais de sua raça.
+Pré-requisitos: bônus base de ataque +2, pelo menos uma arma racial (veja adiante).
+Benefício: você recebe um bônus de +2 nos danos quando utiliza uma arma tradicional de sua raça. “Armas tradicionais” são aquelas em que o personagem é competente devido a traços raciais (machados e martelos para anões, por exemplo). Armas que tragam o nome da raça em seu nome (como a espada táurica) também são consideradas raciais. O mestre pode au- torizar outros tipos de armas como “raciais” seguindo o bom senso.
+Especial: este talento é cumulativo com Especialização em Arma dos guerreiros.
+
+Extrativismo
+Você sabe como encontrar ervas curativas nos ermos.
+Pré-requisito: treinado em Sobrevivência.
+Benefício: você pode gastar um dia procurando por plantas especiais em qualquer terreno selvagem. Faça um teste de Sobre- vivência (CD 15). Se for bem-sucedido, você encontra ervas que podem ser usadas para curar 1d8 pontos de dano. Para cada 5 pontos que o resultado de seu teste exceder a CD, você encontra uma dose extra. Aplicar a planta é uma ação completa. Depois que colhidas, as ervas permanecem frescas por apenas uma semana.
+
+Familiar Elemental
+Você tem um familiar ligado a seu elemento.
+Pré-requisitos: qareen da água, ar, fogo ou terra, Familiar.
+Benefício: você possui como familiar um elemental Peque- no, feito do mesmo elemento ao qual você pertence. O elemental tem Pontos de Vida normais para este tipo de criatura, ou me- tade dos PV de seu mestre, o que for maior. O elemental não pode falar com animais, mas possui todas as demais capacidades de um familiar. O familiar elemental também oferece 3 PV extras a seu mestre.
+
+Familiar da Luz
+Você tem um familiar celestial.
+Pré-requisitos: aggelus ou qareen da luz, Familiar. Benefício: seu familiar adquire as habilidades a seguir: Visão no Escuro 18m; Resistência a ácido, frio e eletricidade 5; Resistência a magia +4; Destruir o Mal (como os paladinos) uma vez por dia.
+
+Familiar das Trevas
+Você tem um familiar abissal.
+Pré-requisitos: sulfure ou qareen das trevas, Familiar.
+Benefício: seu familiar adquire as habilidades a seguir: Visão no Escuro 18m; Resistência a ácido, fogo e frio 5; Resistência a magia +4; Destruir o Bem (como os paladinos, mas contra criaturas Bondosas) uma vez por dia.
+
+Faro Aprimorado
+Você tem olfato ainda mais aguçado.
+Pré-requisito: faro.
+Benefício: você percebe criaturas a até 15m, e recebe +6 em testes de Sobrevivência para rastrear usando o faro.
+Normal: raças com faro percebem criaturas a até 9m e rece- bem +4 em Sobrevivência para rastrear usando o faro.
+
+Faro Discriminatório
+Você identifica muita coisa através do cheiro.
+Pré-requisitos: faro, Sab 15.
+Benefício: quando percebe a presença de criaturas, você pode dizer seu tipo (animal, construto, espírito, humanoide, monstro ou morto-vivo), mas apenas tipos de criaturas que já tenha fare- jado antes. Você percebe criaturas daquele tipo ao alcance de seu faro, mas não pode dizer quantas ou quais. Você pode tentar identifi- car o tipo de uma criatura específica (por exemplo, um monstro disfarçado de humano) com um exame cuidadoso. Isso exige uma ação completa e um teste de Percepção (CD 15). A criatura deve estar adjacente. Você também recebe +4 em testes de Intuição e +2 em testes de Ofício para fazer avaliações.
+
+Faro para Magia
+Você sente cheiro de magia.
+Pré-requisitos: faro, Sab 15, Faro Discriminatório.
+Benefício: você pode farejar auras mágicas, da mesma forma que detectar magia.
+
+Faro para Medo
+Você se intoxica com o medo de suas vítimas.
+Pré-requisitos: bugbear, tendência Maligna.
+Benefício: quando uma criatura ao alcance de seu faro está abalada ou apavorada, você recebe +2 em todas as suas jogadas de ataque e dano (contra qualquer oponente).
+
+Faz-Tudo
+Por sua versatilidade, você atingiu o limite de sua perícia.
+Pré-requisitos: humano, Int 13.
+Benefício: você é treinado em todas as perícias de sua classe. Para perícias com várias especializações (Conhecimento e Ofício), você tem um número de especializações igual a seu bônus de Inteligência.
+
+Filho da Luz
+Você tem maior afinidade com o bem.
+Pré-requisitos: aggelus, Herança Extraplanar, tendência Bondosa.
+Benefício: você se torna imune a dano por ácido, frio ou eletricidade, à sua escolha.
+Especial: este talento pode ser escolhido várias vezes, uma vez para cada energia.
+
+Filho das Trevas
+Você tem maior afinidade com o mal.
+Pré-requisitos: sulfure, Herança Extraplanar, tendência Maligna.
+Benefício: você se torna imune a dano por fogo, frio ou eletricidade, à sua escolha.
+Especial: este talento pode ser escolhido várias vezes, uma vez para cada energia.
+
+Foco em Habilidade
+É mais difícil resistir a seus poderes.
+Pré-requisitos: ataque especial (veja adiante).
+Benefício: escolha uma habilidade ou talento racial que exige do alvo um teste de resistência (como o olhar atordoante das medusas, ou o mau cheiro dos trogs). A dificuldade desse teste aumenta em CD+2.
+Especial: você pode adquirir este talento várias vezes. Seus efeitos se acumulam.
+
+Foco em Pólvora
+Alguns amam pólvora mais do que deveriam. Mais do que qualquer um deveria!
+Pré-requisitos: anão, goblin ou hobgoblin.
+Benefício: você recebe +1 em jogadas de ataque e +2 em rolagens de dano com armas de pólvora. Normalmente isso inclui armas de fogo, granadas e canhões.
+
+Forma Humana
+De algum modo, você pode adotar uma forma humana de duas pernas.
+Pré-requisitos: centauro ou nagah, Con 13.
+Benefício: você pode, com uma ação de movimento, mudar para uma forma bípede de tamanho Médio, com o mesmo rosto e aparência geral de sua forma verdadeira, mas aparentemente hu- mana (ou élfica). Você pode fazer isso uma vez por dia para cada ponto de seu modificador de Constituição. Roupas e itens comportam-se da mesma forma que na magia alterar-se. Na forma humana você não está sujeito a modificadores de tamanho (você é uma criatura Média, mesmo que sua raça ori- ginal não seja) e tem deslocamento 9m. Nesta forma você também não pode utilizar quaisquer traços raciais ou habilidades ligadas a uma anatomia não humanoide (como os ataques com cascos de um centauro, ou talentos com a cauda de uma nagah).
+
+Forma Selvagem do Mar
+Você pode se transformar em um animal marinho.
+Pré-requisitos: elfo-do-mar, Con 13, personagem de 5o nível.
+Benefício: você pode transformar-se em um animal marinho, como um druida de nível igual ao seu nível de personagem atual. Esse animal é escolhido quando você adquire o talento, e não pode ser trocado ou mudado — mesmo que seu nível aumente. Você não precisa escolher nadar para sua forma selvagem (sua raça já tem essa habilidade) mas, a partir do 11o nível, pode escolher nadar 18m para aumentar seu deslocamento. Você pode escolher uma criatura marinha capaz de se deslocar em terra (foca, lontra, tartaruga...), escalar (caranguejo) ou até voar (gaivota, pelicano...). Você pode se transformar um número de vezes por dia igual a seu modificador de Constituição.
+Especial: este talento pode ser adquirido várias vezes. Cada vez você pode escolher uma forma selvagem diferente.
+
+Fúria Aterradora
+Sua fúria não é apenas destruidora, é também assustadora.
+Pré-requisitos: habilidade fúria, bônus base de ataque +3.
+Benefício: quando você entra em fúria, todos os oponentes a até 3m devem fazer um teste de Vontade (CD 10 + seu nível de personagem). Um oponente que falha no teste fica abalado (–2 nas jogadas de ataque e testes de habilidade, perícia e resistência) durante 1d4 rodadas. Um teste bem-sucedido torna o oponente imune a sua Fúria Aterradora durante 24 horas. Este é um efeito de medo.
+
+Fúria Natural
+Quando você é dominado pelos instintos selvagens, prefere usar suas armas naturais a coisas criadas pela civilização.
+Pré-requisitos: habilidade fúria, arma natural.
+Benefício: quando você está em fúria, recebe um bônus de +2 nas jogadas de ataque e dano com armas naturais.
+
+Golpe no Joelho
+Mas aonde foi aquele... AAAGH!
+Pré-requisitos: tamanho Pequeno ou menor, treinado em Acrobacia, Entre as Pernas.
+Benefício: quando você ocupa o mesmo espaço de uma cria- tura Grande ou maior, a margem de ameaça de seus ataques contra ela aumenta em +2 (este bônus não é dobrado por qualquer razão).
+
+Grandão
+Você é anormalmente grande para sua raça.
+Pré-requisitos: For 19, Con 19.
+Benefício: você é considerado uma categoria de tamanho maior para efeito de manobras de combate e armas que pode usar (por exemplo, uma criatura Média com este talento pode usar uma arma Grande sem penalidades, ou uma arma Enorme com uma penalidade de –4). Entretanto, você sofre as mesmas penalidades das criaturas Grandes: –1 nas jogadas de ataque e classe de arma- dura, –4 em testes de Furtividade.
+Especial: este talento pode ser adquirido apenas no 1o nível. Nota: este talento aparece no Guia da Trilogia, mas reaparece aqui com Pré-requisitos atualizados.
+
+Herança Extraplanar
+O sangue extraplanar é mais forte em você.
+Pré-requisito: aggelus ou sulfure.
+Benefício: você pode usar seu ataque especial racial (luz do dia para aggelus, escuridão para sulfure) duas vezes adicionais por dia. Além disso, uma de suas resistências a energia (fogo, frio, eletricidade ou ácido, à sua escolha) aumenta para 10.
+
+Investida Aprimorada
+Você tem boas razões para acreditar que a melhor maneira de iniciar um combate é atropelando o inimigo.
+Benefício: quando você faz uma investida, recebe +4 na jogada de ataque.
+Normal: um personagem que faça uma investida recebe +2 na jogada de ataque.
+
+Intuição Natural
+Você pode acessar o conhecimento de seus ancestrais, contido em seu sangue.
+Pré-requisito: Sab 13.
+Benefício: você soma seu nível a um único teste de Conhe- cimento (natureza), Cura ou Sobrevivência. Você deve anunciar o uso deste talento antes de o mestre determinar se o teste foi bem-sucedido ou não. Você pode usar este talento um número de vezes por dia igual a seu bônus de Sabedoria.
+
+Magia Primitiva
+Quando lança uma magia você emite rugidos e uivos bes- tiais, executa danças animalísticas ou esmaga ervas e ossos. É mais demorado que uma conjuração normal, mas graças a isso você consegue canalizar a energia da terra para fortalecer seus feitiços.
+Pré-requisitos: capacidade de lançar magias, qualquer talento metamágico.
+Benefício: você pode gastar uma ação completa para lançar uma magia cujo tempo de execução normal seja uma ação padrão ou menos. Se fizer isso, você aplica à magia o efeito de um talento metamágico que possua, sem aumentar seu custo em PM.
+
+Mandíbula de Aço
+A hiena tem uma das mordidas mais fortes do reino animal. Você não fica atrás.
+Pré-requisitos: gnoll ou Herança da Hiena (veja em “Talentos Moreau”, mais adiante), bônus base de ataque +2.
+Benefício: quando ataca com a mordida, você recebe +2 em rolagens de dano e +2 em testes de agarrar e separar.
+
+Marca de Wynna Aprimorada
+A bênção da Deusa da Magia é poderosa em você.
+Pré-requisitos: qareen, capacidade de lançar magias arcanas de 1o nível.
+Benefício: escolha uma magia arcana que seja capaz de lançar. Você pode lançar essa magia sem gastar PM, uma vez por dia.
+
+Marca de Wynna Avançada
+A bênção da Deusa da Magia é ainda mais poderosa em você.
+Pré-requisitos: raça qareen, capacidade de lançar magias arcanas de 1o nível, Marca de Wynna Aprimorada, qualquer talento metamágico.
+Benefício: escolha uma magia arcana já selecionada para o talento Marca de Wynna Aprimorada. Você lança essa magia (e apenas essa) aplicando qualquer talento metamágico que possua, sem pagar PM.
+
+Marca de Wynna Extrema
+Wynna ocasionalmente convida você para tomar chá.
+Pré-requisitos: qareen, capacidade de lançar magias arcanas de 1o nível, Marca de Wynna Aprimorada e Avançada, dois ou mais talentos metamágicos.
+Benefício: escolha uma magia arcana já selecionada para os talentos Marca de Wynna Aprimorada e Avançada. Uma vez por dia, você pode lançar essa magia aplicando os efeitos de todos os talentos metamágicos que possua, sem pagar PM.
+
+Marrada Poderosa
+Sua cabeçada é digna de respeito.
+Pré-requisitos: arma natural (chifres), Ataque Poderoso, bônus base de ataque +1.
+Benefício: quando você faz um ataque de investida com os chifres, aplica o dobro de seu modificador de Força ao dano.
+
+Marrada Ligeira
+Você pode arremeter contra seus alvos e, ao mesmo tempo, realizar outras ações.
+Pré-requisitos: arma natural (chifres), Ataque Poderoso, bônus base de ataque +4.
+Benefício: quando você faz um ataque de investida com os chifres, pode também fazer um segundo ataque com outra arma, à sua escolha. Ambos recebem o bônus normal de +2 por investida.
+
+Máscara da Serpente
+Sua raça tem meios de dissimular sua verdadeira natureza.
+Pré-requisitos: nagah, Int 13.
+Benefício: você é considerado sempre sob efeito da magia dissimular tendência.
+
+Mau Cheiro Adicional
+Você pode exalar seu mau cheiro mais vezes.
+Pré-requisitos: trog, bônus base de ataque +2.
+Benefício: você pode usar seu mau cheiro duas vezes adi- cionais por dia.
+Normal: um trog pode usar o mau cheiro uma vez por dia.
+
+Mimetismo
+Como o polvo, você pode mudar sua cor e textura a ponto de adotar outra aparência.
+Pré-requisitos: elfo-do-mar, Camuflagem.
+Benefício: além de mudar de cor, você também pode alterar traços faciais e outros detalhes anatômicos menores (por exemplo, adquirir orelhas humanas arredondadas). Você recebe +8 em testes de Enganação para se disfarçar como alguém de outra raça ou sexo.
+
+Mudança de Tamanho
+Você pode crescer até o tamanho de um halfling. Sim, você leu direito.
+Pré-requisito: sprite.
+Benefício: você pode, com uma ação de movimento, mudar livremente entre tamanho Miúdo (natural para sprites) e Peque- no. Quando estão em tamanho Pequeno, os ajustes de habili- dades de um sprite mudam para Força –2 e Destreza +2 (Con e Car ainda têm os mesmos ajustes; –2 e +2 respectivamente). Seus bônus mudam para CA+1, +1 nas jogadas de ataque e +4 em testes de Furtividade. Suas asas desaparecem quando você muda para tamanho Pequeno, e você não pode voar enquanto não retornar ao tamanho Miúdo. Roupas e itens comportam-se da mesma forma que na magia alterar-se.
+
+Mutação Assombrosa
+Por seu sangue impuro, orcs podem apresentar os poderes mais inesperados.
+Pré-requisito: orc.
+Benefício: escolha um traço racial de qualquer outra raça, como um ataque natural, bônus em perícias, tamanho diferente de Médio, faro, ou mesmo o mau cheiro dos trogs. Você tem esse traço racial. Você não pode escolher modificadores de habilidade ou ta- lentos adicionais.
+Especial: você pode escolher este talento várias vezes, uma vez para cada novo traço racial.
+
+Olhar Atordoante Adicional
+Você pode atordoar mais vezes.
+Pré-requisitos: medusa, bônus base de ataque +2.
+Benefício: você pode usar seu olhar atordoante duas vezes adicionais por dia.
+Normal: uma medusa pode usar o olhar atordoante uma vez por dia.
+
+Olhar Paralisante
+Você pode paralisar pessoas com o olhar.
+Pré-requisitos: medusa, personagem de 3o nível.
+Benefício: uma vez por dia, como uma ação livre, você pode lançar imobilizar pessoa contra um humanoide a até 9m olhando diretamente em seus olhos. A vítima deve ser bem-sucedida em um teste de Fortitude (CD 10 + metade do nível da medusa + modificador de Carisma da medusa) para evitar o efeito.
+
+Olhar Paralisante Aprimorado
+Você pode paralisar criaturas com o olhar.
+Pré-requisitos: medusa, personagem de 7o nível, Olhar Paralisante.
+Benefício: seu Olhar Paralisante passa a lançar imobilizar monstro.
+
+Olhar Petrificante
+Você pode petrificar com o olhar.
+Pré-requisitos: medusa, personagem de 13o nível, Olhar Paralisante, Olhar Paralisante Aprimorado.
+Benefício: uma vez por dia, como uma ação livre, você pode lançar carne para pedra contra uma criatura a até 9m olhando diretamente em seus olhos. A vítima deve ser bem-sucedida em um teste de Fortitude (CD 10 + metade do nível da medusa + modificador de Carisma da medusa) para evitar o efeito.
+
+Pequeno Alpinista
+Você é perito em escalar paredes.
+Pré-requisitos: goblin ou halfling; treinado em Atletismo; Foco em Perícia (Atletismo).
+Benefício: você é sempre considerado sob efeito da magia patas de aranha.
+
+Pontaria de Tenebra
+Seus disparos são guiados por sua determinação, olhar aguçado e percepção do mundo.
+Pré-requisito: anão.
+Benefício: para ataques à distância, você usa seu modificador de Sabedoria.
+Normal: ataques à distância usam o modificador de Destreza.
+
+Postura Inabalável
+Daqui não saio, daqui ninguém me tira!
+Pré-requisito: anão.
+Benefício: sempre que está em contato com o chão e imóvel (sem deslocar-se nesta rodada), você recebe +6 em testes para re- sistir a manobras especiais (agarrar, atropelar, derrubar, desarmar, empurrar, separar).
+
+Portador da Segurança
+É mais seguro ficar em seus braços.
+Pré-requisito: minotauro ou For 19.
+Benefício: com uma ação de movimento, você pode carregar consigo (no colo, sobre os ombros...) uma criatura de tamanho Pequeno ou menor. O protegido deve estar adjacente, e o portador precisa de uma mão livre. Exceto pelo uso de uma mão, o portador não sofre nenhuma penalidade por carregar o protegido. Enquanto está sendo carregado, o protegido é considerado sob cobertura (CA+4). Além disso, qualquer ataque bem-sucedido contra o protegido tem 50% de chance de, em vez disso, atingir o portador (o ataque é feito contra a sua CA).
+
+Protetor Eterno
+Você não pode cair. Alguém depende de você.
+Pré-requisitos: minotauro, tendência Bondosa.
+Benefício: enquanto tiver pelo menos um aliado adjacente, você continua consciente quando fica com pontos de vida nega- tivos, mas só pode realizar uma ação padrão ou movimento (não ambas) por rodada. Você ainda morre caso seus PV negativos cheguem à metade de seu total.
+Normal: um personagem com PV negativos cai inconsciente.
+
+Quatro Braços
+Você tem um par de braços extra.
+Pré-requisito: lefou, nagah, orc ou trog.
+Benefício: você tem dois braços extras. Ambos são conside- rados mãos inábeis, e sofrem os redutores normais para ataques extras.
+Especial: este talento pode ser adquirido apenas no 1o nível.
+
+Queda Suave
+Suas asas suavizam sua queda.
+Pré-requisito: asas.
+Benefício: você é considerado sempre sob efeito da magia queda suave, mesmo que esteja inconsciente ou morrendo — suas asas impedem a queda, devido a seu formato e reflexos involuntários.
+
+Resistência Alternativa
+Você ignora um tipo de dano diferente do normal.
+Pré-requisito: finntroll.
+Benefício: escolha um tipo de dano de energia (eletricidade, frio ou sônico), exceto fogo ou ácido. Substitua “fogo” ou “ácido” pelo dano escolhido para determinar quais tipos de dano ignoram sua regeneração (causando dano normal).
+Normal: finntroll sofrem dano normal por fogo e ácido.
+
+Resistência Aprimorada
+Você é ainda mais resistente a certo elemento.
+Pré-requisito: qareen.
+Benefício: para meio-gênios da água, ar, fogo e trevas, todas as suas resistências a energia aumentam para 10. Para meio-gênios da terra, sua redução de dano aumenta para 5/ cortante ou perfurante. Para meio-gênios da luz, sua resistência a eletricidade aumenta para 20.
+Normal: meio-gênios da água, ar, fogo e trevas têm resistên- cias 5. Meio-gênios da terra têm redução de dano 3/cortante ou perfurante. Meio-gênios da luz têm resistência a eletricidade 10.
+
+Salvador
+Minotauros Malignos escravizam. Os Bondosos protegem.
+Pré-requisitos: minotauro, tendência Bondosa.
+Benefício: como uma reação, uma vez por rodada, você pode impedir que um aliado adjacente receba um ataque — em vez disso, o ataque é feito contra você. O ataque ainda deve vencer sua CA para causar dano.
+
+Sangue Mágico
+Literalmente, você pode usar seu sangue para conjurar magia.
+Pré-requisitos: qareen ou sprite, Con 15, habilidade de lançar magias sem preparação.
+Benefício: em situações extremas, se esgotar seus pontos de magia, você pode aceitar dano de Constituição e usar esse dano como PM. Por exemplo, você pode sofrer 3 pontos de dano de Constituição para lançar uma bola de fogo. Você se recupera desse dano normalmente.
+
+Sem Medo
+Seu povo não tem medo. Nem juízo.
+Pré-requisito: raça halfling.
+Benefício: você é imune a efeitos de medo.
+
+Telepatia Aquática
+Você comanda as criaturas marinhas.
+Pré-requisitos: elfo-do-mar, habilidade de empatia selvagem.
+Benefício: você pode lançar enfeitiçar animal livremente, mas apenas para animais aquáticos (normalmente qualquer criatura do tipo animal que tenha deslocamento de natação).
+
+Toque de Fogo
+Como a água-viva, seu toque queima.
+Pré-requisitos: raça elfo-do-mar, Agarrar Aprimorado.
+Benefício: quando consegue realizar uma manobra de agarrar, além de prender a vítima, você injeta pela pele um ve- neno paralisante que causa dor intensa. A vítima deve fazer um teste de Fortitude (CD 10 + metade do seu nível + modificador de Constituição). Se falhar, fica enjoada (pode executar apenas uma ação padrão ou de movimento por rodada, não ambas) durante 1d4 rodadas.
+
+Tradição Perdida
+Membros de sua raça sabem conjurar magias de formas dife- rentes das tradições conhecidas, empregando outros atributos para abastecer e aprender magias.
+Pré-requisitos: não humano, classe conjuradora.
+Benefício: escolha qualquer habilidade básica (Força, Destre- za, Constituição, Inteligência, Sabedoria, Carisma). Sua quantida- de de pontos de magia e magias conhecidas são calculadas usando essa habilidade, em vez daquela normalmente exigida pela classe. Exemplo 1: Thorvak é um anão feiticeiro cujo poder não provém de uma personalidade poderosa, e sim de sua resistência pétrea. Ele usa Constituição em vez de Carisma para receber PM e aprender magias. Exemplo 2: graças à dança ancestral praticada pelos membros de sua família, a maga elfa Thilanna sabe realizar gestos e sinais velozes capazes de conjurar magias arcanas. Ela utiliza Destreza em vez de Inteligência para receber PM e aprender magias. Exemplo 3: o minotauro Kardus é um clérigo de Keenn, que rosna e flexiona os músculos poderosos para impressionar o Deus da Guerra e receber sua bênção. Ele utiliza Força em vez de Sabe- doria para receber PM e aprender magias. Testes de resistência contra suas magias, e quaisquer outros cálculos, ainda usam a habilidade-chave original da classe.
+Especial: este talento pode ser adquirido apenas no 1o nível.
+
+Tradição Perdida Aprimorada
+Você dominou completamente sua tradição perdida.
+Pré-requisitos: não humano, classe conjuradora, Tradição Perdida.
+Benefício: sua habilidade básica escolhida afeta também a dificuldade de testes para resistir às suas magias, e quaisquer outros cálculos ligados a uma habilidade.
+
+Veneno Aprimorado
+Seu veneno é mais poderoso.
+Pré-requisitos: medusa, Con 13.
+Benefício: o dano do veneno de suas serpentes aumenta para 2d4 For (1d4 For).
+Normal: o dano do veneno de uma medusa é 1d4 For.
+
+Vigilância Élfica
+Você tem sentidos ainda mais aguçados que os demais elfos.
+Pré-requisito: elfo, elfo-do-céu ou meio-elfo.
+Benefício: na primeira rodada de combate, você tem direito a uma ação de movimento adicional.
+
+Visão Térmica
+Você enxerga o calor.
+Pré-requisito: visão no escuro.
+Benefício: além de enxergar no escuro, você pode distinguir extremos de temperatura — alaranjado brilhante para calor, preto para frio. Itens em temperatura ambiente aparecem em preto e branco, como na visão no escuro normal. Graças a isso você enxerga normalmente seres vivos invisíveis, e recebe +8 em testes de Percepção para enxergar seres vivos no escuro. Não se aplica a mortos-vivos, construtos, seres incorpóreos, seres vivos de sangue frio (nagahs, trogs...) e outras criaturas a critério do mestre.
+
+Vitalidade das Fadas
+Sua energia vital não provém de simples saúde física, mas de sua convicção, atitude positiva e força de personalidade.
+Pré-requisitos: qareen ou sprite, Car 13.
+Benefício: seus pontos de vida adicionais ganhos por nível usam seu modificador de Carisma.
+Normal: pontos de vida adicionais ganhos por nível usam o modificador de Constituição.
+Especial: este talento pode ser adquirido apenas no 1o nível.
+
+Vitória da Coragem
+Você aprendeu a suprimir seu medo racial de altura.
+Pré-requisitos: centauro ou minotauro, Sab 15.
+Benefício: seu redutor por medo de altura cai para –2. Além disso, se você adquire qualquer resistência ou imunidade a medo (como a aura de coragem dos paladinos), ela também se aplica a seu medo de altura.
+Normal: raças com medo de altura sofrem redutor de –4 em jogadas de ataque, testes de resistência e perícias ao subir qualquer altura superior a 3m. Resistências ou imunidades contra medo não funcionam com fobias raciais.
+
+Voo Adicional
+Você pode voar mais.
+Pré-requisitos: qareen, personagem de 5o nível.
+Benefício: você pode lançar a magia voo duas vezes adicionais por dia.
+Normal: um meio-gênio pode lançar voo uma vez por dia.

@@ -1,0 +1,109 @@
+Adaptabilidade
+Na hora de maior necessidade, você lembra como lançar aquela magia que não tinha preparado.
+Pré-requisito: classe mago.
+Benefício: você pode lançar uma magia que não preparou. Você deve perder magias preparadas cujo custo some pelo menos o dobro do custo da magia que quer lançar. Por exemplo, para lançar uma magia de 3 PM, você deve perder magias preparadas que somem pelo menos 6 PM.
+
+Esculpir Magia
+Você pode lançar bolas de fogo quadradas e cones glaciais em linha!
+Custo: +1 PM.
+Benefício: este talento só pode ser aplicado em magias que tenham como área cilindro, cone, esfera, linha, explosão ou quadrado. Você pode trocar a área da magia para um cilindro com 3m de raio, um cone com 9m de comprimento, uma esfera com 6m de raio, uma linha com 30m de comprimento ou um quadrado com 9m de lado.
+
+Expert em Cajado
+Você pode canalizar energia mágica através de seu cajado com grande habilidade.
+Benefício: enquanto você estiver um cajado (mágico ou comum), suas magias com áreas de cone têm alcance dobrado. Além disso, você recebe um bônus de +2 em ataques de toque associados a magias.
+
+Expert em Cetro
+Com um cetro em mãos, você se torna mais majestoso.
+Benefício: enquanto você estiver usando um cetro (mágico ou comum), suas magias de alcance pessoal têm duração dobrada. Além disso, seu nível de personagem conta como dois níveis acima para a quantidade de mortos-vivos que você pode ter sob o seu comando pelas magias de criar mortos-vivos. Se você possuir o talento Liderança, seu nível de personagem também conta como dois níveis acima para calcular seu número de seguidores.
+
+Expert em Orbe
+Você usa uma esfera para amplificar suas magias.
+Benefício: enquanto você estiver usando um orbe ou bola de cristal (mágicos ou comum), suas magias com área de esfera ou explosão tem alcance dobrado e causam +1 ponto de dano.
+
+Expert em Varinha
+Você maneja sua varinha como um maestro rege uma orquestra.
+Benefício: enquanto você estiver usando uma varinha (mágica ou comum), suas magias com área de linha têm seu alcance dobrado. Além disso, você recebe um bônus de +2 em ataques de toque à distância associados a magias.
+Especial: o aumento no alcance não se acumula com aumento de alcance por outros talentos.
+
+Magia Congelante
+Em suas mãos, o frio congela e prende os inimigos.
+Custo: +1 PM.
+Pré-requisito: Substituição Elemental (frio).
+Benefício: você só pode aplicar este talento em magias com o descritor "frio". Uma magia congelante enreda por uma rodada os alvos que falhem no teste de resistência (um alvo enredado tem -2 nas jogadas de ataque, -4 em Destreza, metade do deslocamento e é incapaz de correr ou fazer investidas). Magias sem teste de resistência permitem um teste de Fortitude contra o efeito de enredar.
+
+Magia Corrosiva
+Em suas mãos, o ácido é mais poderoso.
+Custo: +1 PM.
+Pré-requisito: Substituição Elemental (ácido).
+Benefício: você só pode aplicar este talento em magias com o descritor "ácido". Uma magia corrosiva causa dano adicional igual à metade do dano causado, na rodada seguinte à rodada em que foi lançada. Por exemplo, névoa ácida corrosiva causa 2d6 pontos de dano no início de cada turno, mais 1d6 pontos de dano na rodada seguinte. Teste de resistência não se aplicam a este dano secundário.
+
+Magia Duradoura
+Suas magias podem durar o dia inteiro.
+Custo: +6 PM.
+Pré-requisito: Estender Magia
+Benefício: uma magia duradoura tem duração de um dia.
+Especial: magias com duração instantânea, permanente ou concentração não podem ser afetadas por este talento.
+
+Magia Eletrizante
+Suas magias elétricas são capazes de atordoar seus alvos.
+Custo: +1 PM.
+Pré-requisito: Substituição Elemental (eletricidade.
+Benefício: você só pode aplicar este talento em magias com o descritor "eletricidade". Uma magia eletrizante atordoa por uma rodada os alvos que falhem no teste de resistência. Magias sem teste de resistência permitem um teste de Fortitude contra o efeito de atordoamento.
+
+Magia Explosiva
+Em suas mãos, o foto pode gerar explosões poderosas.
+Custo: +1 PM.
+Pré-requisito: Substituição Elemental (fogo).
+Benefício: você só pode aplicar este talento em magias com o descritor "fogo". Uma magia explosiva arremessa alvos que falhem no teste de resistência 3m para trás, deixando-os derrubados. Magias sem teste de resistência permitem um teste de reflexos contra o efeito de arremesso.
+
+Magia Piedosa
+Suas magias pode subjugar seus oponentes sem destruí-los.
+Custo: +0 PM.
+Benefício: uma magia aprimorada com este talento causa dano não-letal em vez de dano normal. O descritor da magia permanece inalterado.
+
+Mágico de Palco
+Você usa sua magia para divertir e impressionar.
+Pré-requisito: capacidade de lançar magias arcanas.
+Benefício: sempre que lançar uma magia arcana, você pode escolher diminuir seu dano, alcance ou duração em um ou mais passos. No caso de dano, cada "passo" equivale a um dado. No caso de alcance, cada passo diminui o alcance pela metade, até o mínimo de 1,5m. No caso de duração, cada passo diminui a duração de 1 dia ou mais para 1 hora, então para 1 minuto, então para 1 rodada (mínimo). Sacrificando esses parâmetros, você cria efeitos mais vistosos e espetaculares. Cada passo diminuído desta forma concede um bônus de +1 em seu próximo teste de perícia baseada em Carisma com qualquer um que tenha visto você lançar a magia. Por exemplo, você lança bola de fogo com dano de 2d6 (-4d6) e alcance de 15m (metade do normal). Na rodada seguinte, faz um teste de Intimidação contra todos aqueles que viram sua bola de fogo modificada, e recebe um bônus de +5 (+4 pelo dano diminuído, +1 pelo alcance diminuído). Obviamente, parâmetros que já estejam no limite mínimo ou que não se apliquem (no caso de magias que não causam dano, têm alcance pessoal ou duração de 1 rodada ou menos) não podem ser diminuídos ainda mais.
+
+Mestre Elemental
+Você é capaz de manipular os elementos facilmente.
+Custo: +0 PM.
+Pré-requisitos: Substituição Elemental (ácido, eletricidade, fogo, frio e sônico).
+Benefício: você pode trocar qualquer descritor elemental por qualquer outro descritor elemental em suas magias. Magos não precisam preparar este talento.
+
+Personalizar Magia
+Suas magias tem um toque pessoal.
+Pré-requisito: capacidade de lançar magias arcanas.
+Benefício: escolha um tema para sua magia, como brilhos rosados, caveiras com chivers ou um padrão em espiral. Todas as suas magias passam a lembrar esse tema em sua aparência, dificultando sua identificação por seus oponentes. A CD para identificar suas magias passa a ser (20 + nível da magia) para magias sendo lançadas, e (25 + nível da magia) para magias já lançadas.
+
+Recursos Recicláveis
+Devido à sua criação pobre, você aprendeu a administrar seus recursos habilmente.
+Pré-requisito: Mago Pobretão.
+Benefício: você diminui para um décimo o custo de todos os componentes materiais de suas magias. Por exemplo, a magia pele rochosa exige pó de diamante no valor de 250 TO. Você pode lançar pele rochosa por apenas 25 TO.
+
+Substituição Elemental
+Você é capaz de manipular as energias elementais de formas específicas.
+Custo: +0 PM.
+Benefício: escolha um descritor elemental, entre ácido, eletricidade, fogo, frio ou sônico. Se você for um feiticeiro, pode trocar o descritor de uma magia que cause dano, para o descritor escolhido a qualquer momento. Se for um mago, pode preparar uma magia que cause dano e trocar o seu descritor para o descritor escolhido. Por exemplo, uma bola de fogo causa 6d6 pontos de dano de fogo. Com Substituição Elemental (ácido), pode tornar-se uma bola de ácido, causando 6d6 pontos de dano de ácido.
+Especial: você pode escolher esse talento várias vezes. A cada vez, ele se aplica a um descritor elemental diferente. Assim, você pode ter Substituição Elemental (ácido), Substituição Elemental (eletricidade), Substituição Elemental (fogo), e assim por diante.
+
+Tese Arcana de Graduação
+Você se formou em um escola de magia e desenvolveu uma pesquisa arcana, criando suas próprias teorias. De acordo com sua tese, você pode alterar algumas características de magias.
+Pré-requisito: mago de 4° nível, estar matriculado em uma guilda ou academia de magia, passar no exame da banca.
+Benefício: uma vez por dia, você pode usar um talento metamágico que voc^çe possua com custo de até +2 PM sem pagar o custo adicional e sem precisar prepará-lo.
+
+Tese Arcana de Mestre
+Você é um estudioso da magia, reconhecido por outros pesquisadores. É capaz de alterar profudamente suas magias.
+Pré-requisito: mago de 8° nível, estar matriculado em uma guilda ou academia de magia, Tese Arcana de Graduação, passar no exame da banca.
+Benefício: uma vez por dia, você pode usar um talento metamágico que você possua sem pagar o custo adicional e sem precisar prepará-lo. Além disso, o prestígio que você adquiriu na comunidade arcana lhe concede um bônus de +2 em testes de Diplomacia com outros magos.
+
+Tese Arcana de Grão-Mestre
+Você é um dos maiores especialistas do mundo na sua área de pesquisa arcana. Conta com o respeito e admiração de outros magos, e pode manipular livremente suas magias.
+Pré-requisito: mago de 12° nível, estar matriculado em uma guilda ou academia de magia, Tese Arcana de Mestre, passar no exame da banca.
+Benefício: uma vez por dia, você pode usar um talento metamágico qualquer (mesmo um que você não possua) sem pagar o custo adicional e sem precisar prepará-lo. Além disso, o prestígio que você adquiriu na comunidade arcana lhe concede um bônus de +4 em teste de Diplomacia com outros magos. Você tem grandes chances de ser convidado para se tornar um professor ou pesquisador arcano financiado por algum reino abastado.
+
+Toque Longínquo
+Suas magias de toque vão além do alcance de seus braços.
+Custo: +1 PM.
+Benefício: este talento só pode ser aplicado em magias de toque. Uma magia de toque longínquo passa a ter alcance de 12m. Você ainda deve fazer um ataque de toque à distância para acertar o alvo.
