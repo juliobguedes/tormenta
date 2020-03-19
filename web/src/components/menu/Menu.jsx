@@ -5,13 +5,15 @@ import './Menu.css';
 
 const featTypes = [
     'Combate', 'Destino', 'Magia', 'Perícia',
-    'Poder Concedido', 'Tormenta', 'Racial', 'Todos',
+    'Poder Concedido', 'Tormenta', 'Racial',
 ];
 
 const Menu = ({ selectType }) => (
     <div className="menu-container">
         <div className="inner-menu">
-            <p>sup</p>
+            {featTypes.map(featName =>
+                <MenuCard menuName={featName} onClick={console.log} />
+            )}
         </div>
     </div>
 );

@@ -1,4 +1,4 @@
-import json, os
+import json, os, unidecode
 
 map_type = {
     'combate': 'Combate',
@@ -31,10 +31,11 @@ map_spec = {
 def load_txts():
     folder = '../talentos/'
     files = os.listdir(folder)
+    files = [f for f in files if 'trilogia' not in f]
     txts = []
 
     for txt in files:
-        print(folder+txt)
+        print(folder + txt)
         with open(folder + txt, 'r') as opened:
             text = ''.join(opened.readlines())
             txts.append((text, txt))
@@ -56,12 +57,18 @@ def parse_txt(pair):
     feats = [parse_feat(feat, bookname, spec) for feat in feats]
     return feats
 
+def regex_name(feat_name):
+    name = feat_name.lower()
+    regex = unidecode.unidecode(name)
+    return regex
+
 def parse_feat(feat, book, spec):
     feat = feat.split('\n')
     feat_obj = {
         'nome': feat[0],
         'livro': book,
-        'tipo': spec
+        'tipo': spec,
+        'nomeRegex': regex_name(feat[0])
     }
 
     start = 1

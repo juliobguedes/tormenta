@@ -34,8 +34,7 @@ const MenuCard = ({ menuName, onClick }) => {
     const color = getColor(selected);
     return (
         <div className="menu-card" onClick={() => click()}>
-            <Icon size={128} className="center" style={color} />
-            <p className="center">{menuName}</p>
+            <Icon className="menu-icon center" style={color} title={menuName} />
         </div>
     );
 };
