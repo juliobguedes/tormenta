@@ -1,5 +1,4 @@
 import express from 'express';
-
 import * as bookService from './bookService';
 
 const router = express.Router();

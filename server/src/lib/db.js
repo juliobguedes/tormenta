@@ -17,6 +17,8 @@ db.on('error', error => {
         const fp = 'Not properly connected with MongoDB.';
         const sp = 'Check if your .env file is correctly filled and if you have the necessary permissions in MongoDB.';
         console.log(`${fp}\n${sp}`);
+    } else {
+        console.log(error);
     };
     process.exit(ERROR_CODE);
 });

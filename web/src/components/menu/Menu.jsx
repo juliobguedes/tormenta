@@ -10,13 +10,8 @@ const featTypes = [
 
 const Menu = ({ selectType }) => (
     <div className="menu-container">
-        <div className="inner-menu center">
-            {/* {featTypes.map(feat => (
-                <MenuCard
-                  menuName={feat}
-                  onClick={(featType) => selectType(featType)}
-                />
-            ))}  */}
+        <div className="inner-menu">
+            <p>sup</p>
         </div>
     </div>
 );

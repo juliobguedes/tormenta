@@ -1,16 +1,13 @@
 .menu-container {
-    padding: 2.5vh 25px;
-    width: 90%;
-    height: 95vh;
+    display: grid;
+    grid-template-columns: 2vw 1fr 2vw;
+    grid-template-rows: 3vh 1fr 3vh;
+    height: 100vh;
 }
 
 .inner-menu {
-    background-color: lightgray;
-    border-radius: 3px;
-    padding: 0 15px;
-    min-height: 100%;
-    
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
+    text-align: center;
+    background-color: #E5E5E5;
+    grid-column: 2;
+    grid-row: 2;
 }

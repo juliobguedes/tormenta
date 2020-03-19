@@ -12,3 +12,9 @@ Esse repositório é uma ferramenta de busca e auxílio à criação e atualiza�
 
 * Esse repositório não é uma ferramenta oficial desenvolvida pela Jambô Editora e, portanto, as informações aqui contidas podem estar desatualizadas ou em desacordo com novas edições dos livros oficiais.
 * Esse repositório não é uma forma de lucro sobre o conteúdo criado pela Jambô Editora ou afiliados.
+
+## Desenvolvimento
+
+O desenvolvimento desta aplicação está sendo feito durante a disciplina de [Princípios de Desenvolvimento Web](https://github.com/matheusgr/devweb/), sob a orientação do professor [Matheus Gaudêncio](https://github.com/matheusgr).
+
+A aplicação está sendo desenvolvida utilizando React como framework para front-end, e NodeJS para o back-end.

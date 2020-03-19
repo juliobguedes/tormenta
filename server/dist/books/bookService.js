@@ -13,26 +13,21 @@ var _asyncToGenerator2 = _interopRequireDefault(require("@babel/runtime/helpers/
 
 var _Book = _interopRequireDefault(require("./Book"));
 
-var getBooks =
-/*#__PURE__*/
-function () {
-  var _ref = (0, _asyncToGenerator2["default"])(
-  /*#__PURE__*/
-  _regenerator["default"].mark(function _callee() {
+var getBooks = /*#__PURE__*/function () {
+  var _ref = (0, _asyncToGenerator2["default"])( /*#__PURE__*/_regenerator["default"].mark(function _callee() {
     var books;
     return _regenerator["default"].wrap(function _callee$(_context) {
       while (1) {
         switch (_context.prev = _context.next) {
           case 0:
-            console.log('getbooks');
-            _context.next = 3;
+            _context.next = 2;
             return _Book["default"].find();
 
-          case 3:
+          case 2:
             books = _context.sent;
             return _context.abrupt("return", books);
 
-          case 5:
+          case 4:
           case "end":
             return _context.stop();
         }

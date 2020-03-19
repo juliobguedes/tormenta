@@ -5,14 +5,12 @@ const featSchema = new Schema({
     nome: String,
     livro: String,
     tipo: String,
-    preRequisito: String,
-    beneficio: String,
-    especial: String,
-    normal: String,
-}, {
-    collection: 'tormenta',
+    preRequisito: { type: String, default: '' },
+    beneficio: { type: String, default: '' },
+    especial: { type: String, default: '' },
+    normal: { type: String, default: '' },
 });
 
-const Feat = db.model('Feat', featSchema, 'tormenta');
+const Feat = db.model('Feat', featSchema, 'Feat');
 
 export default Feat;

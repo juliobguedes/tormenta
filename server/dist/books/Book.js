@@ -14,7 +14,10 @@ var _db = _interopRequireDefault(require("../lib/db"));
 var bookSchema = new _mongoose.Schema({
   nome: String,
   qtdTalentos: Number,
-  talentos: [String]
+  talentos: [{
+    nome: String,
+    id: String
+  }]
 });
 
 var Book = _db["default"].model('Book', bookSchema, 'Book');

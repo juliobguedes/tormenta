@@ -1,0 +1,10 @@
+.screen {
+    display: grid;
+    grid-template-columns: 2vw 1fr 2vw;
+    grid-template-rows: 3vh 1fr 3vh;
+}
+
+.inner-screen {
+    grid-row: 2;
+    grid-column: 2;
+}

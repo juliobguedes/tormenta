@@ -14,7 +14,7 @@ var _dotenv = _interopRequireDefault(require("dotenv"));
 _dotenv["default"].config();
 
 var MONGO_URL = process.env.MONGO_URL;
-var ERROR_CORE = 1;
+var ERROR_CODE = 1;
 
 var db = _mongoose["default"].createConnection(MONGO_URL, {
   useCreateIndex: true,
