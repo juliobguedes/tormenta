@@ -14,8 +14,8 @@ const FeatList = () => {
     return (
         <div className="screen">
             <div className="inner-screen">
-                {feats.map(feat =>
-                    <FeatCard key={feat._id} feat={feat} />
+                {feats.map((feat, i) =>
+                    <FeatCard key={feat._id} colIndex={i} feat={feat} />
                 )}
             </div>
         </div>

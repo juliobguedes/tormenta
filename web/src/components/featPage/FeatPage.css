@@ -1,0 +1,31 @@
+.feat-screen {
+    display: grid;
+    grid-template-columns: 1fr 6fr 1fr;
+    grid-template-rows: 1fr 4fr 1fr;
+}
+
+.feat-icon {
+    grid-row: 1;
+    grid-column: 1;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+.feat-details {
+    grid-row: 2;
+    grid-column: 2;
+}
+
+.feat-go-back {
+    grid-row: 2;
+    grid-column: 2;
+}
+
+.icon {
+    transform: scaleY(-1);
+
+    height: 100%;
+    width: 100%;
+}

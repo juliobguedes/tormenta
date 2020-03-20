@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
+import { GiReturnArrow as ReturnIcon } from 'react-icons/gi';
+
 import axios from '../../lib/axiosInstance';
 
 import './FeatPage.css';
@@ -10,7 +12,6 @@ const FeatPage = ({ match }) => {
 
     useEffect(() => {
         axios.get(`/feat/${featId}`).then(response => {
-            console.log(Object.keys(response.data));
             setFeat(response.data);
         });
     }, []);
@@ -20,16 +21,23 @@ const FeatPage = ({ match }) => {
     }
 
     return (
-        <div>
-            <p>{feat.nome}</p>
-            <p>{feat.livro}</p>
-            <p>{feat.tipo}</p>
-            <p>{feat.descricao}</p>
-            <p>{feat.preRequisito}</p>
-            <p>{feat.custo}</p>
-            <p>{feat.beneficio}</p>
-            <p>{feat.especial}</p>
-            <p>{feat.normal}</p>
+        <div className="feat-screen">
+            <div className="feat-icon">
+                <Link to="/" className="feat-go-back">
+                    <ReturnIcon className="icon" />
+                </Link>
+            </div>
+            <div className="feat-details">
+                <p>{feat.nome}</p>
+                <p>Livro: {feat.livro}</p>
+                <p>Tipo: {feat.tipo}</p>
+                <p>Descrição: {feat.descricao}</p>
+                <p>Pré-requisitos: {feat.preRequisito}</p>
+                <p>Custo: {feat.custo}</p>
+                <p>Benefício: {feat.beneficio}</p>
+                <p>Especial: {feat.especial}</p>
+                <p>Normal: {feat.normal}</p>
+            </div>
         </div>
     )
 };

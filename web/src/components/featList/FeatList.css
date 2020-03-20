@@ -7,4 +7,17 @@
 .inner-screen {
     grid-row: 2;
     grid-column: 2;
+    display: grid;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .inner-screen {
+        grid-template-columns: 1vw 1fr 1vw 1fr 1vw;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+    .inner-screen {
+        grid-template-columns: 1vw 1fr 1vw 1fr 1vw 1fr 1vw;
+    }
 }
