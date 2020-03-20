@@ -5,6 +5,12 @@ const getFeats = async () => {
     return feats;
 };
 
+const getFeatById = async (featId) => {
+    const feat = await Feat.findById(featId);
+    return feat;
+}
+
 export {
     getFeats,
+    getFeatById,
 }

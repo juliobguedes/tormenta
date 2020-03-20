@@ -11,7 +11,8 @@ module.exports = {
     entry: path.join(parentDir, 'src/index.js'),
     output: {
         path: path.resolve(parentDir, 'dist'),
-        filename: 'main.[contentHash].js'
+        filename: 'main.[contentHash].js',
+        publicPath: '/'
     },
     module: {
         rules: [{

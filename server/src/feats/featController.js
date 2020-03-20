@@ -12,6 +12,16 @@ router.get('/', (req, res) => {
     });
 });
 
+router.get('/:id', (req, res) => {
+    const { id: featId } = req.params;
+    featService.getFeatById(featId).then((feat) => {
+        res.status(200).send(feat);
+    }).catch((error) => {
+        const { message } = error;
+        res.status(400).send(message);
+    });
+});
+
 router.get('/health', (req, res) => {
     res.status(200).send({ status: 'Feat Controller is up and running' });
 })
