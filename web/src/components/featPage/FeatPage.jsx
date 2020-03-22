@@ -46,7 +46,7 @@ const FeatPage = ({ match }) => {
                 {feat.especial
                     ? <p>Especial: {feat.especial}</p>
                     : null}
-                {feat.preRequisito
+                {feat.normal
                     ? <p>Normal: {feat.normal}</p>
                     : null}
             </div>
