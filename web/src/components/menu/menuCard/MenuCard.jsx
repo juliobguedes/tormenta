@@ -24,7 +24,7 @@ const mapNameToIcon = {
 };
 
 const getColor = (selected) => ({
-    color: selected ? 'white' : 'black',
+    color: selected ? '#429e9d' : 'black',
 });
 
 const MenuCard = ({ menuName, onClick }) => {

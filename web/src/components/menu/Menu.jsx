@@ -12,7 +12,11 @@ const Menu = ({ selectType }) => (
     <div className="menu-container">
         <div className="inner-menu">
             {featTypes.map(featName =>
-                <MenuCard menuName={featName} onClick={console.log} />
+                <MenuCard
+                  key={featName}
+                  menuName={featName}
+                  onClick={(menuName) => selectType(menuName)}
+                />
             )}
         </div>
     </div>

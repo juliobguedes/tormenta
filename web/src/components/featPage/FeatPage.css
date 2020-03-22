@@ -1,6 +1,6 @@
 .feat-screen {
     display: grid;
-    grid-template-columns: 1fr 6fr 1fr;
+    grid-template-columns: 1fr 4fr 1fr;
     grid-template-rows: 1fr 4fr 1fr;
 }
 
@@ -16,6 +16,7 @@
 .feat-details {
     grid-row: 2;
     grid-column: 2;
+    text-align: justify;
 }
 
 .feat-go-back {
@@ -25,6 +26,8 @@
 
 .icon {
     transform: scaleY(-1);
+    color: black;
+    outline: none;
 
     height: 100%;
     width: 100%;

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {
     BrowserRouter, Switch, Route
 } from 'react-router-dom';
@@ -9,12 +9,19 @@ import Menu from '../menu/Menu';
 
 import './App.css';
 
-const MainPage = () => (
-    <div className="app-screen">
-        <Menu selectType={(featType) => console.log(featType)} />
-        <FeatList />
-    </div>
-);
+const MainPage = () => {
+    const [selected, setSelected] = useState({});
+    const menuClick = (featType) => {
+        selected[featType] = !selected[featType];
+        setSelected({ ...selected});
+    };
+    return (
+        <div className="app-screen">
+            <Menu selectType={(featType) => menuClick(featType)} />
+            <FeatList filters={selected} />
+        </div>
+    );
+};
 
 const App = () => (
     <BrowserRouter>

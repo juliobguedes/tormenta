@@ -5,7 +5,6 @@ import './FeatCard.css';
 
 const getWindow = () => {
     const { innerWidth: width, innerHeight: height } = window;
-    console.log(width, height);
     return { width, height };
 };
 

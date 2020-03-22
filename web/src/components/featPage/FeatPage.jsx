@@ -17,7 +17,11 @@ const FeatPage = ({ match }) => {
     }, []);
 
     if (!feat) {
-        return (<div><p>Loading...</p></div>)
+        return (
+            <div className="feat-screen">
+                <p className="feat-details">Loading...</p>
+            </div>
+        );
     }
 
     return (
@@ -32,11 +36,19 @@ const FeatPage = ({ match }) => {
                 <p>Livro: {feat.livro}</p>
                 <p>Tipo: {feat.tipo}</p>
                 <p>Descrição: {feat.descricao}</p>
-                <p>Pré-requisitos: {feat.preRequisito}</p>
-                <p>Custo: {feat.custo}</p>
+                {feat.preRequisito
+                    ? <p>Pré-requisitos: {feat.preRequisito}</p>
+                    : null}
+                {feat.custo
+                    ? <p>Custo: {feat.custo}</p>
+                    : null}
                 <p>Benefício: {feat.beneficio}</p>
-                <p>Especial: {feat.especial}</p>
-                <p>Normal: {feat.normal}</p>
+                {feat.especial
+                    ? <p>Especial: {feat.especial}</p>
+                    : null}
+                {feat.preRequisito
+                    ? <p>Normal: {feat.normal}</p>
+                    : null}
             </div>
         </div>
     )
