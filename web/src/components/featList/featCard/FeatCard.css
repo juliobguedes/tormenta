@@ -1,22 +1,49 @@
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
+    .feat-card:nth-child(3n-2) {
+        grid-column: 2;
+    }
+
+    .feat-card:nth-child(3n-1) {
+        grid-column: 4;
+    }
+
+    .feat-card:nth-child(3n) {
+        grid-column: 6;
+    }
+
+    .feat-card.sidebar:nth-child(odd) {
+        grid-column: 2;
+    }
+
+    .feat-card.sidebar:nth-child(even) {
+        grid-column: 4;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .feat-card:nth-child(odd) {
+        grid-column: 2;
+    }
+
+    .feat-card:nth-child(even) {
+        grid-column: 4;
+    }
+
+    .feat-card.sidebar:nth-child(n) {
+        grid-column: 2;
+    }
+}
+
 .feat-card {
-    box-shadow: 5px 5px;
+    box-shadow: 4px 4px;
+    margin-bottom: 7px;
+    transition: 0.7s;
+}
+
+.feat-card:hover {
+    box-shadow: 8px 8px;
 }
 
 .feat-descricao {
-    font-size: 12px;
-}
-
-.feat-col-1 {
-    grid-column: 2;
-    margin-bottom: 1vh;
-}
-
-.feat-col-2 {
-    grid-column: 4;
-    margin-bottom: 1vh;
-}
-
-.feat-col-3 {
-    grid-column: 6;
-    margin-bottom: 1vh;
+    font-size: 0.8rem;
 }

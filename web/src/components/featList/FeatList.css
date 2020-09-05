@@ -1,7 +1,29 @@
-.screen {
-    display: grid;
-    grid-template-columns: 2vw 1fr 2vw;
-    grid-template-rows: 3vh 1fr 3vh;
+@media screen and (min-width: 1025px) {
+    .screen {
+        display: grid;
+        grid-template-columns: 2vw 1fr 2vw;
+        grid-template-rows: 3vh 1fr 3vh;
+    }
+    
+    .screen.sidebar {
+        display: grid;
+        grid-template-columns: 2vw 1fr 1vw 0.5fr 1vw;
+        grid-template-rows: 3vh 1fr 3vh;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .screen {
+        display: grid;
+        grid-template-columns: 2vw 1fr 2vw;
+        grid-template-rows: 3vh 1fr 3vh;
+    }
+    
+    .screen.sidebar {
+        display: grid;
+        grid-template-columns: 2vw 1fr 1vw 1fr 1vw;
+        grid-template-rows: 3vh 1fr 3vh;
+    }
 }
 
 .inner-screen {
@@ -10,14 +32,22 @@
     display: grid;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (min-width: 1025px) and (max-width: 1440px) {
     .inner-screen {
+        grid-template-columns: 1vw 1fr 1vw 1fr 1vw 1fr 1vw;
+    }
+
+    .inner-screen.sidebar {
         grid-template-columns: 1vw 1fr 1vw 1fr 1vw;
     }
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1440px) {
+@media screen and (min-width: 769px) and (max-width: 1024px) {
     .inner-screen {
-        grid-template-columns: 1vw 1fr 1vw 1fr 1vw 1fr 1vw;
+        grid-template-columns: 1vw 1fr 1vw 1fr 1vw;
+    }
+
+    .inner-screen.sidebar {
+        grid-template-columns: 1vw 1fr 1vw;
     }
 }
