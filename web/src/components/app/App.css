@@ -7,12 +7,12 @@ body, html {
     font-family: 'Press Start 2P', cursive;
 }
 
-.app-screen {
+.app-main-screen, .app-screen {
     display: grid;
 }
 
 @media screen and (min-width: 425px) and (max-width: 767px) {
-    .app-screen {
+    .app-main-screen {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr;
     }
@@ -20,6 +20,10 @@ body, html {
 
 @media screen and (min-width: 768px) {
     .app-screen {
+        grid-template-rows: 5vh 1fr;
+    }
+
+    .app-main-screen {
         grid-template-columns: 1fr 7fr;
     }
 }
