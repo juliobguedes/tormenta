@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 2vw 1fr 2vw;
     grid-template-rows: 3vh 1fr 3vh;
-    height: 100vh;
+    height: 90vh;
 }
 
 .inner-menu {

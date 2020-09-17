@@ -38,6 +38,7 @@
     box-shadow: 4px 4px;
     margin-bottom: 7px;
     transition: 0.7s;
+    cursor: pointer;
 }
 
 .feat-card:hover {

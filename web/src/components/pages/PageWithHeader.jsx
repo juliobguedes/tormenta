@@ -1,10 +1,10 @@
 import React from 'react';
 import Header from '../header/Header';
 
-const PageWithHeader = ({ children, headerSearch }) => (
+const PageWithHeader = ({ children, headerSearch, className }) => (
     <div className="app-screen">
         <Header headerSearch={headerSearch} />
-        <div className="app-main-screen">
+        <div className={className}>
             {children}
         </div>
     </div>

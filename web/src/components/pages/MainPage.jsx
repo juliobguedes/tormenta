@@ -12,7 +12,7 @@ const MainPage = () => {
         setSelected({ ...selected});
     };
     return (
-        <PageWithHeader headerSearch={(text) => setHeaderText(text)}>
+        <PageWithHeader headerSearch={(text) => setHeaderText(text)} className="app-main-screen">
             <Menu selectType={(featType) => menuClick(featType)} />
             <FeatList filters={selected} headerText={headerText} />
         </PageWithHeader>

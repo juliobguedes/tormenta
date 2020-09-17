@@ -2,7 +2,7 @@ import React from 'react';
 import PageWithHeader from './PageWithHeader';
 
 const AddedFeats = () => (
-    <PageWithHeader>
+    <PageWithHeader className="">
         <p>ADDED FEATS!!!</p>
     </PageWithHeader>
 );
