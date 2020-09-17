@@ -18,3 +18,22 @@ Esse repositório é uma ferramenta de busca e auxílio à criação e atualiza�
 O desenvolvimento desta aplicação está sendo feito durante a disciplina de [Princípios de Desenvolvimento Web](https://github.com/matheusgr/devweb/), sob a orientação do professor [Matheus Gaudêncio](https://github.com/matheusgr).
 
 A aplicação está sendo desenvolvida utilizando React como framework para front-end, e NodeJS para o back-end.
+
+## Funcionalidades
+
+Na página principal, o usuário pode:
+* Usar o menu para buscar talentos, podendo filtrá-los:
+    * pelo seu tipo, entre talentos de Combate, de Magia, etc
+    * pelo livro em que o talento foi publicado
+    * pelo nome do talento, através do campo de busca na navbar
+* Selecionar um talento e adicioná-lo à sidebar, onde é possível ver seus detalhes
+* Adicionar um talento da sidebar aos talentos de um personagem, ou remover o talento da sidebar
+
+Na página de talentos salvos, o usuário pode:
+* Ver os personagens criados
+* Escolher um personagem ativo
+* Dar nome a um personagem
+* Salvar o personagem, gerando uma hash, caso ainda não possua
+* Usar a hash gerada para adicionar o personagem em outro dispositivo
+
+Algumas das funcionalidades acima ainda serão implementadas, de acordo com as issues existentes neste repositório.
