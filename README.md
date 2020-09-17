@@ -1,5 +1,8 @@
 # Tormenta
 
+* [Acesse o site](https://juliobguedes.dev/tormenta)
+* [Acesse o servidor](http://tormenta-pwa.herokuapp.com/)
+
 [Tormenta](https://tormentarpg.com.br/) é um jogo de RPG de mesa desenvolvido pela [Jambô Editora](https://jamboeditora.com.br/) baseado em D&D3.5, permitido sob a Open Game License. No cenário de RPGs de mesa brasileiro, Tormenta cresceu bastante ao longo dos anos, gerando uma grande coleção de livros-jogo, e até mesmo romances baseados no cenário de Tormenta.
 
 Ao longo dos anos o interesse em buscar talentos e magias nos livros, enquanto pondera se são adequados aos personagens, tem se tornado desinteressante e demorado, principalmente durante uma sessão de jogo ou se os jogadores são iniciantes. Dessa forma, assim como a [busca por magias](https://juliobguedes.codes/TormentaSpellbook/#!/spells) pôde ser facilitada por um filtro de busca avançado, é interessante que a busca por talentos também seja.
@@ -17,7 +20,7 @@ Esse repositório é uma ferramenta de busca e auxílio à criação e atualiza�
 
 O desenvolvimento desta aplicação está sendo feito durante a disciplina de [Princípios de Desenvolvimento Web](https://github.com/matheusgr/devweb/), sob a orientação do professor [Matheus Gaudêncio](https://github.com/matheusgr).
 
-A aplicação está sendo desenvolvida utilizando React como framework para front-end, e NodeJS para o back-end.
+A aplicação está sendo desenvolvida utilizando React como framework para front-end, e NodeJS para o back-end. O arquivo [CONTRIBUTING](./CONTRIBUTING.md) contém as instruções de como executar o projeto em modo de desenvolvimento ou fazer builds.
 
 ## Funcionalidades
 
