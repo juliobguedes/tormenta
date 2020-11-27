@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
         res.status(200).send(feats);
     }).catch((error) => {
         const { message } = error;
-        res.status(400).send(message);
+        res.status(400).send({ message });
     });
 });
 
@@ -21,7 +21,7 @@ router.get('/:id', (req, res) => {
         res.status(200).send(feat);
     }).catch((error) => {
         const { message } = error;
-        res.status(400).send(message);
+        res.status(400).send({ message });
     });
 });
 
