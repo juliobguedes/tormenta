@@ -28,6 +28,8 @@ db.on('error', function (error) {
     var fp = 'Not properly connected with MongoDB.';
     var sp = 'Check if your .env file is correctly filled and if you have the necessary permissions in MongoDB.';
     console.log("".concat(fp, "\n").concat(sp));
+  } else {
+    console.log(error);
   }
 
   ;

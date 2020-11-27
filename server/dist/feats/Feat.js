@@ -15,15 +15,25 @@ var featSchema = new _mongoose.Schema({
   nome: String,
   livro: String,
   tipo: String,
-  preRequisito: String,
-  beneficio: String,
-  especial: String,
-  normal: String
-}, {
-  collection: 'tormenta'
+  preRequisito: {
+    type: String,
+    "default": ''
+  },
+  beneficio: {
+    type: String,
+    "default": ''
+  },
+  especial: {
+    type: String,
+    "default": ''
+  },
+  normal: {
+    type: String,
+    "default": ''
+  }
 });
 
-var Feat = _db["default"].model('Feat', featSchema, 'tormenta');
+var Feat = _db["default"].model('Feat', featSchema, 'Feat');
 
 var _default = Feat;
 exports["default"] = _default;
