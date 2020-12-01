@@ -45,6 +45,23 @@
     box-shadow: 8px 8px;
 }
 
+.expanded-name {
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr;
+}
+
+.expanded-name > p.btn {
+    text-align: center;
+}
+
+.expanded-name > p.btn:hover {
+    color: rgba(128, 128, 128, 0.7);
+}
+
+.bigger-plus {
+    font-size: large;
+}
+
 .feat-descricao {
     font-size: 0.8rem;
 }

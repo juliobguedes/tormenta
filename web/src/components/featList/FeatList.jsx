@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from '../../lib/axiosInstance';
+import FeatContext from './FeatContext';
 import FeatCard from './featCard/FeatCard';
 import Sidebar from '../sidebar/Sidebar';
 
@@ -42,21 +43,33 @@ const FeatList = ({ filters, headerText }) => {
     };
 
     const shownFeats = featFilter(filters, feats, headerText);
-    const classSidebar = `screen${sidebarFeats.length !== 0 ? ' sidebar' : ''}`;
+    const hasSidebar = sidebarFeats.length !== 0;
+    const classSidebar = `screen${hasSidebar ? ' sidebar' : ''}`;
     return (
-        <div className={classSidebar}>
-            <div className={`inner-${classSidebar}`}>
-                {shownFeats.map((feat, i) =>
-                    <FeatCard
-                      key={feat._id}
-                      feat={feat}
-                      sidebarShown={sidebarFeats.length !== 0}
-                      onClick={() => updateSidebar(feat)}
-                    />
-                )}
+        <FeatContext.Provider value={{ sidebarFeats, updateSidebar }}>
+            <div className={classSidebar}>
+                <div className={`inner-${classSidebar}`}>
+                    {shownFeats.map((feat) =>
+                        <FeatCard
+                          key={feat._id}
+                          feat={feat}
+                          inSidebar={false}
+                          hasSidebar={hasSidebar}
+                        />
+                    )}
+                </div>
+                <Sidebar sidebarVisible={hasSidebar}>
+                    {sidebarFeats.map(f => 
+                        <FeatCard
+                          key={f._id}
+                          feat={f}
+                          inSidebar={true}
+                          hasSidebar={true}
+                        />
+                    )}
+                </Sidebar>
             </div>
-            <Sidebar selectedFeats={sidebarFeats} />
-        </div>
+        </FeatContext.Provider>
     );
 };
 

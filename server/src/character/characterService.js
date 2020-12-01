@@ -18,6 +18,7 @@ const updateCharacter = async (hash, character) => {
 };
 
 const createCharacter = async (character) => {
+    console.log(character);
     const hash = await HashService.createHash();
     const charObj = { ...character, hash: hash.hash };
     const char = await Character.create(charObj);

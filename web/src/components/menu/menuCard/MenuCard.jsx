@@ -33,8 +33,11 @@ const MenuCard = ({ menuName, onClick }) => {
     const Icon = mapNameToIcon[menuName];
     const color = getColor(selected);
     return (
-        <div className="menu-card" onClick={() => click()}>
-            <Icon className="menu-icon center" style={color} title={menuName} />
+        <div className="menu-card center" onClick={() => click()}>
+            <div className="menu-card-icon">
+                <Icon className="menu-icon center" style={color} title={menuName} />
+            </div>
+            <p>{menuName}</p>
         </div>
     );
 };

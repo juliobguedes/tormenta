@@ -1,0 +1,21 @@
+.characters-page {
+    display: grid;
+    grid-template-columns: 2vw 1fr 1vw 0.5fr 1vw;
+    grid-template-rows: 2vh 1fr 2vh;
+}
+
+.characters-content {
+    grid-row: 2;
+    grid-column: 2;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 22vh 1fr;
+}
+
+.characters-header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2fr 2fr 1fr;
+}
+
+

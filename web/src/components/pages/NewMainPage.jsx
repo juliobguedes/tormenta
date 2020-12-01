@@ -4,7 +4,7 @@ import PageWithHeader from './PageWithHeader';
 import FeatList from '../featList/FeatList';
 import Menu from '../menu/Menu';
 
-const MainPage = () => {
+const NewMainPage = () => {
     const [selected, setSelected] = useState({});
     const [headerText, setHeaderText] = useState('');
     const menuClick = (featType) => {
@@ -12,11 +12,11 @@ const MainPage = () => {
         setSelected({ ...selected});
     };
     return (
-        <PageWithHeader headerSearch={(text) => setHeaderText(text)} className="app-main-screen">
+        <PageWithHeader headerSearch={(text) => setHeaderText(text)} className="app-main-screen-new">
             <Menu selectType={(featType) => menuClick(featType)} />
             <FeatList filters={selected} headerText={headerText} />
         </PageWithHeader>
     );
 };
 
-export default MainPage;
+export default NewMainPage;

@@ -1,0 +1,26 @@
+.tormenta-btn {
+    background-color: white;
+    border-color: black;
+    border-width: 4px 4px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: large;
+    height: 100%;
+    cursor: pointer;
+}
+.tormenta-btn-90 {
+    width: 90%;
+}
+
+.tormenta-btn-100 {
+    width: 100%;
+}
+
+.tormenta-btn:focus {
+    outline: none;
+}
+
+.tormenta-btn:active {
+    background-color: white;
+    border-color: black;
+    box-shadow: 4px 4px;
+}

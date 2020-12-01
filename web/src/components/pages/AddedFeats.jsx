@@ -1,9 +1,10 @@
 import React from 'react';
 import PageWithHeader from './PageWithHeader';
+import CharactersPage from '../charactersPage/CharactersPage';
 
 const AddedFeats = () => (
     <PageWithHeader className="">
-        <p>ADDED FEATS!!!</p>
+        <CharactersPage />
     </PageWithHeader>
 );
 

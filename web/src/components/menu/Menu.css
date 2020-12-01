@@ -1,14 +1,16 @@
 .menu-container {
+    max-height: 10vh;
+    grid-row: 1;
     display: grid;
     grid-template-columns: 2vw 1fr 2vw;
-    grid-template-rows: 3vh 1fr 3vh;
-    height: 90vh;
+    grid-template-rows: 1.5vh 1fr 1.5vh;
 }
 
 .inner-menu {
+    max-height: 10vh;
     text-align: center;
-    background-color: #E5E5E5;
     grid-column: 2;
     grid-row: 2;
     display: grid;
+    grid-template-columns: repeat(7, 1fr);
 }
