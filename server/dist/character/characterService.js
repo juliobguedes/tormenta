@@ -17,6 +17,8 @@ var _asyncToGenerator2 = _interopRequireDefault(require("@babel/runtime/helpers/
 
 var HashService = _interopRequireWildcard(require("../hash/HashService"));
 
+var FeatService = _interopRequireWildcard(require("../feats/featService"));
+
 var _Character = _interopRequireDefault(require("./Character"));
 
 var _util = require("../lib/util");
@@ -27,7 +29,7 @@ function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { va
 
 var getCharacter = /*#__PURE__*/function () {
   var _ref = (0, _asyncToGenerator2["default"])( /*#__PURE__*/_regenerator["default"].mark(function _callee(hash, cache) {
-    var _char;
+    var _char, foundChar;
 
     return _regenerator["default"].wrap(function _callee$(_context) {
       while (1) {
@@ -49,9 +51,15 @@ var getCharacter = /*#__PURE__*/function () {
           case 4:
             _char = _context.sent;
             (0, _util.checkNotFound)(_char, 'Character');
-            return _context.abrupt("return", _char[0]);
+            foundChar = _char[0].toJSON();
+            _context.next = 9;
+            return FeatService.getFeatsById(foundChar.talentosAdicionados);
 
-          case 7:
+          case 9:
+            foundChar.talentosAdicionados = _context.sent;
+            return _context.abrupt("return", foundChar);
+
+          case 11:
           case "end":
             return _context.stop();
         }
@@ -106,22 +114,23 @@ var createCharacter = /*#__PURE__*/function () {
       while (1) {
         switch (_context3.prev = _context3.next) {
           case 0:
-            _context3.next = 2;
+            console.log(character);
+            _context3.next = 3;
             return HashService.createHash();
 
-          case 2:
+          case 3:
             hash = _context3.sent;
             charObj = _objectSpread(_objectSpread({}, character), {}, {
               hash: hash.hash
             });
-            _context3.next = 6;
+            _context3.next = 7;
             return _Character["default"].create(charObj);
 
-          case 6:
+          case 7:
             _char2 = _context3.sent;
             return _context3.abrupt("return", _char2);
 
-          case 8:
+          case 9:
           case "end":
             return _context3.stop();
         }

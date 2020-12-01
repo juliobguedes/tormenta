@@ -18,8 +18,8 @@ const MinifiedCard = ({ classSidebar, feat, clickEvent }) => (
 );
 
 const isAdded = (feat, currentChar) => {
-    const upd = currentChar.feats.filter(f => f._id !== feat._id);
-    if (upd.length === currentChar.feats.length) {
+    const upd = currentChar.talentosAdicionados.filter(f => f._id !== feat._id);
+    if (upd.length === currentChar.talentosAdicionados.length) {
         return false;
     }
     return true;
@@ -37,9 +37,9 @@ const expandedClick = (feat, updateFn, ev, add = false) => {
     if (add) {
         const currentChar = JSON.parse(localStorage.getItem('currentChar'));
         if (isAdded(feat, currentChar)) {
-            currentChar.feats = currentChar.feats.filter(f => f._id !== feat._id);
+            currentChar.talentosAdicionados = currentChar.talentosAdicionados.filter(f => f._id !== feat._id);
         } else {
-            currentChar.feats.push(feat);
+            currentChar.talentosAdicionados.push(feat);
         }
         localStorage.setItem('currentChar', JSON.stringify(currentChar));
     }

@@ -15,12 +15,10 @@ const CharactersPage = () => {
 
     useEffect(() => {
         const char = JSON.parse(localStorage.getItem('currentChar'));
-        if (char.nome) {
-            setCharNome(char.nome);
-        }
-        console.log('CHAR', char);
-        setCurrentChar(char);
+        
+        if (char.nome) setCharNome(char.nome);
         const chars = JSON.parse(localStorage.getItem('characters'));
+        setCurrentChar(char);
         setCharacters(chars);
     }, []);
 
@@ -30,8 +28,8 @@ const CharactersPage = () => {
             setCurrentChar(res.data);
         }).catch(err => {
             console.log(err);
-        })
-    }
+        });
+    };
 
     const removeFeat = (feat) => {
         const feats = currentChar.talentosAdicionados.filter(f => f._id !== feat._id);
@@ -45,9 +43,9 @@ const CharactersPage = () => {
             axiosInstance.put(`/character/${currentChar.hash}`, char).then(res => {
                 const { data } = res;
                 setCharNome(data.nome);
-                setCurrentChar(data);
-                
-                localStorage.setItem('currentChar', JSON.stringify(data));
+                const newChar = { ...data, talentosAdicionados: currentChar.talentosAdicionados };
+                localStorage.setItem('currentChar', JSON.stringify(newChar));
+                setCurrentChar(newChar);
             }).catch(err => {
                 console.log(err);
             });
@@ -55,17 +53,18 @@ const CharactersPage = () => {
             axiosInstance.post(`/character`, char).then(res => {
                 const { data } = res;
                 const updatedCharacters = characters;
-                updatedCharacters.push(data);
+                const newChar = { ...data, talentosAdicionados: currentChar.talentosAdicionados }
+                updatedCharacters.push(newChar);
                 setCharNome(data.nome);
-                setCurrentChar(data);
+                setCurrentChar(newChar);
                 setCharacters(updatedCharacters);
-                localStorage.setItem('currentChar', JSON.stringify(data));
+                localStorage.setItem('currentChar', JSON.stringify(newChar));
                 localStorage.setItem('characters', JSON.stringify(updatedCharacters));
             }).catch(err => {
                 console.log(err);
             });
         }
-    }
+    };
 
     const updateNome = (ev) => { setCharNome(ev.target.value); };
 
@@ -93,7 +92,7 @@ const CharactersPage = () => {
                     <FeatContext.Provider value={{ sidebarFeats: currentChar.talentosAdicionados, updateSidebar: removeFeat }}>
                         {currentChar ? currentChar.talentosAdicionados.map(feat => (
                             <FeatCard
-                              key={feat._id}
+                              key={feat._id || feat}
                               feat={feat}
                               inSidebar={true}
                               hasSidebar={true}

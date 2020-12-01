@@ -5,7 +5,7 @@ var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefau
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.getFeatById = exports.getFeats = void 0;
+exports.getFeatsById = exports.getFeatById = exports.getFeats = void 0;
 
 var _regenerator = _interopRequireDefault(require("@babel/runtime/regenerator"));
 
@@ -88,4 +88,37 @@ var getFeatById = /*#__PURE__*/function () {
 }();
 
 exports.getFeatById = getFeatById;
+
+var getFeatsById = /*#__PURE__*/function () {
+  var _ref3 = (0, _asyncToGenerator2["default"])( /*#__PURE__*/_regenerator["default"].mark(function _callee3(featIds) {
+    var feats;
+    return _regenerator["default"].wrap(function _callee3$(_context3) {
+      while (1) {
+        switch (_context3.prev = _context3.next) {
+          case 0:
+            _context3.next = 2;
+            return _Feat["default"].find({
+              _id: {
+                $in: featIds
+              }
+            });
+
+          case 2:
+            feats = _context3.sent;
+            return _context3.abrupt("return", feats);
+
+          case 4:
+          case "end":
+            return _context3.stop();
+        }
+      }
+    }, _callee3);
+  }));
+
+  return function getFeatsById(_x4) {
+    return _ref3.apply(this, arguments);
+  };
+}();
+
+exports.getFeatsById = getFeatsById;
 //# sourceMappingURL=featService.js.map

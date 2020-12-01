@@ -47,6 +47,8 @@ router.put('/:hash', function (req, res) {
 router.post('/', function (req, res) {
   var character = req.body;
   characterService.createCharacter(character).then(function (_char3) {
+    console.log('hey');
+
     _memoryCache["default"].put(_char3.hash, _char3);
 
     res.status(201).send(_char3);
