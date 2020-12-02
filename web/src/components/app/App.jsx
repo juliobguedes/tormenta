@@ -46,9 +46,9 @@ const App = () => {
         }}>
             <BrowserRouter>
                 <Switch>
-                    <Route path="/feat/:featId" children={<FeatPage />} />
-                    <Route path="/added" children={<AddedFeats />} />
-                    <Route path='/' children={<NewMainPage />} />
+                    <Route path="/feat/:featId" exact render={() => <FeatPage />} />
+                    <Route path="/added" exact render={() => <AddedFeats />} />
+                    <Route path='/' exact render={() => <NewMainPage />} />
                 </Switch>
             </BrowserRouter>
         </AppContext.Provider>
