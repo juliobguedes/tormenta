@@ -30,7 +30,6 @@ router.put('/:hash', (req, res) => {
 router.post('/', (req, res) => {
     const { body: character } = req;
     characterService.createCharacter(character).then((char) => {
-        console.log('hey');
         cache.put(char.hash, char);
         res.status(201).send(char);
     }).catch((err) => {
