@@ -44,14 +44,12 @@ const App = () => {
         <AppContext.Provider value={{
             currentChar, updateCurrent, addChar, characters, updateChars,
         }}>
-            <BrowserRouter>
-                <Switch>
-                    <Route path="/feat/:featId" exact render={() => <FeatPage />} />
-                    <Route path="/added" exact render={() => <AddedFeats />} />
-                    <Route path='/' exact render={() => <NewMainPage />} />
-                    <Route component={() => <h1>NOT FOUND</h1>} />
-                </Switch>
-            </BrowserRouter>
+            <Switch>
+                <Route path="/feat/:featId" exact render={() => <FeatPage />} />
+                <Route path="/added" exact render={() => <AddedFeats />} />
+                <Route path='/' exact render={() => <NewMainPage />} />
+                <Route component={() => <h1>NOT FOUND</h1>} />
+            </Switch>
         </AppContext.Provider>
     );
 };

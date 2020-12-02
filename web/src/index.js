@@ -1,13 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 import App from './components/app/App';
 
-console.log('V1');
+console.log('V1', process.env);
 
 ReactDOM.render(
-    <BrowserRouter basename="/tormenta">
+    <HashRouter>
         <App />
-    </BrowserRouter>,
+    </HashRouter>,
     document.getElementById('root')
 );
