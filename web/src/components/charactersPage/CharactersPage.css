@@ -18,4 +18,9 @@
     grid-template-rows: 2fr 2fr 1fr;
 }
 
+.characters-btns { 
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
 

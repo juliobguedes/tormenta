@@ -10,17 +10,20 @@ import axiosInstance from '../../lib/axiosInstance';
 import './CharactersPage.css';
 
 const CharactersPage = ({
-    currentChar, updateCurrent, addChar, characters, updateChars,
+    currentChar, updateCurrent, updateNome,
+    addChar, characters, updateChars,
 }) => {
-    const [charNome, setCharNome] = useState(currentChar.nome || '');
 
     const loadChar = (hash) => {
         axiosInstance.get(`/character/${hash}`).then(({ data }) => {
             addChar(data);
-            setCharNome(data.nome);
         }).catch(err => {
             console.log(err);
         });
+    };
+
+    const createChar = () => {
+        updateCurrent({ talentosAdicionados: [] });
     };
 
     const removeFeat = (feat) => {
@@ -30,11 +33,10 @@ const CharactersPage = ({
     };
 
     const saveUpdate = () => {
-        const char = { ...currentChar, nome: charNome, talentosAdicionados: currentChar.talentosAdicionados.map(f => f._id) }
+        const char = { ...currentChar, talentosAdicionados: currentChar.talentosAdicionados.map(f => f._id) }
         console.log(char);
         if (currentChar.hash) {
             axiosInstance.put(`/character/${currentChar.hash}`, char).then(({ data }) => {
-                setCharNome(data.nome);
                 const newChar = { ...data, talentosAdicionados: currentChar.talentosAdicionados };
                 updateCurrent(newChar);
                 addChar(newChar);
@@ -44,7 +46,6 @@ const CharactersPage = ({
         } else {
             axiosInstance.post(`/character`, char).then(({ data }) => {
                 const newChar = { ...data, talentosAdicionados: currentChar.talentosAdicionados }
-                setCharNome(data.nome);
                 addChar(newChar)
                 updateCurrent(newChar);
             }).catch(err => {
@@ -53,7 +54,7 @@ const CharactersPage = ({
         }
     };
 
-    const updateNome = (ev) => { setCharNome(ev.target.value); };
+    console.log('RENDER CHAR PAGE', currentChar.nome);
 
     return (
         <div className="characters-page">
@@ -66,13 +67,18 @@ const CharactersPage = ({
                     </p>
                     <Input
                       placeholder="Personagem em Rascunho"
-                      value={charNome}
+                      value={currentChar.nome}
                       update={updateNome}
                       width="90"
                     />
-                    <Button click={saveUpdate} width="100">
-                        {currentChar.hash ? `Salvar - ${currentChar.hash}` : "Criar"}
-                    </Button>
+                    <div className="characters-btns">
+                        <Button click={saveUpdate} width="90">
+                            {currentChar.hash ? `Salvar - ${currentChar.hash}` : "Criar"}
+                        </Button>
+                        <Button click={createChar} width="100">
+                            Resetar
+                        </Button>
+                    </div>
                     <h3>Talentos:</h3>
                 </div>
                 <div>

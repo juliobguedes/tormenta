@@ -11,7 +11,6 @@ import AppContext from './AppContext';
 import './App.css';
 
 const App = () => {
-    localStorage.clear();
     const [currentChar, setCurrent] = useState({ talentosAdicionados: [] });
     const [characters, setCharacters] = useState([]);
 
@@ -24,9 +23,10 @@ const App = () => {
 
     const addChar = (newChar) => {
         const charExists = characters.map(c => c._id).includes(newChar._id);
-        if (charExists) return;
-        const updated = [ ...characters, newChar];
-        updateChars(updated);
+        if (!charExists) {
+            const updated = [ ...characters, newChar];
+            updateChars(updated);
+        }
         updateCurrent(newChar);
     };
 
@@ -35,14 +35,22 @@ const App = () => {
         setCurrent(updated);
     };
 
+    const updateNome = (newName) => {
+        const char = { ...currentChar, nome: newName };
+        updateCurrent(char);
+    };
+
     const updateChars = (updated) => {
         localStorage.setItem('characters', JSON.stringify(updated));
         setCharacters(updated);
     };
+
+    console.log('RENDER APP', currentChar.nome);
     
     return (
         <AppContext.Provider value={{
-            currentChar, updateCurrent, addChar, characters, updateChars,
+            currentChar, updateCurrent, updateNome,
+            addChar, characters, updateChars,
         }}>
             <Switch>
                 <Route path="/feat/:featId" exact render={() => <FeatPage />} />

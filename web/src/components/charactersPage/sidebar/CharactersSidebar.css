@@ -1,8 +1,5 @@
 .characters-sidebar {
     box-shadow: 4px 4px 4px 4px;
-    max-height: 90vh;
-    display: grid;
-    grid-template-rows: 1fr 1fr auto;
 }
 
 .characters-sidebar-input {
@@ -18,7 +15,7 @@
 .sidebar-content {
     padding-left: 0.5rem;
     display: grid;
-    grid-template-rows: 1fr 1fr 4fr;
+    grid-template-rows: 10vh 12vh auto;
 }
 
 .sidebar-content > input {
@@ -28,4 +25,5 @@
 .sidebar-char {
     display: grid;
     grid-template-columns: 3fr 1fr;
+    cursor: pointer;
 }
