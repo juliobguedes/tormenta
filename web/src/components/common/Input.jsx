@@ -8,7 +8,7 @@ const Input = ({ placeholder, update, value, width }) => (
       onChange={(ev) => update(ev)}
       placeholder={placeholder}
       type="text"
-      value={value}
+      defaultValue={value}
     />
 );
 

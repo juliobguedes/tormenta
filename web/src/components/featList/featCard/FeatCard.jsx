@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
 import { Link } from 'react-router-dom';
+import AppContext from '../../app/AppContext';
 import FeatContext from '../FeatContext';
 
 import './FeatCard.css';
@@ -25,54 +26,61 @@ const isAdded = (feat, currentChar) => {
     return true;
 }
 
-const getIcon = (feat) => {
-    const currentChar = JSON.parse(localStorage.getItem('currentChar'));
+const getIcon = (feat, currentChar) => {
     if (isAdded(feat, currentChar)) {
         return '-';
     }
     return '+';
 }
 
-const expandedClick = (feat, updateFn, ev, add = false) => {
+const expandedClick = (feat, updateFn, ev, currentChar, updateCurrent, add = false) => {
     if (add) {
-        const currentChar = JSON.parse(localStorage.getItem('currentChar'));
         if (isAdded(feat, currentChar)) {
             currentChar.talentosAdicionados = currentChar.talentosAdicionados.filter(f => f._id !== feat._id);
         } else {
             currentChar.talentosAdicionados.push(feat);
         }
-        localStorage.setItem('currentChar', JSON.stringify(currentChar));
+        updateCurrent(currentChar);
     }
     updateFn(feat);
     ev.stopPropagation();
 };
 
-const ExpandedCard = ({ classSidebar, feat, expand }) => (
-    <FeatContext.Consumer>
-        {({ updateSidebar }) => (
-            <div className={classSidebar} onClick={() => expand()}>
-                <span className="regular-text feat-link">
-                    <span className="expanded-name">
-                        <p>{feat.nome}</p>
-                        <p className="btn" onClick={(ev) => expandedClick(feat, updateSidebar, ev)}>x</p>
-                        <p
-                          className="btn bigger-plus"
-                          onClick={(ev) => expandedClick(feat, updateSidebar, ev, true)}
-                        >
-                            {getIcon(feat)}
-                        </p>
+const ExpandedCard = ({ classSidebar, feat, expand }) => {
+    const appContext = useContext(AppContext);
+    const { currentChar, updateCurrent } = appContext;
+    return (
+        <FeatContext.Consumer>
+            {({ updateSidebar }) => (
+                <div className={classSidebar} onClick={() => expand()}>
+                    <span className="regular-text feat-link">
+                        <span className="expanded-name">
+                            <p>{feat.nome}</p>
+                            <p
+                              className="btn"
+                              onClick={(ev) => expandedClick(feat, updateSidebar, ev, currentChar, updateCurrent)}
+                            >
+                                x
+                            </p>
+                            <p
+                              className="btn bigger-plus"
+                              onClick={(ev) => expandedClick(feat, updateSidebar, ev, currentChar, updateCurrent, true)}
+                            >
+                                {getIcon(feat, currentChar)}
+                            </p>
+                        </span>
+                        <p className="feat-descricao">Descrição: {feat.descricao}</p>
+                        {feat.preRequisito ? <p className="feat-descricao">Pré-requisitos: {feat.preRequisito}</p> : null}
+                        {feat.custo ? <p className="feat-descricao">Custo: {feat.custo}</p> : null}
+                        <p className="feat-descricao">Benefício: {feat.beneficio}</p>
+                        {feat.normal ? <p className="feat-descricao">Normal: {feat.normal}</p> : null}
+                        {feat.especial ? <p className="feat-descricao">Especial: {feat.especial}</p> : null}
                     </span>
-                    <p className="feat-descricao">Descrição: {feat.descricao}</p>
-                    {feat.preRequisito ? <p className="feat-descricao">Pré-requisitos: {feat.preRequisito}</p> : null}
-                    {feat.custo ? <p className="feat-descricao">Custo: {feat.custo}</p> : null}
-                    <p className="feat-descricao">Benefício: {feat.beneficio}</p>
-                    {feat.normal ? <p className="feat-descricao">Normal: {feat.normal}</p> : null}
-                    {feat.especial ? <p className="feat-descricao">Especial: {feat.especial}</p> : null}
-                </span>
-            </div>
-        )}
-    </FeatContext.Consumer>
-);
+                </div>
+            )}
+        </FeatContext.Consumer>
+    );
+};
 
 const ExpandableCard = ({ classSidebar, feat }) => {
     const [expanded, setExpanded] = useState(false);

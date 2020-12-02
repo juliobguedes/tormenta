@@ -9,7 +9,6 @@ const Header = ({ headerSearch }) => {
         const text = event.target.value;
         headerSearch(text);
         setSearchText(text);
-        console.log(text);
     }
     return (
         <header className="navbar">
